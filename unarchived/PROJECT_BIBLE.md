@@ -108,6 +108,9 @@ On solid charcoal black (#141414): the Fortune Coin emblem described above sits 
 The Fortune Coin is generated **once**, and that exact image is reused everywhere (profile picture, banner, watermark, thumbnails, sting, checklist). Never let an AI tool redraw the coin inside another image. AI tools also misspell text, so the wordmark and tagline are always typed in Canva or Photoshop, never generated.
 **Build the banner in 3 layers:** (1) generate the background with the prompt below (no coin, no text) → (2) place the final logo coin PNG in the center → (3) type the wordmark and tagline (Cormorant Garamond, Special Elite).
 
+**✅ COIN LOCKED (Oct 20 2026):** the Lady Fortune coin from banner draft v1 (Fortuna on a spoked wheel, "FORTUNE" on the rim, $ on both sides, left half gold, right half dark silver, diagonal crack). Cut out exactly from the banner, not regenerated. Files: `unarchived/brand/coin_profile_800.png` (profile picture), `coin_transparent_800.png` (overlays, sting, thumbnails), `coin_watermark_150.png` (watermark), `banner_draft_v1.webp`. Passes the 48-px test. For larger uses (sting, print), upscale this exact file (Upscayl or Canva), never regenerate it.
+⚠️ **Banner draft v1 is 1983×793 (2.5:1), not YouTube's 2560×1440 (16:9).** Rebuild it at 2560×1440 with the coin beside the wordmark (not above it), so everything fits inside the central 1546×423 safe area that phones show.
+
 **Where each logo goes:** profile picture and watermark = **coin only** (no text; it shows as small as 24–48 px and the channel name sits beside it anyway). Banner, end screens, checklist PDF, sting and channel trailer = **coin + wordmark lockup**.
 **48-pixel test before locking the coin:** shrink it to 48 px. You must still see a half-gold, half-shadow split and the crack. If it reads as a plain gold circle, raise the split's contrast and thicken the crack and spokes. It must never look like a crypto token (no ₿, no circuit lines, no bright glow).
 
