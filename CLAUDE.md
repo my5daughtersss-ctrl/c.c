@@ -3,8 +3,9 @@
 This repo is the **permanent backup** for my YouTube channel project. Chat sessions can vanish, but this repo does not. Follow these rules in every session.
 
 ## At the start of every session
-1. Read `unarchived/PROJECT_BIBLE.md` before doing anything else. It holds every decision made so far.
-2. Check its roadmap (section 9) and remind me of anything due for the video I'm working on.
+1. Each session works on its own `claude/...` branch, so the newest work may be on an earlier session's branch. Run `git fetch origin` and check the most recently updated `claude/*` branch. If it has newer files in `unarchived/` than this branch, bring them in (`git merge origin/<that-branch>`) before starting.
+2. Read `unarchived/PROJECT_BIBLE.md` before doing anything else. It holds every decision made so far.
+3. Check its roadmap (section 9) and remind me of anything due for the video I'm working on.
 
 ## Saving work (required)
 - **Save every deliverable as a file in this repo:** scripts, titles, prompts, thumbnails, research, descriptions and plans. Don't leave it only in the chat.
