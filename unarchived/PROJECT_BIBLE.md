@@ -1,9 +1,10 @@
-# UNARCHIVED: PROJECT BIBLE
+# UNARCHIVED FORTUNES: PROJECT BIBLE
 *Everything decided so far. Paste this, plus your "CLAUDE CHANNEL MODEL (v2)" workflow prompt, at the start of any new Claude session.*
 
 ---
 
 ## 1. GOAL AND RULES
+- **Channel: Unarchived Fortunes** (renamed Oct 20 2026; "Unarchived" was taken). "Fortune" means both money and fate (see section 4).
 - Faceless YouTube channel, run 100% as a business: **maximum profit** from ads, affiliates, an email list and products.
 - **Target audience:** US, UK, Canada and Australia; 55+; mostly men (Undertold's audience: 88% male, 48% aged 65+, 26% aged 55–64).
 - **Working style:** brutally straight answers, no fluff. Model what's **proven and working now**, not guesses.
@@ -16,7 +17,7 @@
 ### Verified numbers (NexLev Analytics, last 30 days)
 | Channel | Revenue | Views | RPM | Notes |
 |---|---|---|---|---|
-| **Undertold** (model) | **$3,145** | 440,855 | $6.65 | 5 videos, 11 days old, 103K avg views, ~33-min videos. US 35%, India 20.5%, AU 16.3%, UK 15.7%, CA 12.3% |
+| **Undertold** (model, **@Undertold-usa**; plain @Undertold is a different channel) | **$3,145** | 440,855 | $6.65 | 5 videos, 11 days old, 103K avg views, ~33-min videos. US 35%, India 20.5%, AU 16.3%, UK 15.7%, CA 12.3% |
 | When America Made Everything | $6,756 | 853,942 | $8.39 | Nostalgia niche is flooded with clones (median 409 views). Rejected. |
 | Market Ghosts (finance history) | $2,110 | 320,585 | $6.75 | Hit-driven (one hit, then flops). 20.7% India audience. Rejected as main. |
 | Steve Copper Dogs (pets) | $3,652 | 3,442,855 | **$1.84** | Low RPM. Rejected. |
@@ -58,38 +59,55 @@ A subject passes only if it has:
 
 ### Topic status
 - **Edith Rockefeller McCormick:** script written and fact-checked, but **SATURATED → vault** (later use: podcast, newsletter, Kindle book chapter).
-- **Current lead for File No. 001: Huntington Hartford.** A&P heir who lost about $90M of an inheritance; owned the Bahamas resort where **Atlantis** now stands; died 2008 aged 97. Book to link: *Squandered Fortune* by Lisa Gubernick (1991).
+- **File No. 001: Huntington Hartford (CONFIRMED by owner, Oct 20 2026).** The perfect dual-meaning story: a giant money fortune and a fate that took it all. Topic-rule view numbers still to be re-verified (needs NexLev or YouTube search data). A&P heir who lost about $90M of an inheritance; owned the Bahamas resort where **Atlantis** now stands; died 2008 aged 97. Book to link: *Squandered Fortune* by Lisa Gubernick (1991).
 - **Still to check:** Evalyn Walsh McLean (Hope Diamond), Harry K. Thaw, Ned Green (Hetty Green's son), Pegeen Guggenheim, Jimmy Donahue (Woolworth heir), Huguette Clark, Zachary Smith Reynolds.
 - **Rosemary Kennedy:** proven demand (1.6M–1.8M videos 2–5 years ago, plus recent 30K and 170K), but crowded. A later candidate.
 
 ---
 
-## 4. BRAND KIT: UNARCHIVED
-- **Name:** Unarchived · **Handle:** @UnarchivedFiles (backups: @UnarchivedDocs, @UnarchivedHistory)
-- **Tagline:** *The families behind the fortunes.*
-- **Positioning:** the private files of powerful families, opened for the first time
-- **Colors:** Charcoal `#141414` · Warm Ivory `#EDE6D6` · Aged Paper `#C9B99A` · Wax-Seal Red `#8E1B1B` · Muted Gold `#B8975A`
+## 4. BRAND KIT: UNARCHIVED FORTUNES (v2, Oct 20 2026)
+*The name "Unarchived" was taken. The channel is now **Unarchived Fortunes**. This replaces the old v1 kit completely.*
+
+### The big idea: "fortune" has two meanings
+**Fortune = money** (the estate, the inheritance, the dollars) **and fortune = fate** (luck, destiny, the rise and the fall). Every story covers both: *the fortune they had, and the fortune that found them.* The money side carries the finance lessons and the affiliates, and the fate side carries the human tragedy that drives views. A viewer should see both meanings at a glance in the logo, the banner and the thumbnails.
+
+- **Visual rule: gold light = money, cold shadow = fate.** Every brand asset shows the turn from warm gold to cold shadow. That's the rise and the fall.
+- **Core symbol: the Fortune Coin.** A gold coin whose face is engraved as the **Wheel of Fortune** (*Rota Fortunae*, the old symbol of fate that lifts kings up and throws them down). One half is polished, glowing gold, and the other half is tarnished and in shadow, with one hairline crack. So the coin is the money, the wheel is the fate, and the crack is the ruin.
+- **Name:** Unarchived Fortunes · **Handle:** @UnarchivedFortunes (it showed as free on Oct 20; backups: @UnarchivedFortunesTV, @UnarchivedFortune)
+- **Tagline (main, recommended):** *Extraordinary lives. Hidden costs. Lessons for yours.*
+  - Alternatives: *Extraordinary lives, hidden costs, lessons for the future* (owner's original) · *Where money meets fate* · *The fortunes they made. The fates they couldn't escape.*
+- **Slogan (description opener, end screens):** *Every fortune has a fate.*
+- **Positioning:** the sealed records of great fortunes and the people they made and broke, plus what each one teaches about protecting yours.
+- **Colors (kept from v1, gold promoted):** Charcoal `#141414` · Warm Ivory `#EDE6D6` · Aged Paper `#C9B99A` · **Muted Gold `#B8975A` (money, now the lead accent)** · Wax-Seal Red `#8E1B1B` (warnings, stamps, ruin) · new **Shadow Slate `#3A4048`** (the cold "fate" side)
 - **Fonts:** Cormorant Garamond (wordmark) · Special Elite (typewriter file numbers) · Montserrat ExtraBold (thumbnail text)
-- **Icon:** a folded document with a cracked red wax seal and gold light escaping
-- **Video signature:** cold open → 3-second sting with drawer-slide sound and typewriter text "FILE No. 00X: [TITLE]" → chapter cards "Document I…" → end line *"This file is now closed. But the archive is still open."*
-- **Thumbnails:** colorized portrait on the left, B&W archive photo on the right, 2-line text (small white top line, big gold or yellow bottom line), a small red "FILE 0XX" stamp top-left, dark vignette
-- **Title formula:** "The Tragic Story of [Name]: [Money or Family Hook]"
-- **Playlists:** The Inheritance Files · Sealed Estates · Heirs Who Vanished · Fortunes Undone · Daughters of Dynasties
+- **Wordmark:** "UNARCHIVED" in warm ivory over **"FORTUNES"** in muted gold, letter-spaced, stacked. Gold on the word *Fortunes* signals the money meaning, and the coin beside it signals the fate meaning.
+- **Video signature:** cold open → 3-second sting: the Fortune Coin spins like a wheel and stops half-lit, with a drawer-slide sound and typewriter text "FILE No. 00X: [TITLE]" → chapter cards "Document I…" → end line *"This file is now closed. But every fortune has a fate, and the archive is still open."*
+- **Thumbnails:** colorized portrait in warm gold light on the left (the fortune), B&W or cold-shadow archive photo on the right (the fate), 2-line text (small white top line, big gold bottom line, usually a dollar figure or the loss), a small red "FILE 0XX" stamp top-left, a tiny Fortune Coin bottom-right, dark vignette
+- **Title formula:** "The Tragic Story of [Name]: [Money or Fate Hook]" (e.g., "…: The Heir Who Lost $90 Million")
+- **Playlists:** The Inheritance Files · Fortunes Won and Lost · Heirs Who Vanished · Sealed Estates · Daughters of Dynasties · Lessons From the Fall (finance-lesson videos)
 
 ### Channel description (long)
-> Behind every great fortune is a family, and behind every family is a file no one was meant to open.
+> Every fortune has a fate.
 >
-> Unarchived tells the hidden stories of history's most powerful names: the heirs who were hidden away, the children crushed by expectation, the inheritances that tore families apart, and the fortunes that vanished.
+> Unarchived Fortunes opens the sealed records of history's great fortunes and the people they made and broke: the heirs who squandered millions, the children hidden away, the inheritances that tore families apart, and the luck that turned.
+>
+> Extraordinary lives. Hidden costs. And in every file, a lesson for protecting your own family's future.
 >
 > Every documentary is built from real records: letters, wills, court transcripts and photographs. The people always come first.
 >
 > New files opened every week. Subscribe, and step into the archive.
 
-### Logo prompt
-Minimalist luxury emblem on a solid charcoal-black circle (#141414). At the center is a thin-line warm-ivory illustration of a folded antique document sealed with a deep wax-seal red stamp, cracked open, with a faint muted-gold glow escaping from the fold. Below the icon is the elegant high-contrast serif wordmark "Unarchived" in warm ivory (#EDE6D6), Cormorant Garamond style. Beneath it is a tiny widely letter-spaced small-caps tagline: "THE FAMILIES BEHIND THE FORTUNES". Flat vector, museum-grade refinement, generous negative space, crisp edges, readable at 98×98 px. The mood is quiet, investigative, old-money elegance. No gradients except the soft gold glow.
+### Logo prompt (profile picture, 800×800)
+Minimalist luxury emblem on a solid charcoal-black circle (#141414). At the center is a single antique gold coin seen face-on. Its face is finely engraved as a classical Wheel of Fortune (Rota Fortunae): a thin outer rim and eight slender spokes meeting at a small hub, like an old engraved medallion. The left half of the coin is polished muted gold (#B8975A), lit by a soft warm glow. The right half is tarnished and cool, turning into deep slate shadow (#3A4048), with one fine hairline crack running from the rim toward the hub. A tiny wax-seal red (#8E1B1B) notch marks the top of the rim. Flat vector with subtle engraving detail, museum-grade refinement, generous negative space, crisp edges, readable at 98×98 px. No text. The mood is old-money elegance: quiet, investigative and slightly ominous.
 
-### Banner prompt
-YouTube channel banner, 2560×1440, with all key elements inside the central 1546×423 safe area. Deep charcoal-black background (#141414) with faint, very low-opacity outlines of filing-cabinet drawers, stacked folders, handwritten letters and a vintage family portrait frame fading toward both edges. In the center-left is a thin-line ivory folded document with a cracked wax-seal red stamp (#8E1B1B) and a soft gold glow escaping. To its right is the large elegant serif wordmark "Unarchived" in warm ivory, with "THE FAMILIES BEHIND THE FORTUNES" below it in widely letter-spaced small caps (aged-paper beige, #C9B99A). Below that is a small typewriter-style line: "NEW FILE EVERY WEEK". The style is minimalist, cinematic and hushed, like the title card of a prestige historical documentary. No clutter, no photos, no extra text.
+### Logo prompt (horizontal wordmark lockup, for the banner, PDFs and end screens)
+On solid charcoal black (#141414): the Fortune Coin emblem described above sits on the left. To its right, stacked, are "UNARCHIVED" in elegant high-contrast warm-ivory serif capitals (#EDE6D6, Cormorant Garamond style, wide letter-spacing) and, below it, the larger "FORTUNES" in muted gold (#B8975A). The gold lettering catches the same warm light as the coin's bright half and fades slightly cooler at the final letters. Flat vector, crisp, refined, no other elements.
+
+### Banner prompt (2560×1440)
+YouTube channel banner, 2560×1440, with all key elements inside the central 1546×423 safe area. The background is a split-light composition on charcoal black (#141414). **Left side (fortune as money):** warm muted-gold light falling on faint, low-opacity shapes of stacked gold coins, an open ledger, a stock certificate and the silhouette of a grand Gilded Age mansion. **Right side (fortune as fate):** the same mansion silhouette in cold slate shadow (#3A4048) beside a cracked portrait frame, a will sealed with red wax (#8E1B1B) and scattered archive folders. Light shifts smoothly from warm gold to cold shadow across the frame, like the turning of fate. In the exact center is the Fortune Coin emblem (a gold Wheel-of-Fortune coin, half lit, half tarnished, with a hairline crack). To its right is the stacked wordmark "UNARCHIVED" (warm ivory) over "FORTUNES" (muted gold). Below that, in widely letter-spaced small caps (aged-paper beige, #C9B99A), is the tagline "EXTRAORDINARY LIVES · HIDDEN COSTS · LESSONS FOR YOURS". Below that is a small typewriter-style line: "NEW FILE EVERY WEEK". The style is minimalist, cinematic and hushed, like the title card of a prestige historical documentary. Background elements stay subtle and blurred. No clutter, no faces, no extra text.
+
+### Brand sting prompt (3-second intro, video tool)
+Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly on a dark archive desk under a single warm lamp. As it slows, the light sweeps across it: one half glows gold, the other falls into cold shadow and a hairline crack appears. It stops, half-lit. A typewriter line types beneath it: "FILE No. 00X". Charcoal and gold palette, shallow depth of field, slow and elegant, no fast motion.
 
 ---
 
@@ -152,11 +170,11 @@ This video is for historical and educational purposes. Nothing here is legal or 
 ---
 
 ## 8. WORKFLOW STATUS (CLAUDE CHANNEL MODEL v2)
-- STATE 1–2 ✅ Channel: Undertold; branding brief → Unarchived
+- STATE 1–2 ✅ Channel: Undertold; branding → **Unarchived Fortunes (brand kit v2, section 4)**
 - STATE 3 ✅ Transcripts: Genain, Rose Williams, Lucia Joyce, Camille Claudel
 - STATE 4 ✅ Ideas generated (most are now saturated, see section 3)
 - STATE 5 ✅ Style DNA (section 5)
-- STATE 6 ⚠️ Edith script done → vault. **Redo for the new File 001 (Huntington Hartford, or whichever passes the topic rule).**
+- STATE 6 ⚠️ Edith script done → vault. **Next: write File 001, Huntington Hartford.**
 - STATE 7 ⏳ Visual input: re-upload 3–5 Undertold frames (close-up portrait, wide scene, document or newspaper, B&W archive, transition)
 - STATE 8–12 ⏳ Image prompts → video prompts → thumbnails → Word export
 
@@ -179,10 +197,11 @@ This video is for historical and educational purposes. Nothing here is legal or 
 ## 10. TECH NOTES
 - **Network:** a new Claude Code environment named **"Unarchived"** with Network access = **Full**, so Claude can read YouTube pages directly. Start new sessions in that environment.
 - **NexLev:** the "Connect MCP" button → add the connector at claude.ai/customize/connectors → sign in with the NexLev email (different emails are fine) → start a new chat.
+- **YouTube reading (tested Oct 20):** the Unarchived Fortunes environment can load channel pages, titles, upload dates and subscriber counts, but plain page downloads don't return view counts. Use NexLev or YouTube search pages for views.
 - **Claude in Chrome:** install in the Chrome profile logged into YouTube and NexLev.
 
-## 11. FILES IN THIS BUNDLE
-- `UNARCHIVED_PROJECT_BIBLE.md` (this file)
-- `unarchived_file001_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words)
-- `Unarchived_Family_Legacy_Checklist.pdf` (lead magnet)
-- `checklist.html` (editable source for the PDF)
+## 11. FILES IN THIS REPO (folder names stay `unarchived/` on purpose, so the paths never break)
+- `unarchived/PROJECT_BIBLE.md` (this file)
+- `unarchived/scripts/VAULT_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words, rebranded to Unarchived Fortunes)
+- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` (lead magnet, rebranded)
+- `unarchived/lead-magnet/checklist.html` (editable source for the PDF). ⚠️ Its examples still use the Edith Rockefeller story. Rewrite them around Huntington Hartford once File 001 is fact-checked.

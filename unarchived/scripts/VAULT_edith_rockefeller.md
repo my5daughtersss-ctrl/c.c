@@ -1,4 +1,4 @@
-UNARCHIVED — FILE No. 001
+UNARCHIVED FORTUNES — VAULT FILE (was File No. 001)
 The Tragic Fate of Edith Rockefeller's Children: The Heiress Who Lost It All
 
 [COLD OPEN]
@@ -301,9 +301,9 @@ And if you'd like to go deeper into the Rockefeller family's story, much of what
 
 So what do you think? Was Edith Rockefeller McCormick ruined by the people around her, or by the fortune itself? Leave your answer in the comments. I read every single one.
 
-If you believe stories like this deserve to be told, subscribe to Unarchived and turn on notifications.
+If you believe stories like this deserve to be told, subscribe to Unarchived Fortunes and turn on notifications.
 
-This file is now closed. But the archive is still open.
+This file is now closed. But every fortune has a fate, and the archive is still open.
 
 And the next file belongs to another daughter of an American dynasty. Her father was one of the richest men in the country, and her brother would become President of the United States. And in 1941, her own family made a decision about her that they would keep secret for decades.
 

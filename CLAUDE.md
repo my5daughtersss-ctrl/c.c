@@ -1,4 +1,4 @@
-# Unarchived YouTube channel: instructions for Claude
+# Unarchived Fortunes YouTube channel: instructions for Claude
 
 This repo is the **permanent backup** for my YouTube channel project. Chat sessions can vanish, but this repo does not. Follow these rules in every session.
 
