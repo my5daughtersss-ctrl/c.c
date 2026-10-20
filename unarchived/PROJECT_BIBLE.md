@@ -1,5 +1,5 @@
 # UNARCHIVED FORTUNES: PROJECT BIBLE
-*Everything decided so far. Paste this, plus your "CLAUDE CHANNEL MODEL (v2)" workflow prompt, at the start of any new Claude session.*
+*Everything decided so far. Claude reads this and `CHANNEL_MODEL_v2.md` automatically at the start of every session (via CLAUDE.md).*
 
 ---
 
@@ -202,6 +202,7 @@ This video is for historical and educational purposes. Nothing here is legal or 
 
 ## 11. FILES IN THIS REPO (folder names stay `unarchived/` on purpose, so the paths never break)
 - `unarchived/PROJECT_BIBLE.md` (this file)
+- `unarchived/CHANNEL_MODEL_v2.md` (the master workflow prompt, saved word for word, plus Claude's notes)
 - `unarchived/scripts/VAULT_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words, rebranded to Unarchived Fortunes)
 - `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` (lead magnet, rebranded)
 - `unarchived/lead-magnet/checklist.html` (editable source for the PDF). ⚠️ Its examples still use the Edith Rockefeller story. Rewrite them around Huntington Hartford once File 001 is fact-checked.
