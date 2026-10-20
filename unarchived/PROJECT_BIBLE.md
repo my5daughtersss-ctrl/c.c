@@ -74,9 +74,8 @@ A subject passes only if it has:
 - **Visual rule: gold light = money, cold shadow = fate.** Every brand asset shows the turn from warm gold to cold shadow. That's the rise and the fall.
 - **Core symbol: the Fortune Coin.** A gold coin whose face is engraved as the **Wheel of Fortune** (*Rota Fortunae*, the old symbol of fate that lifts kings up and throws them down). One half is polished, glowing gold, and the other half is tarnished and in shadow, with one hairline crack. So the coin is the money, the wheel is the fate, and the crack is the ruin.
 - **Name:** Unarchived Fortunes · **Handle:** @UnarchivedFortunes (it showed as free on Oct 20; backups: @UnarchivedFortunesTV, @UnarchivedFortune)
-- **Tagline (main, owner's pick, Oct 20 2026):** *Extraordinary lives. Hidden costs. Lessons for the living.*
-  - Claude's suggested upgrade (awaiting owner's yes): *Gilded lives. Hidden costs. Lessons for the living.* ("Gilded" means gold on the surface, which fits the money meaning, the Gilded Age setting and the hidden-cost idea.)
-  - Rejected or older: *Lessons for yours* · *Lessons for the future* · *Where money meets fate* · *The fortunes they made. The fates they couldn't escape.*
+- **Tagline (FINAL, Oct 20 2026):** *Extraordinary lives. Hidden costs. Lessons for the living.*
+  - Rejected or older: *Gilded lives…* (doesn't fit ordinary people, like lottery winners or everyday families) · *Lessons for yours* · *Lessons for the future* · *Where money meets fate* · *The fortunes they made. The fates they couldn't escape.*
 - **Slogan (description opener, end screens):** *Every fortune has a fate.*
 - **Positioning:** the sealed records of great fortunes and the people they made and broke, plus what each one teaches about protecting yours.
 - **Colors (kept from v1, gold promoted):** Charcoal `#141414` · Warm Ivory `#EDE6D6` · Aged Paper `#C9B99A` · **Muted Gold `#B8975A` (money, now the lead accent)** · Wax-Seal Red `#8E1B1B` (warnings, stamps, ruin) · new **Shadow Slate `#3A4048`** (the cold "fate" side)
