@@ -9,11 +9,11 @@ This repo is the **permanent backup** for my YouTube channel project. Chat sessi
 4. Check its roadmap (section 9) and remind me of anything due for the video I'm working on.
 
 ## Saving work (required)
-- **Save every deliverable as a file in this repo:** scripts, titles, prompts, thumbnails, research, descriptions and plans. Don't leave it only in the chat.
-  - Scripts → `unarchived/scripts/FILE_00X_<name>.md`
-  - Research and topic checks → `unarchived/research/`
-  - Image, video and thumbnail prompts → `unarchived/prompts/FILE_00X_<name>_<type>.md`
-  - Lead magnets and PDFs → `unarchived/lead-magnet/`
+- **Two main master documents. Update them in place; don't scatter work across new files:**
+  1. `unarchived/PROJECT_BIBLE.md`: every channel-level decision (brand, rules, roadmap, topic status, workflow state).
+  2. `unarchived/files/FILE_00X_<NAME>_MASTER.md`: one master document per video, holding everything for that file (script, fact-check log, publish & revenue playbook, image prompts, video prompts, thumbnails). New work for a video goes into its master document.
+- Other files only when needed: lead magnets and PDFs → `unarchived/lead-magnet/`; vaulted scripts → `unarchived/scripts/`; the workflow prompt → `unarchived/CHANNEL_MODEL_v2.md`.
+- Don't leave any deliverable only in the chat.
 - **After each major step** (a finished script, a prompt set, a decision), commit and push right away with a clear message. Don't wait for the end of the session.
 - **Update `unarchived/PROJECT_BIBLE.md`** whenever a decision changes (topic picked, brand change, new rule), then commit and push.
 - An automatic backup hook (`.claude/hooks/autobackup.sh`) also commits and pushes any changed files at the end of every reply. This is a safety net, not a replacement for saving files.

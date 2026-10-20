@@ -59,7 +59,8 @@ A subject passes only if it has:
 
 ### Topic status
 - **Edith Rockefeller McCormick:** script written and fact-checked, but **SATURATED → vault** (later use: podcast, newsletter, Kindle book chapter).
-- **File No. 001: Huntington Hartford (CONFIRMED by owner, Oct 20 2026).** The perfect dual-meaning story: a giant money fortune and a fate that took it all. Topic-rule view numbers still to be re-verified (needs NexLev or YouTube search data). A&P heir who lost about $90M of an inheritance; owned the Bahamas resort where **Atlantis** now stands; died 2008 aged 97. Book to link: *Squandered Fortune* by Lisa Gubernick (1991).
+- **File No. 001: Huntington Hartford (CONFIRMED by owner, Oct 20 2026).** The perfect dual-meaning story: a giant money fortune and a fate that took it all. Topic rule PASSED in the Oct 19 session: top Hartford video 107K (Old Money Luxury, ~1 year old); most recent sizable one 42K (Old Money Documentaries, May 9 2026), under the 50K line. **Script v2.1 is written and fully fact-checked (~4,800 words); all 560 image prompts are done.** Everything is in the File 001 master document. A&P heir who lost about $90M of an inheritance; owned the Bahamas resort where **Atlantis** now stands; died 2008 aged 97. Book to link: *Squandered Fortune* by Lisa Gubernick (1991).
+- **File 002 lead: Ned Green** (Hetty Green's son). Passes the topic rule with a warning (American Magnates, 28K, Sep 17 2026), so re-check before scripting. **Backup: Jimmy Donahue.** (The File 001 script's next-file tease currently points to "another fortune that tore a family apart".)
 - **Still to check:** Evalyn Walsh McLean (Hope Diamond), Harry K. Thaw, Ned Green (Hetty Green's son), Pegeen Guggenheim, Jimmy Donahue (Woolworth heir), Huguette Clark, Zachary Smith Reynolds.
 - **Rosemary Kennedy:** proven demand (1.6M–1.8M videos 2–5 years ago, plus recent 30K and 170K), but crowded. A later candidate.
 
@@ -136,6 +137,10 @@ Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly
 - Chapter transitions: a wax seal breaking, a drawer sliding open, a "FILE" stamp, redaction being revealed.
 - First frame matches the thumbnail within 5 seconds.
 - Audio: music low under the voice, 1–2 seconds of silence before big reveals, subtle ambient sound, one warm consistent narrator, accurate captions (SRT).
+- **Pace upgrade (Oct 19 2026, locked):** beats of 3–5 seconds; **no cut under 2 seconds** (55+ audience); use triptychs (2–3 images revealed one by one) for big reveals instead of fast cuts; never two shots of the same type in a row (rotate archive, document, era color, luxury, map, graphic); every shot moves; a pattern interrupt every 20–30 seconds; silence before reveals.
+- **55+ audience rules:** on-screen text large (captions at least 6% of frame height), high contrast, held at least 3 seconds, one idea on screen at a time; favor 1950s–70s Kodachrome and press-photo looks (era recognition); smooth slow motion only, no shake or strobe; music at least 18–20 dB under the voice, no harsh high-frequency hits.
+- **Animated graphics:** ticking fortune counter (today's-dollar conversions), map lines, an updating family tree, highlight sweeps across document lines.
+- **Story motif: the locked drawer** (an oak file drawer with a cracked red wax seal = the trust / the hidden money). It appears whenever the script mentions it, so viewers can see the open loop. This is a story motif, separate from the brand sting (the Fortune Coin).
 - **Avoid:** fast cuts, meme zooms, bouncing captions, a whoosh on every cut, saturated colors, music louder than the voice, obviously fake or inconsistent AI images.
 - **Targets:** 70%+ still watching at 30 seconds; 35–45% average viewed.
 - **Observed reference style** (Undertold and Gilded Fate frames): grayscale and sepia archival photos, colorized portraits, B&W mansion aerials, newspaper clippings, large white captions on a dark bar, 58-minute chapters (Gilded Fate).
@@ -174,9 +179,11 @@ This video is for historical and educational purposes. Nothing here is legal or 
 - STATE 3 ✅ Transcripts: Genain, Rose Williams, Lucia Joyce, Camille Claudel
 - STATE 4 ✅ Ideas generated (most are now saturated, see section 3)
 - STATE 5 ✅ Style DNA (section 5)
-- STATE 6 ⚠️ Edith script done → vault. **Next: write File 001, Huntington Hartford.**
-- STATE 7 ⏳ Visual input: re-upload 3–5 Undertold frames (close-up portrait, wide scene, document or newspaper, B&W archive, transition)
-- STATE 8–12 ⏳ Image prompts → video prompts → thumbnails → Word export
+- STATE 6 ✅ File 001 Huntington Hartford: script v2.1, fully fact-checked, ~4,800 words (Edith script → vault)
+- STATE 7 ✅ Visual Style Profile locked: Undertold base plus Old Money luxury and maps, era-matched color, the locked-drawer motif
+- STATE 8 ✅ 560 image prompts in 5 batches (File 001)
+- **STATE 9 ⏳ NEXT: video prompts (optional; ask the owner)** → STATE 10–11 thumbnails → STATE 12 Word export
+- Publish & revenue playbook for File 001 is done (description, pinned comment, ad breaks, Shorts, revenue). It's in the File 001 master document.
 
 ---
 
@@ -190,6 +197,7 @@ This video is for historical and educational purposes. Nothing here is legal or 
 | **Video 13–20** | One finance-history tragedy every 3–4 videos (e.g., Jesse Livermore, lottery winners) · investing and budgeting affiliates on those |
 | **About 10K subscribers** | Pitch sponsors (Ancestry, CuriosityStream, Wondrium, Audible) |
 | **Video 20+** | Double down on the highest-RPM topics · Kindle book from scripts · newsletter |
+| **Every video (from Oct 19 2026)** | A subscribe line at the end of the mid-video chapter · the checklist mentioned twice (about 12 min, and the end of the File Lesson) · 2+ books plus an Amazon Idea List in the description · mid-rolls at chapter cliffhangers · a crisis-line in the description when suicide or drugs are mentioned · sensitive words kept out of the first 30 seconds, title and thumbnail |
 | **Every video** | Run the topic rule (section 3) · fact-check · AI-content disclosure where realistic AI people or scenes are used |
 
 ---
@@ -200,9 +208,12 @@ This video is for historical and educational purposes. Nothing here is legal or 
 - **YouTube reading (tested Oct 20):** the Unarchived Fortunes environment can load channel pages, titles, upload dates and subscriber counts, but plain page downloads don't return view counts. Use NexLev or YouTube search pages for views.
 - **Claude in Chrome:** install in the Chrome profile logged into YouTube and NexLev.
 
-## 11. FILES IN THIS REPO (folder names stay `unarchived/` on purpose, so the paths never break)
-- `unarchived/PROJECT_BIBLE.md` (this file)
+## 11. FILES IN THIS REPO: TWO MASTER DOCUMENTS (folder names stay `unarchived/` on purpose)
+**Master doc 1:** `unarchived/PROJECT_BIBLE.md` (this file): every channel-level decision.
+**Master doc 2 (one per video):** `unarchived/files/FILE_00X_<NAME>_MASTER.md`: everything for that video, updated in place.
+- `unarchived/files/FILE_001_HUNTINGTON_HARTFORD_MASTER.md`: script v2.2 (rebranded), full fact-check log, publish & revenue playbook, 560 image prompts (5 batches), placeholders for video prompts and thumbnails.
+
+Supporting files:
 - `unarchived/CHANNEL_MODEL_v2.md` (the master workflow prompt, saved word for word, plus Claude's notes)
-- `unarchived/scripts/VAULT_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words, rebranded to Unarchived Fortunes)
-- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` (lead magnet, rebranded)
-- `unarchived/lead-magnet/checklist.html` (editable source for the PDF). ⚠️ Its examples still use the Edith Rockefeller story. Rewrite them around Huntington Hartford once File 001 is fact-checked.
+- `unarchived/scripts/VAULT_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words, rebranded)
+- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` + `checklist.html` (editable source). ⚠️ Its examples still use the Edith Rockefeller story; rewrite them around Huntington Hartford (now fact-checked) before File 001 goes live.
