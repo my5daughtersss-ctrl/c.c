@@ -110,6 +110,18 @@ YouTube channel banner, 2560×1440, with all key elements inside the central 154
 ### Brand sting prompt (3-second intro, video tool)
 Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly on a dark archive desk under a single warm lamp. As it slows, the light sweeps across it: one half glows gold, the other falls into cold shadow and a hairline crack appears. It stops, half-lit. A typewriter line types beneath it: "FILE No. 00X". Charcoal and gold palette, shallow depth of field, slow and elegant, no fast motion.
 
+
+### Channel setup checklist (Oct 20 2026, in progress)
+1. ⏳ Create the channel: name **Unarchived Fortunes**, handle **@UnarchivedFortunes**
+2. ⏳ Verify with a phone number (youtube.com/verify). **Required to upload videos over 15 minutes** (File 001 is ~32 min) and for custom thumbnails.
+3. ⏳ Request Advanced features (Studio → Settings → Channel → Feature eligibility)
+4. ⏳ Profile picture (800×800, Fortune Coin logo prompt) · banner (2560×1440, banner prompt) · watermark (150×150, the coin)
+5. ⏳ Description: the long channel description above · links: checklist sign-up page (once the email tool is set up)
+6. ⏳ Settings: country = the owner's real country of residence (for tax and payments) · keywords · audience = "No, not made for kids"
+7. ⏳ Upload defaults (Studio → Settings → Upload defaults): category Education · the description block template (section 7) · tags
+8. ⏳ Create the 6 playlists (empty is fine)
+9. ⏳ Later: channel trailer (cut from File 001's cold open) · per-video altered/AI-content disclosure
+
 ---
 
 ## 5. STYLE DNA (from 4 Undertold transcripts: Genain quadruplets, Rose Williams, Lucia Joyce, Camille Claudel)
