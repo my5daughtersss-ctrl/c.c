@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Multiplication Table 2 to 12</title>
+<style>
+  @page { size: A4 landscape; margin: 7mm; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: #fff; color: #000; }
+  body {
+    font-family: "Arial", "Helvetica", sans-serif;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .page {
+    width: 283mm;
+    height: 196mm;
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-rows: 1fr 1fr;
+    gap: 3mm;
+  }
+  .table {
+    border: 0.6mm solid #000;
+    border-radius: 2mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .table h2 {
+    background: var(--c);
+    color: #fff;
+    font-size: 14pt;
+    text-align: center;
+    white-space: nowrap;
+    padding: 1.6mm 0;
+    letter-spacing: 0.3mm;
+  }
+  .rows {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1mm 2.5mm;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 1.5em 1.1em 1.5em 1.1em 2em;
+    justify-content: center;
+    align-items: baseline;
+    font-size: 14.5pt;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.1;
+  }
+  .row:nth-child(even) { background: #f0f0f0; border-radius: 1mm; }
+  .row span { text-align: center; }
+  .row .a { text-align: right; }
+  .row .b { text-align: left; }
+  .row .ans { text-align: right; font-weight: bold; }
+
+  .title {
+    border: 0.6mm solid #000;
+    border-radius: 2mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 3mm;
+    gap: 4mm;
+  }
+  .title h1 { font-size: 17pt; line-height: 1.15; }
+  .title .sub { font-size: 12pt; }
+  .title .fill { font-size: 11pt; width: 100%; text-align: left; line-height: 2.2; }
+  .title .fill span { display: inline-block; border-bottom: 0.3mm solid #000; width: 100%; }
+</style>
+</head>
+<body>
+<div class="page" id="page"></div>
+<script>
+  const colours = ['#c0392b','#d35400','#b7950b','#1e8449','#117a65','#1f618d',
+                   '#6c3483','#943126','#7d6608','#145a32','#1a5276'];
+  const page = document.getElementById('page');
+  for (let n = 2; n <= 12; n++) {
+    let rows = '';
+    for (let i = 1; i <= 12; i++) {
+      rows += `<div class="row"><span class="a">${n}</span><span>&times;</span>` +
+              `<span class="b">${i}</span><span>=</span><span class="ans">${n * i}</span></div>`;
+    }
+    page.insertAdjacentHTML('beforeend',
+      `<div class="table" style="--c:${colours[n - 2]}"><h2>${n} Times Table</h2><div class="rows">${rows}</div></div>`);
+  }
+  page.insertAdjacentHTML('beforeend',
+    `<div class="title"><h1>Multiplication<br>Table</h1><div class="sub">2 to 12 Times Table</div>` +
+    `<div class="fill">Name:<br><span>&nbsp;</span><br>Class:<br><span>&nbsp;</span></div></div>`);
+</script>
+</body>
+</html>
