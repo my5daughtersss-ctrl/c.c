@@ -42,8 +42,8 @@
 | A25 | Died 24 Feb 1967 at King Kothi, aged 80 | ✅ | Britannica; Wikipedia |
 | A26 | Cause: pneumonia | 🟡 according to Hindustan Times | HT 2017 |
 | A27 | Funeral crowd of 800,000 (police) to ~1 million | ✅ as a range | Hindustan Times; The News Minute |
-| A28 | Gift of a diamond necklace to Princess Elizabeth for her 1947 wedding | ⏳ TO VERIFY (from the gap analysis) | — |
-| A29 | Walter Monckton, British lawyer, advised him in 1947–48 | ⏳ TO VERIFY | — |
+| A28 | 1947: the Nizam let Princess Elizabeth choose her own wedding gift from Cartier London; she chose a platinum necklace with ~300 diamonds and a floral diamond tiara; she wore the necklace in her first official portraits as Queen; the Princess of Wales later wore it | ✅ ("most valuable royal jewel" ✂️) | the-cartiers.com; WION; Woman & Home (Royal Collection caption) |
+| A29 | Sir Walter Monckton, a British lawyer, was his constitutional adviser in 1947–48 | ✅ ("urged a UN appeal" 🟡 KPIAS) | Wikipedia; Nehru Archive |
 
 ### B. The fall and the money (tone: neutral, attribute all contested figures)
 | # | Script-safe claim | Status | Sources |
@@ -93,7 +93,7 @@
 | C23 | ⚠️ Don't merge the numbers: 14,700 = household; ~120 = London-fund claimants; ~4,500 = society of descendants | rule | — |
 
 **Quotes (all 🟡, attribute on screen):** Mukarram Jah: *"I inherited a scrapyard."* (NYT) · Zubrzycki: *"He had no inkling whatsoever of anything financial."* (The Juggernaut) · Dalrymple: *"one of the 20th century's most dramatic reversals of fortune"* (Guardian 2007).
-**✂️ Cut for privacy:** a wife's illness and cause of death, a son's overdose, the DNA-test story, rumoured settlement amounts ("$30M per wife").
+**✂️ Cut for privacy (owner confirmed, Oct 26):** a wife's illness and cause of death, a son's overdose, the DNA-test story, rumoured settlement amounts ("$30M per wife").
 **Key sources to cite or show:** Zubrzycki, *The Last Nizam* (2006) is the book credit and Amazon link · Collins & Lapierre, *Freedom at Midnight* (1975) · the 2019 UK judgment · the TIME cover.
 
 ## 1b. GAP ANALYSIS: the 703K source video (structure only, never copy wording)
@@ -152,7 +152,7 @@
 
 **F. Packaging and launch:** 3 titles for Test & Compare: (1) What Happened to the Nizam of Hyderabad, the Richest Man Who Ever Lived? (2) Once Called the Richest Man on Earth: What Happened to the Nizam's Fortune? (3) The Richest Man on Earth Kept a Diamond as a Paperweight. His Heir Died in a Two-Bedroom Flat · 2 thumbnails (paperweight diamond vs heir's coffin or palace) · description (search-first, checklist, Zubrzycki + Collins & Lapierre + an Idea List, chapters, sources) · pinned comment "Lost by history, or by his heirs?" · 4 Shorts: the paperweight diamond / £1M frozen 71 years / 14,700 dependants / the 5,000 kg gold myth · day-2 poll · playlists: The Inheritance Files, Heirs Who Vanished · end screen → File 002 (Mar-a-Lago) · ad-suitability answered honestly (historical conflict deaths, non-graphic).
 
-**G. Before launch (blockers):** ⏳ verify the Princess Elizabeth 1947 wedding necklace + Walter Monckton · ⏳ refresh the checklist PDF example (no Edith) · ⏳ email sign-up page live · ⏳ second source for the 15 Aug 1947 declaration · ⏳ second source for the 2026 Siasat court claim (or cut).
+**G. Before launch (blockers):** ✅ necklace + Monckton verified · **⏳ REMIND OWNER AFTER THE SCRIPT: set up the email sign-up page** · ⏳ refresh the checklist PDF example (no Edith) · ⏳ email sign-up page live · ⏳ second source for the 15 Aug 1947 declaration · ⏳ second source for the 2026 Siasat court claim (or cut).
 
 ## 2. SCRIPT
 *Not started. Needs the full fact base first.*
