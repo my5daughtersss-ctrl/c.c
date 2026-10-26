@@ -22,4 +22,6 @@ This repo is the **permanent backup** for my YouTube channel project. Chat sessi
 - Be brutally straight. The goal is maximum profit (ads, affiliates, email list).
 - Follow my "CLAUDE CHANNEL MODEL (v2)" workflow (saved in `unarchived/CHANNEL_MODEL_v2.md`). I don't need to paste it.
 - Fact-check every script: 2 sources per claim. One source means "according to…" wording; none means cut it.
-- Run the topic rule (Bible section 3) before writing any script.
+- Pick topics with the Winning Topic System (Bible section 3).
+- **Before writing any script, prompt set or publish plan, go through the Retention & Launch Checklist (Bible section 6b) line by line** and mark each item used or not relevant (with the reason). Never build these from memory.
+- Ask the owner before saving files or commits, except the routine saves the owner has already asked for.

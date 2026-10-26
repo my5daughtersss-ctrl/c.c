@@ -280,6 +280,67 @@ Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly
 - **Targets:** 70%+ still watching at 30 seconds; 35–45% average viewed.
 - **Observed reference style** (Undertold and Gilded Fate frames): grayscale and sepia archival photos, colorized portraits, B&W mansion aerials, newspaper clippings, large white captions on a dark bar, 58-minute chapters (Gilded Fate).
 
+
+## 6b. RETENTION & LAUNCH CHECKLIST (master list, Oct 26 2026)
+*Before writing any script, prompt set or publish plan, go through EVERY line and mark it ✅ used / ➖ not relevant (with the reason). Devices marked (R) are used only where relevant to the story.*
+
+**A. Hook (first 45–70 seconds)**
+- [ ] Date-and-place scene → 3–5 escalating contrast sentences → famous-name anchor → betrayal reveal → mystery line → title drop ("This is the tragic story of…")
+- [ ] Stakes within 20 seconds · payoff preview within 30 seconds · 2 open loops planted
+- [ ] No sensitive words (death figures, drugs, suicide, violence) in the first 30 seconds, title or thumbnail
+- [ ] First frame matches the thumbnail within 5 seconds
+
+**B. Structure and script**
+- [ ] 11-beat skeleton with % targets · ~4,800 words (4,560–5,040) · show the target and final word count
+- [ ] Innocence image + "Hold on to that picture", called back later
+- [ ] Story motif, called back every 5–8 minutes (R; e.g. locked drawer, frozen vault)
+- [ ] Always 2 open loops running; payoffs placed and marked
+- [ ] Re-hook every 90–120 seconds, marked in the retention map · mini-reveal about every 3 minutes · chapter cliffhangers
+- [ ] **Mid-video bomb at 40–55%**
+- [ ] "Picture this" immersion scenes · "Let's pause here" moral pauses (2–3) · fair-witness twist
+- [ ] **Money thread in every beat** · **today's-money conversions** for every major figure
+- [ ] Real document quotes; documents shown on screen
+- [ ] Rhythm: long sentence then short punch, stacks of 3, anaphora in the finale; no "finally" before the end
+- [ ] Direct address ("you", "let's") · binary-question CTA + "I read every single one"
+- [ ] Next-file tease in the last 20 seconds; the end loops into the next video
+- [ ] No recap padding (keep every minute moving forward)
+
+**C. Money and lead-magnet placements**
+- [ ] **Free checklist mention #1 at ~12 minutes** (never before 10 minutes), tied to the story + **book credit**
+- [ ] Subscribe line at the end of the mid-video chapter
+- [ ] **File Lesson** (60–90 seconds, ~180 words) ending with "speak with an estate attorney" + **checklist mention #2**
+- [ ] Ad breaks (~6) at chapter cliffhangers only; none in the cold open or the File Lesson
+- [ ] Checklist PDF example is current (not a vaulted story) · email sign-up page is live and linked
+
+**D. On-screen devices (R)**
+- [ ] **Fortune counter** (ticking money, with today's value) whenever money changes hands
+- [ ] **Countdown clock / timers** for time-pressure moments ("DAY 1…", "2 DAYS LATER")
+- [ ] Frozen-years or progress tickers for long waits
+- [ ] Head-count counter for shocking numbers
+- [ ] **Myth vs fact stamps** on the 4–6 most famous claims
+- [ ] Chapter list counter ("1 of 5 ways…")
+- [ ] Price-tag reveals · then-and-now match-cuts
+- [ ] "What would you have done?" pause (once) · "watch this detail" plant · ranked teaser
+- [ ] Family tree that updates · map lines · timeline ribbon
+- [ ] Guardrails: one counter on screen at a time; calm and slow, never gimmicky
+
+**E. Visuals and sound**
+- [ ] 3–5-second beats, no cut under 2 seconds, nothing still, never two shots of the same type in a row, a pattern interrupt every 20–30 seconds
+- [ ] Triptychs for big reveals · 1–2 seconds of silence before reveals
+- [ ] Era-matched looks (sepia / B&W archive / Kodachrome / era color) for the decades covered
+- [ ] 55+ text rules (≥6% of frame height, held ≥3 seconds, one idea at a time) · music 18–20 dB under the voice
+- [ ] Brand: Fortune Coin sting · "Document I…" chapter cards · end line "This file is now closed. But every fortune has a fate, and the archive is still open."
+- [ ] In-video subscribe badge at the subscribe line and in the last 20 seconds
+- [ ] Licensed photos for real people; **no AI faces for living people**; AI-content disclosure ticked
+
+**F. Packaging and launch**
+- [ ] 3 titles for Test & Compare · 2 thumbnail candidates · keyword at the start of the title
+- [ ] Description: search-first 2 lines, checklist link, 2+ books + an Amazon Idea List, chapters, sources, disclosures, crisis line if relevant
+- [ ] Pinned comment · tags · playlists · end screen · captions (SRT)
+- [ ] 4 Shorts (45–60 seconds) linking to the full video · day-2 community poll · Facebook post
+- [ ] Ad-suitability questionnaire answered honestly
+- [ ] Retention check at 48 hours and 7 days; any drop of 5% or more → fix in the next file
+
 ---
 
 ## 7. MONETIZATION
@@ -352,4 +413,4 @@ This video is for historical and educational purposes. Nothing here is legal or 
 Supporting files:
 - `unarchived/CHANNEL_MODEL_v2.md` (the master workflow prompt, saved word for word, plus Claude's notes)
 - `unarchived/scripts/VAULT_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words, rebranded)
-- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` + `checklist.html` (editable source). ⚠️ Its examples still use the Edith Rockefeller story; rewrite them around Huntington Hartford (now fact-checked) before File 001 goes live.
+- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` + `checklist.html` (editable source). ⚠️ **Before File 001 launches:** replace the Edith Rockefeller example with a universal opening or the Nizam's story (a fortune split across trusts and fought over for 70 years), and set up the email sign-up page (roadmap: before video 1).

@@ -116,6 +116,44 @@
 9. **Second silencing and reclamation (10%):** 2 Oct 2019: £35M ruling after 71 years; ~120 relatives claim a share; Esra restores Chowmahalla; Falaknuma becomes a hotel; 2023 burial; a disputed 9th Nizam.
 10. **Bookend + lessons (7%):** back to the paperweight; 3 lessons. **File Lesson:** what happens to a fortune with no clear plan (trusts, too many dependants, an heir untrained in money, litigation). CTA: "Was the Nizam's fortune lost by history, or by his heirs?"
 
+## 1d. RETENTION BLUEPRINT (checked against Bible section 6b, Oct 26 2026)
+
+**A. Hook (draft, ~55 seconds)**
+> January 2023. Hyderabad, India. A coffin arrives from Istanbul. Inside is a man who was once heir to the greatest private fortune on Earth. He went to Harrow and Cambridge. He was crowned a king. He inherited palaces, gold and diamonds, and fourteen thousand people who depended on him. And according to his biographer, he spent his last years in a two-bedroom flat in Turkey. Fifty-six years earlier, a million people had filled these same streets for his grandfather, the man TIME magazine had called the richest in the world, a man who kept a diamond nearly twice the size of the Koh-i-Noor… as a paperweight. So where did it all go? And why did a London bank still hold one million pounds of it, untouched, seventy years later? This is the tragic story of the Nizam of Hyderabad, and the heirs who lost the richest fortune on Earth.
+- ✅ Stakes <20 seconds · ✅ payoff preview (the London £1M) · ✅ 2 open loops: (1) where did the fortune go? (2) the frozen £1M
+- ✅ No violence or death figures in the first 30 seconds (the coffin is a burial, not a death scene)
+- ✅ First frame = thumbnail image (the coffin or palace with the gold-vs-shadow split; decide in STATE 10)
+- ✂️ "Size of a golf ball" replaced by the verified "nearly twice the size of the Koh-i-Noor" (C&L's 280 ct is wrong; ~184.75 ct ✅)
+
+**B. Structure:** 11 beats per outline 1c · ~4,800 words · innocence image = **the diamond paperweight** (5:00), callback at 29:30 (now in an RBI vault) · story motif = **the frozen London vault** (1:00, 9:00, 16:00, 24:00, 26:00 payoff) · mid-video bomb ≈ 16:00 (~50%): the £1,007,940 moved **2 days after** the surrender · "Picture this" scenes: the 1937 TIME cover arriving in London; Perth sheep station in the drought; the 2019 courtroom · "Let's pause here" ×3: the 1948 human cost (fair witness, Sunderlal attributed), the gambler-son claim (fair witness: may reflect British officials' views), the "scrapyard" inheritance · today's-money conversions: $1.4B (1937); Rs 50 lakh privy purse; Rs 218 crore (1995); £1,007,940 (1948) → ~£35M (2019) · documents on screen: TIME cover, privy-purse record, 2019 judgment, 1995 Rajya Sabha answer · no recap padding.
+
+**C. Placements:** checklist #1 at ~12:00 (tie-in: "a fortune split across dozens of trusts and fought over for seventy years…") + book credit (Zubrzycki, *The Last Nizam*; plus *Freedom at Midnight*) · subscribe line at the end of the mid-video chapter (~17:00) · File Lesson ~30:00 (~180 words: what happens to a fortune with no clear plan; too many dependants, an heir untrained in money, trusts and litigation → "speak with an estate attorney") + checklist #2 · ad breaks at the cliffhangers ending Docs I, III (pre-1948), IV (after the bomb), V, VI, VII.
+
+**D. On-screen devices (all relevant here)**
+| Device | Where |
+|---|---|
+| Fortune counter | $1.4B (1937) → privy purse Rs 50 lakh/yr → Rs 218 crore jewels (1995) → £35M (2019), with today's value underneath |
+| Countdown clock | 13–17/18 Sept 1948: "DAY 1… DAY 4" |
+| "2 DAYS LATER" timer | 18 Sept surrender → 20 Sept transfer (the bomb) |
+| Frozen-years ticker | "£1,007,940 · FROZEN 1948… 2019 = 71 YEARS", the sum rising |
+| Head-count counter | "14,700 DEPENDANTS"; ~4,000 phantom names fade (according to the NYT) |
+| Myth vs fact stamps | "Donated 5,000 kg of gold" → MYTH (invested ~425 kg in bonds) · "TIME: world's richest man" → FACT (22 Feb 1937) · "Rats ate his banknotes" → UNPROVEN (one source) · "Same fez for 35 years" → ACCORDING TO ONE BOOK · "The money was sent during the invasion" → MYTH (2 days after) |
+| List counter | "5 ways the richest fortune on Earth disappeared": (1) a kingdom lost in four days (2) £1M frozen for 71 years (3) the privy purse abolished (4) an heir and 14,700 dependants (5) marriages, ventures and lawsuits |
+| Price-tag reveals | the Jacob Diamond · the 173 jewels · Murchison House Station |
+| Then-and-now cuts | Falaknuma (palace → Taj hotel) · Chowmahalla (decay → restored, UNESCO 2010) |
+| "What would you have done?" | once, at the 1967 inheritance: "You've just been handed a fortune, and 14,700 people who depend on it…" |
+| "Watch this detail" | plant Moin Nawaz Jung ~2 minutes before the bomb |
+| Ranked teaser | "the third way was the most expensive, and it happened in a London bank" |
+| Family tree | 6th Nizam → Osman Ali Khan → Azam Jah (skipped) → Mukarram Jah → disputed 9th |
+| Map lines | Hyderabad → London (the money) → Perth (the sheep station) → Istanbul/Antalya → Hyderabad (2023) |
+| Timeline ribbon | 1911 · 1937 · 1948 · 1967 · 1971 · 1995 · 1996 · 2019 · 2023 |
+
+**E. Visuals and sound:** era looks: hand-tinted/sepia for 1911–30s; B&W press for 1937–48; Kodachrome for 1950s–70s Australia; 1990s–2000s digital; present day for 2019/2023 · triptychs for the bomb and the jewel sale · silence before the bomb, the 2019 verdict and the coffin · brand: coin sting, "Document I…" cards, end line · in-video subscribe badge at ~17:00 and the last 20 seconds · **no AI likeness of living people (Princess Esra, Azmet Jah, Najaf Ali Khan)**: licensed photos or none · historical figures: licensed archive where possible · AI disclosure ticked.
+
+**F. Packaging and launch:** 3 titles for Test & Compare: (1) What Happened to the Nizam of Hyderabad, the Richest Man Who Ever Lived? (2) Once Called the Richest Man on Earth: What Happened to the Nizam's Fortune? (3) The Richest Man on Earth Kept a Diamond as a Paperweight. His Heir Died in a Two-Bedroom Flat · 2 thumbnails (paperweight diamond vs heir's coffin or palace) · description (search-first, checklist, Zubrzycki + Collins & Lapierre + an Idea List, chapters, sources) · pinned comment "Lost by history, or by his heirs?" · 4 Shorts: the paperweight diamond / £1M frozen 71 years / 14,700 dependants / the 5,000 kg gold myth · day-2 poll · playlists: The Inheritance Files, Heirs Who Vanished · end screen → File 002 (Mar-a-Lago) · ad-suitability answered honestly (historical conflict deaths, non-graphic).
+
+**G. Before launch (blockers):** ⏳ verify the Princess Elizabeth 1947 wedding necklace + Walter Monckton · ⏳ refresh the checklist PDF example (no Edith) · ⏳ email sign-up page live · ⏳ second source for the 15 Aug 1947 declaration · ⏳ second source for the 2026 Siasat court claim (or cut).
+
 ## 2. SCRIPT
 *Not started. Needs the full fact base first.*
 
