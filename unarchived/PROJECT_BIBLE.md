@@ -130,16 +130,25 @@ A subject passes only if it has:
 - **Title formula:** "The Tragic Story of [Name]: [Money or Fate Hook]" (e.g., "…: The Heir Who Lost $90 Million")
 - **Playlists:** The Inheritance Files · Fortunes Won and Lost · Heirs Who Vanished · Sealed Estates · Daughters of Dynasties · Lessons From the Fall (finance-lesson videos)
 
-### Channel description (long)
-> Every fortune has a fate.
+### Channel description (FINAL, Oct 26 2026; 1,000-character limit)
+> True stories of fortune and fate from history: the families who built great fortunes, the heirs who lost them, and the ordinary people whose lives were changed by luck, money and the choices of others.
 >
-> Unarchived Fortunes opens the sealed records of history's great fortunes and the people they made and broke: the heirs who squandered millions, the children hidden away, the inheritances that tore families apart, and the luck that turned.
+> Unarchived Fortunes is a history documentary channel about old money and the human stories behind it: Gilded Age dynasties, British aristocrats and Europe's great families, and the famous and ordinary people whose fate turned in an instant. Heirs who squandered millions. Children hidden away. Family feuds over wills and inheritances. Talent never rewarded.
 >
-> Extraordinary lives. Hidden costs. Lessons for the living: in every file, what their story teaches about protecting your own family's future.
+> Extraordinary lives. Hidden costs. Lessons for the living. Every fortune has a fate, and every file holds a lesson about money, family and protecting your own family's future.
 >
-> Every documentary is built from real records: letters, wills, court transcripts and photographs. The people always come first.
+> Each documentary is built from real records: letters, wills, court transcripts and photographs. The people always come first.
 >
-> New files opened every week. Subscribe, and step into the archive.
+> A new documentary every week. Subscribe, and step into the archive.
+
+**Scope:** mostly American stories (the biggest, best-paying audience), plus regular British and European fortunes, and famous and ordinary people (artists, dancers, mothers, gifted children) where there is a money thread.
+
+### FINAL BRAND FILES (Oct 26 2026, in `unarchived/brand/`)
+- Banner: `banner_FINAL_2560x1440.png` (ChatGPT extended version, cropped by Claude; passes the phone, desktop and TV checks; uploaded to YouTube)
+- Profile picture: `coin_profile_800.png`
+- **Watermark: `watermark_subscribe_FINAL_600.png`**. A YouTube-red subscribe button with a gold bevel rim, black outer ring, faint banknote pattern, gold diamonds and ivory lettering. Chosen on the owner's coach's advice (a subscribe-style watermark converts better). Display time: entire video. Plain alternative: `watermark_subscribe_plain_red_600.png`.
+- In-video subscribe badge: `subscribe_badge_invideo.png` (ornate gold and wax-red plaque with the locked coin and a bell; used large for 3–4 seconds at the mid-video subscribe line and in the last 20 seconds; fade in and out, no bouncing)
+- Intro sting: the coin spins and stops half-lit (prompt below)
 
 ### SEO KEYWORDS (Oct 26 2026)
 **Channel keywords box (476 of 500 characters):** Unarchived Fortunes, history documentary, true story documentary, old money, Gilded Age, rich families, wealthy families, family fortune, inheritance, heirs, heiress, dynasty, family secrets, tragic story, untold stories, forgotten history, biography documentary, British aristocracy, royal history, American history, financial history, economic history, money lessons, wealth, rise and fall, lost fortune, estate planning, trust fund, Rockefeller, Kennedy family, documentary
