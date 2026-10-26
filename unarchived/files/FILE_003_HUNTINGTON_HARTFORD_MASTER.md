@@ -1,7 +1,7 @@
-# UNARCHIVED FORTUNES — FILE No. 001: HUNTINGTON HARTFORD — MASTER DOCUMENT
-Everything for File 001 in one place. Updated Oct 20, 2026 (script v2.2: v2.1 fully fact-checked, plus the Unarchived Fortunes rebrand).
+# UNARCHIVED FORTUNES — FILE No. 003: HUNTINGTON HARTFORD — MASTER DOCUMENT
+Everything for File 003 in one place. Updated Oct 20, 2026 (script v2.2: v2.1 fully fact-checked, plus the Unarchived Fortunes rebrand).
 
-*This is a master document: all new work for File 001 (video prompts, thumbnails, final edits) goes into this file. Saved from the owner's paste of the lost Oct 19 session.*
+*This is a master document: all new work for File 003 (video prompts, thumbnails, final edits) goes into this file. Saved from the owner's paste of the lost Oct 19 session.*
 
 ### v2.2 changes (Oct 20, 2026, rebrand to Unarchived Fortunes), marked ⟦v2.2⟧
 1. Brand sting: the Fortune Coin spins and stops half-lit (money + fate), with the drawer-slide sound kept. Image prompt #033 updated.
@@ -19,7 +19,7 @@ Everything for File 001 in one place. Updated Oct 20, 2026 (script v2.2: v2.1 fu
 - Image prompts — Batch 4: Documents VI–VII (#344–#455)
 - Image prompts — Batch 5: Documents VIII–IX, File Lesson, CTA (#456–#560)
 
-## FILE No. 001 — HUNTINGTON HARTFORD (v2, recording script)
+## FILE No. 003 — HUNTINGTON HARTFORD (v2, recording script)
 Working title: The Tragic Story of Huntington Hartford: The A&P Heir Who Owned Paradise — and Lost It
 Alt titles (test): "He Owned the Island Where Atlantis Stands. He Lost It for $3 Million." · "The Grocery Heir Who Lost $80 Million Trying to Be Taken Seriously"
 Book credit: Squandered Fortune: The Life and Times of Huntington Hartford — Lisa R. Gubernick (1991)
@@ -69,7 +69,7 @@ Why did a man who lost almost everything never open it?
 
 This is the tragic story of Huntington Hartford — the grocery heir who owned Paradise, and lost it.
 
-⟦v2.2⟧ [STING: the Fortune Coin spins and stops half-lit; drawer-slide sound. Typewriter: FILE No. 001 — HUNTINGTON HARTFORD]
+⟦v2.2⟧ [STING: the Fortune Coin spins and stops half-lit; drawer-slide sound. Typewriter: FILE No. 003 — HUNTINGTON HARTFORD]
 
 ### DOCUMENT I — THE GROCERY THRONE
 
@@ -504,7 +504,7 @@ This file is now closed.
 
 # PART 2 — FACT-CHECK LOG
 
-# File 001: Huntington Hartford — fact-check log (v2.1, Oct 19, 2026)
+# File 003: Huntington Hartford — fact-check log (v2.1, Oct 19, 2026)
 
 ## FACT-CHECK LOG UPDATES (v2)
 
@@ -598,7 +598,7 @@ The cold-open line "a drug habit that began when he was well past sixty" combine
 
 # PART 3 — PUBLISH & REVENUE PLAYBOOK
 
-# FILE No. 001 — PUBLISH & REVENUE PLAYBOOK
+# FILE No. 003 — PUBLISH & REVENUE PLAYBOOK
 
 Views, RPM and revenue levers for Huntington Hartford. Most of these also work as defaults for every future file.
 
@@ -676,14 +676,14 @@ Fool or dreamer? 👇 And if you want the checklist these families missed, it's 
 | Schedule | One file per week, same day and time. Start with publishing around 9–11am US Eastern, which is US morning and UK afternoon, then adjust to your Studio "When your viewers are on YouTube" chart. |
 | End screen | Next-best video plus subscribe. When File 002 exists, point to it directly. |
 
-## 4. REVENUE STREAMS (status for File 001)
+## 4. REVENUE STREAMS (status for File 003)
 
 | Stream | Status / action |
 |---|---|
 | Free checklist → email list | ✅ Two mentions in the script (at about 12 min and at the end of the File Lesson) plus the description and pinned comment |
 | Amazon books | ✅ Two books plus an Idea List. Turn on OneLink (UK, Canada, Australia). Remember the 3-sales-in-180-days rule. |
 | Audible | 🟡 Apply for the bounty program, then fill in the link |
-| Email welcome sequence | ⏳ Email 1: deliver the PDF. Email 2: "the story behind File 001" plus the next file. Later: estate-planning offers (online wills and trusts; verify each affiliate program first). No Amazon links in emails or the PDF. |
+| Email welcome sequence | ⏳ Email 1: deliver the PDF. Email 2: "the story behind File 003" plus the next file. Later: estate-planning offers (online wills and trusts; verify each affiliate program first). No Amazon links in emails or the PDF. |
 | Podcast audio | ⏳ Reuse the narration as a podcast episode on Spotify/Apple at zero extra cost (roadmap: videos 6–12) |
 | Estate-planning affiliates | ⏳ Videos 6–12 |
 | Memberships / Super Thanks | ⏳ At monetization / video 10 |
@@ -694,7 +694,7 @@ Fool or dreamer? 👇 And if you want the checklist these families missed, it's 
 ## 5. BIBLE UPDATE (paste into the project bible)
 
 Oct 19, 2026 session:
-- Hartford confirmed as File 001. The 42K video is Old Money Documentaries (May 9, 2026). The top Hartford video is 107K (Old Money Luxury, about 1 year old).
+- Hartford confirmed as File 003. The 42K video is Old Money Documentaries (May 9, 2026). The top Hartford video is 107K (Old Money Luxury, about 1 year old).
 - Ned Green passes the topic rule with a warning (American Magnates, 28K, Sep 17, 2026). Re-check before scripting; the backup is Jimmy Donahue.
 - Script v2: 8 changes (see the script header), about 4,800 words.
 - The Visual Style Profile is locked: Undertold base plus Old Money luxury and maps, era-matched color, the locked-drawer motif.
@@ -707,7 +707,7 @@ Oct 19, 2026 session:
 
 # PART 4.1 — IMAGE PROMPTS, BATCH 1
 
-# FILE No. 001 — HUNTINGTON HARTFORD
+# FILE No. 003 — HUNTINGTON HARTFORD
 ## STATE 8 · IMAGE PROMPTS · BATCH 1 of ~8 (Cold Open + Document I)
 
 
@@ -1000,13 +1000,13 @@ Oct 19, 2026 session:
 **Camera:** Wide, low angle behind the chair · **Lighting:** Sunset backlight · **Mood:** Paradise lost · **Action:** Slow push toward the chair; light dims
 
 ### #033 · 3s · GRAPHIC: STING ⟦v2.2 rebrand⟧
-[STING: the Fortune Coin spins and stops half-lit; drawer-slide sound. Typewriter: FILE No. 001 — HUNTINGTON HARTFORD]
+[STING: the Fortune Coin spins and stops half-lit; drawer-slide sound. Typewriter: FILE No. 003 — HUNTINGTON HARTFORD]
 
 **Image Prompt:** Brand sting frame: close-up of an antique gold coin engraved as a classical Wheel of Fortune (thin rim, eight slender spokes, small hub) spinning slowly on a dark archive desk under a single warm lamp, one half glowing polished muted gold (#B8975A), the other half falling into cold slate shadow (#3A4048) with a fine hairline crack, a tiny wax-seal red (#8E1B1B) notch at the top of the rim, dust particles, charcoal background (#141414), cinematic documentary realism, shallow depth of field, space for typewriter text below.
 
 **Camera:** Front-on, low · **Lighting:** Single warm lamp sweeping across the coin · **Mood:** Ceremony, fate turning · **Action:** The coin slows and stops half-lit
 
-**Edit:** Drawer-slide sound, then typewriter keys type "FILE No. 001 — HUNTINGTON HARTFORD" in Special Elite.
+**Edit:** Drawer-slide sound, then typewriter keys type "FILE No. 003 — HUNTINGTON HARTFORD" in Special Elite.
 
 ---
 
@@ -1511,7 +1511,7 @@ Oct 19, 2026 session:
 
 # PART 4.2 — IMAGE PROMPTS, BATCH 2
 
-# FILE No. 001 — HUNTINGTON HARTFORD
+# FILE No. 003 — HUNTINGTON HARTFORD
 ## STATE 8 · IMAGE PROMPTS · BATCH 2 of ~8 (Document II + Document III)
 
 
@@ -2480,7 +2480,7 @@ Batch 2 totals: 120 beats (#095–#214) · Document II about 3:10 · Document II
 
 # PART 4.3 — IMAGE PROMPTS, BATCH 3
 
-# FILE No. 001 — HUNTINGTON HARTFORD
+# FILE No. 003 — HUNTINGTON HARTFORD
 ## STATE 8 · IMAGE PROMPTS · BATCH 3 of ~8 (Document IV + Document V)
 
 
@@ -3230,7 +3230,7 @@ Batch 3 totals: 129 beats (#215–#343) · Document IV about 5:00 · Document V 
 
 # PART 4.4 — IMAGE PROMPTS, BATCH 4
 
-# FILE No. 001 — HUNTINGTON HARTFORD
+# FILE No. 003 — HUNTINGTON HARTFORD
 ## STATE 8 · IMAGE PROMPTS · BATCH 4 of ~6 (Document VI + Document VII)
 
 Rules from Batch 1 apply. The 55+ audience fit applies: no cut under 2 seconds; large text held for at least 3 seconds; smooth motion; music below the voice.
@@ -3885,7 +3885,7 @@ Rules from Batch 1 apply. The 55+ audience fit applies: no cut under 2 seconds; 
 
 # PART 4.5 — IMAGE PROMPTS, BATCH 5
 
-# FILE No. 001 — HUNTINGTON HARTFORD
+# FILE No. 003 — HUNTINGTON HARTFORD
 ## STATE 8 · IMAGE PROMPTS · BATCH 5 of 5 (Document VIII + Document IX + File Lesson + CTA)
 
 
@@ -4510,7 +4510,7 @@ File Lesson visuals: keep an on-screen disclaimer, "Educational only. Not legal 
 "This file is now closed."
 **Image Prompt:** A cream manila case folder closing on a dark walnut desk, a hand pressing a fresh red wax seal onto its flap, warm lamp light, dust motes, cinematic documentary realism, shallow depth of field, no text.
 **Camera:** Top-down · **Lighting:** Warm lamp · **Mood:** Ceremony · **Action:** The seal presses down
-**Edit:** A soft wax-press sound. Typewriter: "FILE No. 001 — CLOSED".
+**Edit:** A soft wax-press sound. Typewriter: "FILE No. 003 — CLOSED".
 
 ### #560 · 4s · GRAPHIC: SIGNATURE
 "But every fortune has a fate, and the archive is still open." ⟦v2.2⟧

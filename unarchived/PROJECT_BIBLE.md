@@ -100,6 +100,26 @@ A subject passes only if it has:
 **No proven demand (gambles):** Stanley McCormick, Tommy Manville, Pegeen Guggenheim, Mary Todd Lincoln.
 **Huntington Hartford check:** only competitor is Old Money Documentaries, 42K, 5 months ago, so not saturated. But no 100K+ Hartford video was found (the 107K Old Money Luxury video wasn't located). Verify topic rule #1 in NexLev.
 
+### WINNING TOPIC SYSTEM (Oct 26 2026, owner-approved; supersedes topic rule #2)
+**Method A: competitor outliers (data-driven).** Use only videos under 6 months old, sorted by most recent. An outlier is ≥3× its channel's median views (check absolute views too, because tiny channels inflate the multiplier). Then run the appearance check across the niche (NexLev outlier database plus YouTube search plus competitor channels):
+- 1–3 real appearances, all outliers → copy the topic and tweak the title (new script, our own value).
+- 3–10 channels, mostly outliers → do it fast.
+- Outlier for one channel, average for others → **topic swap** only (same angle, new subject).
+- Mostly flops → never. No one-hit wonders: a topic needs at least 2 independent outliers.
+- Count copies in the last 30 days: rising is good, a flood is late.
+- Check RPM and geography in NexLev (get_video_rpm, get_geography_revenue) before choosing.
+**Method B: ICAM keyword search (needs human judgment).** Take 20 audience keywords and search real YouTube, excluding Shorts. Keep videos with 100K+ views, from channels under 100K subscribers, with views at least 5× subscribers; prefer mediocre thumbnails. A keyword with 3 or more passing videos is proven search demand. ⚠️ Keywords get polluted by fiction, mini-dramas and other meanings ("inheritance" etc.), so judge every result by hand. ICAM proves lasting demand, not trends.
+**Scoring (make it at 6 or more out of 9):** passes A +3 · passes B +2 · copies rising but not flooded +1 · fits brand and File Lesson +1 · US, UK, Canada and Australia audience plus strong RPM +1 · mediocre competitor thumbnails +1.
+**After launch:** check click rate and audience retention at 48 hours and 7 days; feed the results into the next topic choice. A trend can run as Part 1, 2, 3 while it lasts; drop it when it dies.
+**Topic rule #2 ("no 50K+ video in the last 3–4 months") is superseded** by the appearance check.
+
+### ✅ FILE ORDER (Oct 26 2026)
+- **File 001: The Nizam of Hyderabad.** Score about 8/9. See `files/FILE_001_NIZAM_OF_HYDERABAD_MASTER.md`.
+- **File 002: Marjorie Merriweather Post and Mar-a-Lago** (proven, RPM about $9.30, but crowded with 13 long-form videos in 6 months; needs a sharp new angle).
+- **File 003: Huntington Hartford** (script and 560 prompts done; renumbered from 001; launch after Mar-a-Lago to ride the same Florida and Bahamas paradise wave; retitle then).
+- **Corrections from the Oct 26 deep check:** Elizabeth Taylor's children is saturated and mixed (21 long-form in 6 months, 3 outliers, 6 flops), so topic swap only. Alwaleed has a low RPM (~$3), so drop it. Ottoman royal family is crowded and mixed. The Habsburg wave is late. The Romanov fortune and Trump's siblings flop.
+- **Topic-swap ideas:** "locked in an asylum by her own son" (Mary Todd Lincoln, mixed) → Harry K. Thaw / Stanley McCormick · "How the Vanderbilts lost…" (mixed) → the Astors / the Goulds.
+
 ### Topic status
 - **Edith Rockefeller McCormick:** script written and fact-checked, but **SATURATED → vault** (later use: podcast, newsletter, Kindle book chapter).
 - **File No. 001: Huntington Hartford (CONFIRMED by owner, Oct 20 2026).** The perfect dual-meaning story: a giant money fortune and a fate that took it all. Topic rule PASSED in the Oct 19 session: top Hartford video 107K (Old Money Luxury, ~1 year old); most recent sizable one 42K (Old Money Documentaries, May 9 2026), under the 50K line. **Script v2.1 is written and fully fact-checked (~4,800 words); all 560 image prompts are done.** Everything is in the File 001 master document. A&P heir who lost about $90M of an inheritance; owned the Bahamas resort where **Atlantis** now stands; died 2008 aged 97. Book to link: *Squandered Fortune* by Lisa Gubernick (1991).
@@ -326,7 +346,8 @@ This video is for historical and educational purposes. Nothing here is legal or 
 ## 11. FILES IN THIS REPO: TWO MASTER DOCUMENTS (folder names stay `unarchived/` on purpose)
 **Master doc 1:** `unarchived/PROJECT_BIBLE.md` (this file): every channel-level decision.
 **Master doc 2 (one per video):** `unarchived/files/FILE_00X_<NAME>_MASTER.md`: everything for that video, updated in place.
-- `unarchived/files/FILE_001_HUNTINGTON_HARTFORD_MASTER.md`: script v2.2 (rebranded), full fact-check log, publish & revenue playbook, 560 image prompts (5 batches), placeholders for video prompts and thumbnails.
+- `unarchived/files/FILE_001_NIZAM_OF_HYDERABAD_MASTER.md`: File 001, research in progress.
+- `unarchived/files/FILE_003_HUNTINGTON_HARTFORD_MASTER.md` (renumbered from 001): script v2.2 (rebranded), full fact-check log, publish & revenue playbook, 560 image prompts (5 batches), placeholders for video prompts and thumbnails.
 
 Supporting files:
 - `unarchived/CHANNEL_MODEL_v2.md` (the master workflow prompt, saved word for word, plus Claude's notes)
