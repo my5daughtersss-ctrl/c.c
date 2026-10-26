@@ -2471,3 +2471,405 @@ But every fortune has a fate, and the archive is still open.
 **Edit:** Frozen-years ticker returns "1948 → …". Low hit into Document IX (no ad break here: v1.1).
 
 *Batch 4: 73 beats (#254–#326) · Documents VII–VIII (~5.4 min). Running total 326. Next: Batch 5 = Document IX, What Was Actually Lost, File Lesson, CTA.*
+
+### 4g. IMAGE PROMPTS · BATCH 5 of 5 (Document IX, What Was Actually Lost, File Lesson, CTA)
+*Living people in this batch (Princess Esra, Azmet Jah, Najaf Ali Khan): [REAL PHOTO] only (licensed news photos), or no image of them at all.*
+
+#### DOCUMENT IX — THE VAULT OPENS
+
+**#327 · 3s · GRAPHIC (chapter card)**
+"DOCUMENT IX — THE VAULT OPENS"
+**Image Prompt:** Brand graphic: an aged manila file folder on charcoal #141414 with a cracked wax-seal red seal, muted gold tab, lamp light, no text.
+**Action:** The seal cracks · **Edit:** "DOCUMENT IX · THE VAULT OPENS".
+
+**#328 · 4s · GRAPHIC (frozen-years ticker)**
+[FROZEN-YEARS TICKER: 1948… 1960… 1980… 2000… 2019]
+**Image Prompt:** Photoreal cinematic still: the 1940s steel vault door with the ledger tag, cold blue light, a faint layer of dust thickening on the steel, deep black background, no readable text.
+**Camera:** Straight-on, slow push · **Lighting:** Cold blue · **Mood:** Time frozen · **Action:** Dust settles in time-lapse
+**Edit:** Ticker rolls "1948 · 1960 · 1980 · 2000 · 2019" (only counter).
+
+**#329 · 4s · ERA COLOR (1980s)**
+"For decades, the frozen account sat in London while the world changed around it."
+**Image Prompt:** 1980s colour photograph style: the City of London skyline with new glass office towers rising beside old stone banks, red buses below, faded colour, grain, documentary realism, no readable text.
+**Camera:** Wide, slow pan · **Lighting:** Daylight · **Mood:** Time moving on · **Action:** Pan across the skyline
+
+**#330 · 5s · ARCHIVE (triptych)**
+"Pakistan claimed it. India claimed it. The Nizam's heirs claimed it."
+**Image Prompt:** Triptych of three black-and-white documentary photographs side by side: (1) a stack of Pakistani government legal files, (2) a stack of Indian government legal files, (3) a family legal file tied with ribbon, all on dark desks, matched grain, no readable text.
+**Camera:** Panels revealed one at a time · **Lighting:** Lamp · **Mood:** Three claims · **Action:** Panels appear on each claim
+**Edit:** Labels "PAKISTAN" / "INDIA" / "THE HEIRS".
+
+**#331 · 5s · LUXURY**
+"The old Nizam died in 1967. The empire the bank had served disappeared. And still, the money waited."
+**Image Prompt:** Photoreal still: the brass combination dial of the old vault door in extreme close-up, tarnished green with age, a cobweb across it, cold light, no text.
+**Camera:** Macro, very slow push · **Lighting:** Cold side light · **Mood:** Endless wait · **Action:** A spider thread trembles
+
+**#332 · 2s · ERA COLOR (present day)**
+"Picture the courtroom."
+**Image Prompt:** Present-day documentary colour photograph: the grand Gothic main hall of the Royal Courts of Justice in London, stone arches and a mosaic floor, quiet, photoreal, no people, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Cool daylight · **Mood:** Gravity · **Action:** Push-in
+
+**#333 · 5s · DOCUMENT**
+"The case is about a single transfer, made seventy years earlier, in a kingdom that no longer existed."
+**Image Prompt:** Overhead documentary photograph style: the 1948 transfer advice from #188, now photocopied and marked as a court exhibit with a numbered tab, lying on a modern legal binder, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Old evidence · **Action:** Highlight sweep on the amount line
+**Edit:** Tag "EXHIBIT · 20 SEPT 1948".
+
+**#334 · 5s · ARCHIVE (triptych)**
+"And yet every detail matters: who signed what, on whose authority, two days after which surrender."
+**Image Prompt:** Triptych of three sepia close-ups side by side: (1) a signature in fountain-pen ink (illegible), (2) a royal seal impression, (3) a calendar page, matched grain, no readable text.
+**Camera:** Panels revealed one at a time · **Lighting:** Lamp · **Mood:** Forensic · **Action:** Each panel appears on its phrase
+**Edit:** Labels "WHO SIGNED?" / "WHOSE AUTHORITY?" / "+2 DAYS".
+
+**#335 · 5s · ERA COLOR (present day)**
+"And on the 2nd of October, 2019, in London's High Court, Mr Justice Marcus Smith delivered his judgment."
+**Image Prompt:** Present-day documentary colour photograph: an English High Court courtroom with dark oak panelling, the judge's raised bench and a royal coat of arms above it, empty benches, soft overhead light, photoreal, no people, no readable text.
+**Camera:** Centered, slow push toward the bench · **Lighting:** Soft overhead · **Mood:** Verdict · **Action:** Push-in
+**Edit:** 2s silence before the verdict. Caption "HIGH COURT, LONDON · 2 OCTOBER 2019".
+
+**#336 · 5s · DOCUMENT · [REAL PHOTO: judgment]**
+"The money, he ruled, had belonged to the seventh Nizam all along."
+**Image Prompt:** [REAL PHOTO]: a screenshot of the published judgment, [2019] EWHC 2551 (Ch), first page (public court document), slow push and highlight sweep over the conclusion paragraph.
+**Camera:** Slow push · **Mood:** Resolution · **Action:** Highlight sweep
+**Edit:** Stamp "RULING: BELONGED TO THE 7th NIZAM".
+
+**#337 · 5s · ARCHIVE · [REAL PHOTO: Prince Of Hyderabad.jpg / licensed]**
+"His heirs, Mukarram Jah and his brother Muffakham Jah, together with India, were entitled to it."
+**Image Prompt:** [REAL PHOTO]: *Prince Of Hyderabad.jpg* (Wikipedia, the brothers as young men) or licensed later photos; slow push. No AI faces.
+**Camera:** Slow push · **Mood:** Inheritance confirmed · **Action:** Push-in
+**Edit:** Labels "MUKARRAM JAH" / "MUFFAKHAM JAH" + "INDIA".
+
+**#338 · 2s · GRAPHIC**
+"Pakistan's arguments failed."
+**Image Prompt:** Brand graphic: the triptych label "PAKISTAN" from #330 on charcoal #141414.
+**Edit:** The label is crossed by a thin wax-seal red line. No celebration graphics.
+
+**#339 · 4s · GRAPHIC (motif payoff)**
+[TICKER STOPS: 71 YEARS]
+**Image Prompt:** Photoreal cinematic still: the 1940s steel vault door swinging open, warm golden light spilling out from inside onto the dusty floor, cold blue light outside, no people, no readable text.
+**Camera:** Straight-on, slow push into the light · **Lighting:** Warm inside vs cold outside · **Mood:** Release · **Action:** The door opens, bolts withdraw
+**Edit:** Ticker stops "71 YEARS". Low resonant hit.
+
+**#340 · 3s · DOCUMENT**
+"And the one million pounds moved two days after a surrender?"
+**Image Prompt:** Overhead documentary photograph style: the original 1948 transfer advice lying alone on an empty desk in a pool of lamplight, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Callback · **Action:** Push-in
+
+**#341 · 4s · GRAPHIC (fortune counter)**
+[FORTUNE COUNTER: £1,007,940 → ~£35,000,000]
+**Image Prompt:** Brand graphic background: charcoal #141414 with faint engraved banknote guilloche in muted gold, empty centre, no text.
+**Edit:** Counter climbs "£1,007,940 (1948) → ~£35,000,000 (2019)" (only counter).
+
+**#342 · 3s · LUXURY**
+"After seventy-one years, it had grown to around thirty-five million pounds."
+**Image Prompt:** Photoreal still: neat stacks of modern Bank of England banknotes in a vault tray under warm light, shallow depth of field, no readable text.
+**Camera:** Close, slow push · **Lighting:** Warm · **Mood:** Scale · **Action:** Push-in
+
+**#343 · 5s · GRAPHIC**
+"It's a remarkable number, but it isn't the answer to what happened to the whole fortune. It's one fund."
+**Image Prompt:** Brand graphic: a large faint outline of a treasure chest on charcoal #141414 with one small solid muted-gold coin inside it, no text.
+**Camera:** Static, slow push to the coin · **Lighting:** Even · **Mood:** Perspective · **Action:** The outline fades, the coin stays
+**Edit:** "ONE FUND · NOT THE WHOLE FORTUNE".
+
+**#344 · 2s · ARCHIVE**
+"And it came at a price of its own."
+**Image Prompt:** Authentic black-and-white photograph style: a lawyer's invoice ledger on a desk with a fountain pen, film grain, vignette, no readable text.
+**Camera:** Close, slow push · **Lighting:** Lamp · **Mood:** Twist · **Action:** Push-in
+
+**#345 · 4s · ERA COLOR (present day)**
+"Seventy-one years of claims and counterclaims meant lawyers on every side."
+**Image Prompt:** Present-day documentary colour photograph: barristers in wigs and black gowns walking along a stone corridor in the Royal Courts of Justice, seen from behind, carrying document boxes, photoreal, no faces, no readable text.
+**Camera:** Medium, from behind, slow drift · **Lighting:** Cool daylight · **Mood:** Cost · **Action:** Drift with them
+
+**#346 · 5s · DOCUMENT**
+"A few months later, the court ordered Pakistan to pay, up front, sixty-five percent of the other sides' legal costs."
+**Image Prompt:** Overhead documentary photograph style: a typed modern court costs order with a court seal and a table of figures (unreadable), a calculator beside it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** The bill · **Action:** Highlight sweep across the table
+**Edit:** "COSTS ORDER · DEC 2019 · PAKISTAN PAYS 65% (ON ACCOUNT)".
+
+**#347 · 3s · LUXURY**
+"Even a victory, in this family, arrived with a bill attached."
+**Image Prompt:** Photoreal still: an elegant silver tray holding a single envelope sealed with red wax, on a dark polished table, warm lamplight, no readable text.
+**Camera:** Close, slow push · **Lighting:** Warm · **Mood:** Irony · **Action:** Push-in
+
+**#348 · 3s · ARCHIVE**
+"And even this victory didn't end the arguments."
+**Image Prompt:** Authentic black-and-white photograph style: a long table in a family hall with empty chairs pushed back unevenly, papers scattered across it, film grain, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Window · **Mood:** Unfinished · **Action:** A paper slides off the table
+
+**#349 · 6s · DOCUMENT · [REAL PHOTO only if used: Najaf Ali Khan]**
+"Within days of the ruling, another grandson of the seventh Nizam, Najaf Ali Khan, said that around a hundred and twenty relatives deserved a share."
+**Image Prompt:** Overhead documentary photograph style: a newspaper page from October 2019 folded on a desk, a headline area and photo area (unreadable), reading glasses, desk-lamp light, no readable text. Optional [REAL PHOTO] inset of Najaf Ali Khan (licensed news photo); never AI.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** New claims · **Action:** Highlight sweep
+**Edit:** "NAJAF ALI KHAN: '~120 RELATIVES DESERVE A SHARE'" (attributed: "SAID"). → AD BREAK 4.
+
+**#350 · 4s · ERA COLOR (present day)**
+"Meanwhile, Hyderabad itself was reclaiming the past."
+**Image Prompt:** Present-day documentary colour photograph: the Charminar in Hyderabad at golden hour with traffic and street life around it, photoreal, faces small, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Golden hour · **Mood:** Renewal · **Action:** Push-in
+
+**#351 · 5s · ARCHIVE · [REAL PHOTO only: Princess Esra]**
+"Mukarram Jah's first wife, Princess Esra, had returned and led the restoration of the Chowmahalla Palace,"
+**Image Prompt:** [REAL PHOTO]: a licensed news photograph of Princess Esra at Chowmahalla Palace (Getty/PTI). Never AI. Fallback with no person: Chowmahalla's restored courtyard and fountains in present-day colour.
+**Camera:** Slow push · **Mood:** Restoration · **Action:** Push-in
+**Edit:** Caption "PRINCESS ESRA · LED THE RESTORATION".
+
+**#352 · 5s · LUXURY (then-and-now)**
+"which won a UNESCO heritage award in 2010."
+**Image Prompt:** Photoreal documentary style: Chowmahalla Palace's restored Khilwat durbar hall with gleaming chandeliers and fresh white marble, warm light, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Warm · **Mood:** Revival · **Action:** Match-cut from #228's faded version (then-and-now)
+**Edit:** "UNESCO ASIA-PACIFIC HERITAGE AWARD · 2010".
+
+**#353 · 5s · ERA COLOR (present day)**
+"The Falaknuma Palace, high on a hill above the city, was restored and leased to the Taj hotel group."
+**Image Prompt:** Present-day documentary colour photograph: the Falaknuma Palace on its hilltop above Hyderabad in daylight, the white facade fully restored, manicured gardens and a horse-drawn carriage at the entrance, photoreal, no readable text.
+**Camera:** Wide aerial-like, slow push · **Lighting:** Bright day · **Mood:** Transformation · **Action:** Push-in
+**Edit:** Caption "FALAKNUMA PALACE · TAJ HOTEL SINCE 2010".
+
+**#354 · 3s · LUXURY**
+"Today, anyone can book a room there."
+**Image Prompt:** Photoreal documentary style: a luxurious palace hotel suite with a canopy bed, silk cushions, a tray of tea and an open window onto the city, warm light, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Warm window · **Mood:** Irony, accessibility · **Action:** Curtain moves in the breeze
+
+**#355 · 4s · GRAPHIC (then-and-now)**
+[THEN-AND-NOW: FALAKNUMA · ROYAL PALACE → LUXURY HOTEL]
+**Image Prompt:** Split-screen: left, an authentic 1930s sepia photograph of the Falaknuma Palace; right, the same angle in present-day colour (from #353), matched composition, no text.
+**Camera:** Static, slow push · **Mood:** Then and now · **Action:** A wipe from left to right
+**Edit:** Labels "ROYAL PALACE" / "HOTEL". [REAL PHOTO] preferred for the left half (public-domain archive photo).
+
+**#356 · 5s · ERA COLOR (present day)**
+"And in January 2023, the eighth Nizam died in Istanbul, aged eighty-nine."
+**Image Prompt:** Present-day documentary colour photograph: the Istanbul skyline at dusk across the Bosphorus, mosque domes and minarets silhouetted, calm water, photoreal, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Dusk · **Mood:** Ending · **Action:** Lights come on along the shore
+**Edit:** Caption "ISTANBUL · JANUARY 2023". 1s silence.
+
+**#357 · 5s · ARCHIVE**
+"His body was flown home, and on the 18th of January he was buried in Hyderabad beside his ancestors."
+**Image Prompt:** Authentic documentary photograph style in muted present-day colour: the marble tombs of the Asaf Jahi family in the courtyard beside Mecca Masjid in Hyderabad, marigold petals on the stone, soft overcast light, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Overcast · **Mood:** Peace · **Action:** Petals stir
+**Edit:** Caption "18 JANUARY 2023 · HYDERABAD". [REAL PHOTO] option: licensed news photos of the funeral (crowd only).
+
+**#358 · 4s · ERA COLOR (bookend)**
+"The coffin from the beginning of this story."
+**Image Prompt:** Present-day documentary colour photograph: the green-and-gold draped coffin from #002 carried by men seen only from behind through a crowded old-city lane, overcast light, respectful distance, photoreal, no faces, no text.
+**Camera:** Medium-wide, from behind, slow push · **Lighting:** Overcast · **Mood:** Full circle · **Action:** Push-in, matching #002's framing
+**Edit:** Match-cut to #002 for 1s, then back.
+
+**#359 · 2s · GRAPHIC**
+"Even now, it isn't over."
+**Image Prompt:** Brand graphic: the family tree on charcoal #141414 with a new empty branch appearing at the bottom, ivory lines, no text.
+**Action:** The branch draws on
+
+**#360 · 6s · DOCUMENT · [REAL PHOTO only if used: Azmet Jah]**
+"A grandson, Azmet Jah, was named the ninth Nizam, a title the Indian state does not recognize and other members of the family dispute."
+**Image Prompt:** Overhead documentary photograph style: a 2023 newspaper clipping on a desk beside the old family-tree document, a question mark pencilled in the margin, desk-lamp light, no readable text. Optional [REAL PHOTO] inset of Azmet Jah (licensed news photo); never AI.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Disputed · **Action:** Highlight sweep
+**Edit:** Family tree slot "AZMET JAH · '9th NIZAM' · NOT RECOGNISED BY THE STATE · DISPUTED".
+
+#### WHAT WAS ACTUALLY LOST?
+
+**#361 · 3s · GRAPHIC (card)**
+"So what was actually lost?"
+**Image Prompt:** Brand graphic: a manila folder on charcoal #141414 stamped with a blank wax-seal red mark, lamp light, no text.
+**Edit:** Card "WHAT WAS ACTUALLY LOST?".
+
+**#362 · 2s · LUXURY · [REAL PHOTO: Jacob Diamond.jpg]**
+"The diamond survived."
+**Image Prompt:** [REAL PHOTO]: *Jacob Diamond.jpg*, slow push.
+**Edit:** "SURVIVED ✓" small, ivory.
+
+**#363 · 2s · ERA COLOR (present day)**
+"The palaces survived."
+**Image Prompt:** Present-day documentary colour photograph: Falaknuma Palace facade at blue hour, lights glowing, photoreal, no text.
+**Camera:** Wide, slow push · **Action:** Lights glow
+**Edit:** "SURVIVED ✓".
+
+**#364 · 4s · GRAPHIC (motif)**
+"Even the money trapped in a London bank survived long enough for a judge to decide who owned it."
+**Image Prompt:** Photoreal cinematic still: the open 1940s vault door with warm light inside, now empty, cold light outside, no text.
+**Camera:** Slow push · **Mood:** Resolution · **Action:** Push into the empty vault
+**Edit:** "SURVIVED ✓".
+
+**#365 · 4s · ARCHIVE**
+"What did not survive was the world that had made the fortune possible:"
+**Image Prompt:** Authentic sepia photograph style: a faded 1930s photograph of a royal procession with elephants and banners lying on a desk, its edges curling and a corner burnt away, film grain, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Loss · **Action:** The photo slowly curls
+
+**#366 · 4s · LUXURY**
+"the throne that produced it, and the power to control it."
+**Image Prompt:** Photoreal documentary style: the empty gilded throne under a dust sheet in a dark hall, a single beam of light on it, film grain, no people, no text.
+**Camera:** Low angle, slow pull back · **Lighting:** Single beam · **Mood:** Final reversal · **Action:** The beam narrows
+**Edit:** "THE THRONE ✗ · CONTROL ✗".
+
+**#367 · 3s · ERA COLOR (present day)**
+"Maybe that's the real lesson of this file."
+**Image Prompt:** Present-day documentary colour photograph: a closed manila case file on a dark desk beside a reading lamp, photoreal, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Reflection · **Action:** Push-in
+
+**#368 · 3s · GRAPHIC (anaphora 1)**
+"A fortune is only as strong as the system that protects it."
+**Image Prompt:** Brand graphic: a muted gold coin on charcoal #141414 standing on a thin ivory pillar, no text.
+**Edit:** Line 1 of 3 appears, held 3s.
+
+**#369 · 3s · ARCHIVE (anaphora 2)**
+"An heir needs training, not just a title."
+**Image Prompt:** Authentic black-and-white photograph style: a crown resting on top of an unopened ledger, film grain, vignette, no text.
+**Camera:** Close, slow push · **Lighting:** Spot · **Mood:** Lesson · **Action:** Push-in
+**Edit:** Line 2 of 3.
+
+**#370 · 5s · DOCUMENT (anaphora 3)**
+"And a family without clear rules doesn't inherit wealth. It inherits arguments."
+**Image Prompt:** Overhead documentary photograph style: a will document torn across into several pieces on a desk, many pens scattered around it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Sobering · **Action:** Pieces drift slightly apart
+**Edit:** Line 3 of 3, then all three held together 3s. 1s silence.
+
+#### FILE LESSON (no ad, disclaimer on screen)
+
+**#371 · 3s · GRAPHIC (card)**
+"Which brings us to today's File Lesson."
+**Image Prompt:** Brand graphic: a manila folder with a muted gold "LESSON" tab area (blank) on charcoal #141414, lamp light, no text.
+**Edit:** Card "THE FILE LESSON". Disclaimer bar "GENERAL INFORMATION · NOT LEGAL ADVICE" stays on screen until #383.
+
+**#372 · 2s · ERA COLOR (present day)**
+"Most of us will never leave a kingdom."
+**Image Prompt:** Present-day documentary colour photograph: a modest suburban house on a quiet street in the morning, a car in the drive, photoreal, no people, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Morning · **Mood:** Ordinary life · **Action:** Push-in
+
+**#373 · 3s · GRAPHIC**
+"But the same five forces show up in ordinary families."
+**Image Prompt:** Brand graphic: the five manila folders from Document I fanned on charcoal #141414, now labelled with small house icons, no text.
+**Action:** Folders fan out
+
+**#374 · 3s · LUXURY**
+"Wealth tied up in a house nobody can afford to run."
+**Image Prompt:** Photoreal documentary style: a large, slightly tired family home with an overgrown garden and a stack of utility bills on the hall table seen through the open front door, warm light, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Warm · **Mood:** Relatable burden · **Action:** Push to the bills
+
+**#375 · 3s · ARCHIVE**
+"One heir left in charge with no help."
+**Image Prompt:** Authentic documentary photograph style, muted colour: a single person seen from behind sitting at a kitchen table covered with papers and envelopes, head in one hand, evening light, no face, no readable text.
+**Camera:** Medium, from behind, static push · **Lighting:** Evening lamp · **Mood:** Alone · **Action:** Slow push
+
+**#376 · 4s · DOCUMENT**
+"Obligations nobody wrote down. Accounts no one else knows about."
+**Image Prompt:** Overhead documentary photograph style: a drawer pulled open to reveal loose bank statements, a forgotten passbook and a small key, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Hidden problems · **Action:** Push to the key
+
+**#377 · 2s · GRAPHIC**
+"The fixes are usually simple."
+**Image Prompt:** Brand graphic: a clean ivory checklist outline with four empty boxes on charcoal #141414, muted gold ticks ready, no text.
+**Action:** The checklist draws on
+
+**#378 · 3s · DOCUMENT**
+"Write down what you own and where it is."
+**Image Prompt:** Overhead documentary photograph style: a hand writing a list in a notebook beside house keys and a bank card, warm light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Warm · **Mood:** Practical · **Action:** The pen writes
+**Edit:** Tick 1 "WRITE DOWN WHAT YOU OWN".
+
+**#379 · 3s · ERA COLOR (present day)**
+"Choose who will be in charge, and tell them."
+**Image Prompt:** Present-day documentary colour photograph: two people seen from behind sitting together at a kitchen table looking over a folder of papers, warm light, photoreal, no faces, no readable text.
+**Camera:** Medium, from behind, slow push · **Lighting:** Warm · **Mood:** Trust · **Action:** One hand passes the folder to the other
+**Edit:** Tick 2 "CHOOSE WHO'S IN CHARGE · TELL THEM".
+
+**#380 · 3s · DOCUMENT**
+"Keep your will and your beneficiaries up to date."
+**Image Prompt:** Overhead documentary photograph style: a will document and a beneficiary form side by side with a pen and a calendar showing a circled date, warm light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Warm · **Mood:** Routine care · **Action:** Highlight sweep
+**Edit:** Tick 3 "KEEP YOUR WILL UP TO DATE".
+
+**#381 · 5s · LUXURY**
+"And if a lot of people will depend on what you leave behind, get proper advice on whether a trust makes sense."
+**Image Prompt:** Photoreal documentary style: a calm professional office with a desk, two chairs, a bookshelf of law books and a folder labelled with a blank tab, warm window light, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Warm window · **Mood:** Responsible · **Action:** Push to the empty chairs
+**Edit:** Tick 4 "ASK ABOUT A TRUST IF MANY DEPEND ON YOU".
+
+**#382 · 4s · GRAPHIC (disclaimer)**
+"This is general information, not legal advice, so speak with an estate attorney."
+**Image Prompt:** Brand graphic: plain charcoal #141414 card with a soft muted-gold border, no imagery, no AI text.
+**Edit:** "GENERAL INFORMATION · NOT LEGAL ADVICE · SPEAK WITH AN ESTATE ATTORNEY", held 4s.
+
+**#383 · 5s · DOCUMENT (checklist #2)**
+"And if you want a simple place to start, the free Family Legacy Checklist is in the description."
+**Image Prompt:** The real Family Legacy Checklist PDF cover composited on a desk (as #239). AI background only: overhead photoreal desk with a pen and warm light, no text.
+**Camera:** Slow push · **Mood:** Offer · **Action:** Cover slides in
+**Edit:** "FREE CHECKLIST · LINK IN DESCRIPTION ↓", held 4s.
+
+#### CTA + NEXT FILE
+
+**#384 · 2s · ERA COLOR (present day)**
+"So here's my question for you."
+**Image Prompt:** Present-day documentary colour photograph: an empty leather armchair beside a reading lamp in a dark study, photoreal, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Lamp · **Mood:** Invitation · **Action:** Push-in
+
+**#385 · 4s · ARCHIVE**
+"Was the Nizam's fortune lost to history, to forces no family could have stopped?"
+**Image Prompt:** Authentic 1948 black-and-white photograph style: the lowered flag and closed palace gates from Document IV, film grain, vignette, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Grey · **Mood:** History · **Action:** Push-in
+**Edit:** "HISTORY?" in ivory (left side).
+
+**#386 · 3s · LUXURY**
+"Or was it lost by his heirs?"
+**Image Prompt:** Photoreal documentary style: the auction tray with a single jewel and a gavel from #292, cool light, no faces, no text.
+**Camera:** Close, slow push · **Lighting:** Cool · **Mood:** Heirs · **Action:** Push-in
+**Edit:** "…OR HEIRS?" (right side).
+
+**#387 · 4s · GRAPHIC (binary CTA)**
+"History, or heirs? Tell me in the comments. I read every single one."
+**Image Prompt:** Brand graphic: a split charcoal #141414 card, left half muted gold, right half wax-seal red, a thin ivory line between them, no AI text.
+**Edit:** "HISTORY" | "HEIRS" + "COMMENT BELOW", held 4s.
+
+**#388 · 5s · GRAPHIC**
+"Next, a different question: what happens when the person who builds a fortune no longer gets to decide what becomes of it?"
+**Image Prompt:** Brand graphic: a sealed manila folder stamped "FILE No. 002" area (blank) on charcoal #141414, wax-seal red seal intact, lamp light, no AI text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Next mystery · **Action:** The seal glints
+**Edit:** "FILE No. 002" typewriter.
+
+**#389 · 5s · ERA COLOR (1930s) · [REAL PHOTO preferred]**
+"In Florida, America's richest heiress built one of the grandest palaces in the country, and tried to give it to the nation."
+**Image Prompt:** [REAL PHOTO] preferred: a public-domain 1920s–30s photo of the Mar-a-Lago estate (Library of Congress / HABS). AI fallback: 1930s hand-tinted photograph style, a vast Mediterranean-style palace estate with a tall tower between the ocean and a lake in Palm Beach, palm trees, pastel tint, film grain, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Tropical sun · **Mood:** Tease · **Action:** Push toward the tower
+**Edit:** ⏳ verify "tried to give it to the nation" in File 002 research before recording (section 1d, G).
+
+**#390 · 3s · GRAPHIC (end screen)**
+"That file is waiting for you right here."
+**Image Prompt:** Brand graphic: charcoal #141414 end-screen layout with a muted gold frame for the next video and space for the subscribe badge, no text.
+**Edit:** YouTube end-screen element → File 002 (or the best-performing video until File 002 is live) + subscribe badge (last 20 seconds).
+
+**#391 · 3s · GRAPHIC (brand end line)**
+"This file is now closed."
+**Image Prompt:** Use the locked Fortune Coin asset on charcoal #141414.
+**Action:** The manila folder closes; a wax seal presses onto it.
+
+**#392 · 4s · GRAPHIC (brand end line)**
+"But every fortune has a fate, and the archive is still open."
+**Image Prompt:** Use the locked Fortune Coin asset (coin_transparent_800.png) on charcoal #141414.
+**Action:** The coin spins and stops half-lit, as in the opening sting. End-screen elements stay up.
+
+*Batch 5: 66 beats (#327–#392) · Document IX to the end (~5.4 min). **STATE 8 COMPLETE: 392 image prompts, ≈ 28.7 min.***
+
+### 4h. STATE 8 SUMMARY + SOURCING TO-DO (owner)
+- **392 beats**, 2–6s each (average ≈ 4.4s), no shot under 2s, shot types rotated.
+- **[REAL PHOTO] shots to collect** (download into `unarchived/files/FILE_001_assets/` when sourced; check each licence):
+  - TIME cover 22 Feb 1937 (TIME vault)
+  - Osman Ali Khan c. 1911, 1930s, c. 1947, c. 1950, 1960s (Wikipedia/Commons, book plates)
+  - Mahbub Ali Khan (Wikipedia)
+  - Azam Jah (Wikipedia)
+  - Mukarram Jah: boyhood (Wikipedia) and c. 1967 (licensed)
+  - Durru Shehvar + Abdulmejid II (Wikipedia)
+  - Muffakham Jah (Wikipedia)
+  - Rahimtoola (Wikipedia crop)
+  - Walter Monckton (licensed)
+  - Princess Elizabeth engagement 1947 + Queen in the Nizam necklace + Princess of Wales in the necklace (licensed)
+  - Nizam necklace (Royal Collection)
+  - Jacob Diamond (Wikipedia)
+  - Nizam jewellery exhibition (licensed)
+  - 2019 judgment first page (public)
+  - The Last Nizam cover
+  - Princess Esra, Azmet Jah, Najaf Ali Khan (licensed news photos, optional)
+  - 1967 funeral (licensed, optional)
+  - Murchison House Station (State Library of WA, optional)
+  - Falaknuma 1930s and Mar-a-Lago 1920s–30s (public domain)
+- **[AI + REF] shots:** #037, #089, #122, #141 (fallback), #212 (fallback), #232, #259, #288, #063. Attach the reference photo every time; reject drift.
+- **Every face check:** compare side by side with the reference before it goes on the timeline.
+- **Next state:** STATE 9 video prompts (optional), then STATE 10–11 thumbnails, then the publish & revenue playbook.
