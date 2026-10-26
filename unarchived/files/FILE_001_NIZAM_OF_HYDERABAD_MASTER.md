@@ -623,6 +623,28 @@ But every fortune has a fate, and the archive is still open.
 
 **Likeness and sources:** the 7th Nizam: real archive photographs first (pre-1966 photos are generally public domain in India; confirm each) · Mukarram Jah: licensed photos (Getty/Alamy/AP); AI prompts show him only from behind or at a distance · Princess Elizabeth / the Queen: licensed photos only, no AI likeness · living people: licensed photos or none · the TIME cover: use the real 1937 cover (licensed/fair-use review); the AI fallback is a generic magazine with no logo.
 
+### 4b-2. CHARACTER FACE REFERENCE SHEET (owner rule, Oct 26 2026: faces must match the archive)
+**Rule:** an AI tool cannot draw a real person's face from text. Every shot of a named person is one of:
+- **[REAL PHOTO]**: the archive photo itself (Wikipedia/Wikimedia Commons or a textbook plate), with a slow push-in or parallax added in the edit. This is the first choice.
+- **[AI + REF]**: an AI image generated with the real photo attached as the reference image (Flow "ingredients" / image-to-image). Check each result side by side with the reference; reject it if the face, age, facial hair or headwear drift.
+- Otherwise the person is shown from behind, in silhouette, or at a distance with no face.
+- **Living people** (Princess Esra, Azmet Jah, Najaf Ali Khan, and Muffakham Jah unless his death is confirmed): **[REAL PHOTO] only** (licensed), never AI. Tick the altered-content disclosure for every [AI + REF] shot.
+- **TIME cover (22 Feb 1937):** use the real cover, the same one other channels show, but download it from TIME's own archive (time.com/vault, issue 22 Feb 1937) or its Wikipedia/Commons copy. Never take a frame from another creator's video (that adds a second copyright claimant). Show it under fair use: under 5 seconds, with commentary, a slow push-in and a highlight sweep.
+
+| Character | Reference source (Wikipedia / Commons / books) | Use |
+|---|---|---|
+| **Mir Osman Ali Khan, 7th Nizam** | Lead and body photos on his English Wikipedia article and Commons category · the TIME 22 Feb 1937 cover · plates in Zubrzycki *The Last Nizam* and Collins & Lapierre *Freedom at Midnight* | [REAL PHOTO] for faces · [AI + REF] for staged scenes (match the age: 1911 young; 1937 middle-aged; 1960s elderly) |
+| **Mahbub Ali Khan, 6th Nizam** | Wikipedia "Mahboob Ali Khan": *Nizam Mahboob Ali Khan Asaf Jah VI.png*, *Asaf Jah VI.jpg*, *The Nizam VI riding an elephant… circa 1895.jpg* | [REAL PHOTO] |
+| **Azam Jah** | Wikipedia: *Nawab-Azam-Jah-Prince-of-Berar.jpg*, *Azam jah.jpg* | [REAL PHOTO] |
+| **Princess Durru Shehvar** | Wikipedia "Dürrüşehvar Sultan": Cecil Beaton portrait (IWM, check the licence), *Princess Durru Shehvar.jpg* | [REAL PHOTO] |
+| **Mukarram Jah (8th Nizam, died 2023)** | Wikipedia: *AsafJah8-Nanny Bombay-1933.jpeg* (infant), *Prince Of Hyderabad.jpg* (boyhood, with his brother) · adult photos: licensed (Getty/Alamy/AP) | [REAL PHOTO] · [AI + REF] only from behind or at a distance |
+| **Muffakham Jah** | Wikipedia: *Prince Muffakham Jah Chairman.jpg* | [REAL PHOTO] only |
+| **Habib Ibrahim Rahimtoola** | Wikipedia: group photo *Habib I. Rahimtoola, Begum Rahimtoola…jpg* | [REAL PHOTO] (crop) or none |
+| **Sir Walter Monckton** | Licensed (NPG/Getty), or a public-domain Commons photo if one exists | [REAL PHOTO] |
+| **Moin Nawaz Jung** | No verified photo found → **no face**. Use his name on a document card | GRAPHIC/DOCUMENT |
+| **Princess Elizabeth / the Queen** | Licensed photos (Royal Collection Trust, PA, Getty), including the Nizam necklace portraits | [REAL PHOTO] only, never AI |
+| **The Jacob Diamond** | Wikipedia: *Jacob Diamond.jpg* (the real stone) | [REAL PHOTO] + [AI + REF] for the desk and paperweight scenes so the cut and shape match |
+
 ### 4c. IMAGE PROMPTS · BATCH 1 of ~5 (Cold open, Documents I–II)
 
 #### COLD OPEN
@@ -704,7 +726,7 @@ But every fortune has a fate, and the archive is still open.
 "The man TIME magazine had once called the richest in the world."
 **Image Prompt:** Overhead documentary photograph style: a 1930s American news magazine lying on a leather desk blotter, the cover showing a sepia portrait of an elderly Indian ruler in a fez (generic, no logo), magazine corners worn, desk-lamp light, dust, shallow depth of field, no readable text.
 **Camera:** Top-down, slow push-in · **Lighting:** Warm desk lamp · **Mood:** Fame, evidence · **Action:** Highlight sweep across the cover
-**Edit:** Replace with the real TIME 22 Feb 1937 cover if licensed. Stamp "FACT · TIME, 22 FEB 1937".
+**Edit:** [REAL PHOTO] the real TIME 22 Feb 1937 cover from the TIME vault replaces this; the AI image is only the desk background. Stamp "FACT · TIME, 22 FEB 1937".
 
 **#015 · 4s · ARCHIVE**
 "A man who kept a diamond nearly twice the size of the Koh-i-Noor on his desk…"
@@ -811,7 +833,7 @@ But every fortune has a fate, and the archive is still open.
 "a twenty-five-year-old named Mir Osman Ali Khan inherited all of it."
 **Image Prompt:** Authentic 1911 hand-tinted sepia studio portrait style: a slim young Indian prince of about 25 in a long embroidered sherwani and a fez-like cap, standing beside a carved chair with a hand on its back, painted studio backdrop, soft pastel tint, film grain, cracked emulsion, documentary realism, no text.
 **Camera:** Medium, eye level, slow push-in · **Lighting:** Soft studio window light · **Mood:** Youth, inheritance · **Action:** Push-in
-**Edit:** Prefer a real public-domain portrait of Osman Ali Khan c. 1911. Caption "MIR OSMAN ALI KHAN · AGED 25".
+**Edit:** [REAL PHOTO] his early portrait from the Wikipedia/Commons set; the AI prompt is the fallback only with [AI + REF]. Caption "MIR OSMAN ALI KHAN · AGED 25".
 
 **#034 · 3s · LUXURY**
 "He became the seventh Nizam."
@@ -828,11 +850,11 @@ But every fortune has a fate, and the archive is still open.
 "On the 22nd of February, TIME magazine put him on its cover"
 **Image Prompt:** Overhead documentary photograph style: a 1930s news magazine on a wooden desk, cover with a sepia portrait of a turbaned Indian ruler in a dark coat (generic, no logo), worn corners, desk lamp, shallow depth of field, no readable text.
 **Camera:** Top-down, slow push-in · **Lighting:** Warm lamp · **Mood:** Evidence · **Action:** Push to the portrait
-**Edit:** Real TIME 22 Feb 1937 cover if licensed. Caption "TIME · 22 FEBRUARY 1937".
+**Edit:** [REAL PHOTO] the real cover (TIME vault), slow push-in. Caption "TIME · 22 FEBRUARY 1937".
 
-**#037 · 3s · ERA COLOR (1930s hand-tinted)**
+**#037 · 3s · ERA COLOR (1930s hand-tinted) · [AI + REF: Osman Ali Khan, 1930s photo]**
 "and called him the richest man in the world."
-**Image Prompt:** 1930s hand-tinted photograph style: a middle-aged Indian ruler in a dark sherwani and fez seated on a carved chair in a palace room, seen from a respectful distance, pastel tint on the room's silk drapes, film grain, documentary realism, face indistinct, no text.
+**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo exactly for the face, moustache, build and headwear: the middle-aged Nizam of Hyderabad in a long dark sherwani seated on a carved chair in a palace room, pastel tint on the silk drapes, film grain, documentary realism, no text.
 **Camera:** Medium-wide, slow push · **Lighting:** Soft window light · **Mood:** Mythic status · **Action:** Push-in
 **Edit:** Stamp "FACT".
 
@@ -954,7 +976,7 @@ But every fortune has a fate, and the archive is still open.
 "It is 1911. The old Nizam, Mahbub Ali Khan, has just died."
 **Image Prompt:** Authentic 1911 sepia photograph style: a palace bedroom with a large carved bed, mourning cloths draped over mirrors, an unlit lamp, a turban resting on a chair, film grain, cracked emulsion, documentary realism, no people, no text.
 **Camera:** Wide, slow push · **Lighting:** Dim window light · **Mood:** Mourning · **Action:** Push toward the empty chair
-**Edit:** Caption "1911 · MAHBUB ALI KHAN, THE 6th NIZAM, DIES". Optional public-domain portrait inset.
+**Edit:** Caption "1911 · MAHBUB ALI KHAN, THE 6th NIZAM, DIES". [REAL PHOTO] inset: *Nizam Mahboob Ali Khan Asaf Jah VI.png* (Wikipedia).
 
 **#060 · 3s · LUXURY**
 "His son is going through his father's belongings,"
@@ -972,7 +994,7 @@ But every fortune has a fate, and the archive is still open.
 **Camera:** Close, low angle, slow push into the shoe · **Lighting:** Warm lamp, pastel tint, a sparkle from inside · **Mood:** Suspense · **Action:** Glint grows
 **Edit:** 1s silence before "something hidden".
 
-**#063 · 4s · LUXURY**
+**#063 · 4s · LUXURY · [AI + REF: Jacob Diamond.jpg]**
 "A diamond. About one hundred and eighty-five carats."
 **Image Prompt:** Photoreal macro photograph: a large cushion-cut colourless diamond held between a man's fingertips against a black background, a single hard light making it blaze, rainbow fire, extreme detail, no text.
 **Camera:** Macro, slow rotation · **Lighting:** Hard single source · **Mood:** Awe · **Action:** The diamond turns slowly
@@ -1099,3 +1121,520 @@ But every fortune has a fate, and the archive is still open.
 **Edit:** Cliffhanger; soft hit into Document III.
 
 *Batch 1: 85 beats · cold open + Documents I–II (~5.6 min). Next: Batch 2 = Documents III–IV.*
+
+### 4d. IMAGE PROMPTS · BATCH 2 of ~5 (Documents III–IV)
+*Sensitivity rule for Doc IV (ad suitability + respect): no bodies, no blood, no weapons aimed at people, no burning homes. Show the cost through empty streets, documents, a closed door, a candle.*
+
+#### DOCUMENT III — THE MISER AND THE PATRON
+
+**#086 · 3s · GRAPHIC (chapter card)**
+"DOCUMENT III — THE MISER AND THE PATRON"
+**Image Prompt:** Brand graphic: an aged manila file folder on charcoal #141414, muted gold #B8975A tab, top-down lamp light, paper texture, no text.
+**Action:** Flap lifts · **Edit:** "DOCUMENT III · THE MISER AND THE PATRON".
+
+**#087 · 4s · LUXURY**
+"You would expect the richest man in the world to dress like it."
+**Image Prompt:** Photoreal documentary style: a royal Indian dressing room with a gold-embroidered silk achkan on a carved wooden stand, a jewelled turban and pearl ropes laid on a velvet table, mirrors in gilded frames, warm lamplight, film grain, no people, no text.
+**Camera:** Low angle, slow push · **Lighting:** Warm lamp · **Mood:** Expectation of splendour · **Action:** Push toward the robe
+
+**#088 · 2s · ARCHIVE**
+"He didn't."
+**Image Prompt:** Authentic 1930s sepia photograph style: a plain iron hook on a bare whitewashed wall holding a single crumpled cotton garment, film grain, vignette, documentary realism, no text.
+**Camera:** Close, static push · **Lighting:** Flat · **Mood:** Deflation · **Action:** Hard cut, slight push
+**Edit:** 1s silence before the cut.
+
+**#089 · 4s · ERA COLOR (1930s hand-tinted) · [AI + REF: Osman Ali Khan, 1930s–40s photo]**
+"By several accounts, the Nizam wore crumpled pajamas and a tattered fez,"
+**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo for the face, moustache and build: the Nizam of Hyderabad standing in a plain palace room in crumpled loose white cotton pyjamas and a worn, faded fez, hands behind his back, pastel tint, film grain, documentary realism, no text.
+**Camera:** Medium-wide, eye level, slow push · **Lighting:** Soft window light · **Mood:** Unexpected modesty · **Action:** Push-in
+**Edit:** If the face drifts from the reference, switch to [REAL PHOTO] of him in everyday dress.
+
+**#090 · 3s · LUXURY**
+"and ate from a tin plate."
+**Image Prompt:** Photoreal documentary close-up: a dented tin plate with a simple portion of rice and lentils on a magnificent inlaid marble table, a crystal chandelier reflected in the marble, warm lamplight, film grain, no people, no text.
+**Camera:** High angle, slow push · **Lighting:** Warm lamp · **Mood:** Irony · **Action:** Push to the plate
+
+**#091 · 4s · DOCUMENT**
+"According to Collins and Lapierre, he wore the same fez for thirty-five years,"
+**Image Prompt:** Overhead documentary photograph style: an old hardback book open on a desk beside a faded, frayed fez with a worn tassel, reading glasses, desk-lamp light, paper texture, no readable text.
+**Camera:** Top-down, slow push to the fez · **Lighting:** Lamp · **Mood:** Attributed anecdote · **Action:** Highlight sweep on the page
+**Edit:** Tag "ACCORDING TO COLLINS & LAPIERRE".
+
+**#092 · 4s · ARCHIVE**
+"offered visitors one cup of tea, one biscuit and one cigarette,"
+**Image Prompt:** Authentic 1940s black-and-white photograph style: a small side table in a reception room with exactly one teacup on a saucer, one plain biscuit and one cigarette laid neatly beside it, an armchair for a guest, film grain, documentary realism, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Window light · **Mood:** Comic frugality · **Action:** The three items light up one by one (edit)
+**Edit:** "1 TEA · 1 BISCUIT · 1 CIGARETTE".
+
+**#093 · 4s · ERA COLOR (1940s hand-tinted)**
+"and smoked the cigarette ends his guests left behind."
+**Image Prompt:** 1940s hand-tinted photograph style: close-up of a brass ashtray with half-smoked cigarette ends, an older man's hand in a plain cotton sleeve reaching to pick one up, pastel tint, film grain, no face, no text.
+**Camera:** Close, slow push · **Lighting:** Side window light · **Mood:** Miserly habit · **Action:** The hand reaches in
+
+**#094 · 4s · GRAPHIC**
+"His biographer John Zubrzycki writes that he saved on laundry by bathing in his clothes,"
+**Image Prompt:** Brand graphic background: an open book silhouette in ivory #EDE6D6 on charcoal #141414 with a soft muted-gold glow, empty right side for a quote card, no text.
+**Camera:** Static, slow push · **Lighting:** Glow · **Mood:** Attribution · **Action:** Quote card slides in
+**Edit:** Quote card: "Saved on laundry by bathing in his clothes" — John Zubrzycki, *The Last Nizam*.
+
+**#095 · 4s · DOCUMENT**
+"and that when he died, The Times of London called him a miser."
+**Image Prompt:** Overhead documentary photograph style: a folded 1960s British broadsheet newspaper on a desk, an obituary column visible but unreadable, a pair of spectacles on top, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Verdict · **Action:** Highlight sweep across a column
+**Edit:** Overlay the word "MISER" in ivory, attributed "The Times, 1967".
+
+**#096 · 3s · LUXURY (stamp hold)**
+[MYTH/FACT STAMP: "THE SAME FEZ FOR 35 YEARS"]
+**Image Prompt:** Photoreal macro still: a faded, frayed red fez with a worn black tassel on a dark velvet cushion, dramatic single light, dust, no text.
+**Camera:** Close, slow orbit · **Lighting:** Single spot · **Mood:** Legend under review · **Action:** Orbit
+**Edit:** Stamp "THE SAME FEZ FOR 35 YEARS · ACCORDING TO ONE BOOK", held 3s.
+
+**#097 · 3s · ARCHIVE**
+"And yet that is only half of the man."
+**Image Prompt:** Authentic 1930s sepia photograph style: a palace doorway half in deep shadow and half in bright sunlight, a corridor beyond, film grain, vignette, no people, no text.
+**Camera:** Centered, slow push · **Lighting:** Split light · **Mood:** Two sides · **Action:** Push toward the light
+
+**#098 · 4s · ERA COLOR (1930s hand-tinted)**
+"The same Nizam founded Osmania University, teaching in Urdu rather than English."
+**Image Prompt:** 1930s hand-tinted photograph style: the grand Arts College building of Osmania University in Hyderabad, pale granite with a mix of Indo-Islamic arches and domes, students in sherwanis walking on the lawns, pastel tint, film grain, documentary realism, faces small, no text.
+**Camera:** Wide, low angle, slow push · **Lighting:** Morning sun · **Mood:** Generosity, vision · **Action:** Push-in
+**Edit:** Caption "OSMANIA UNIVERSITY · FOUNDED 1918". [REAL PHOTO] preferred: Commons photos of the Arts College.
+
+**#099 · 4s · ARCHIVE (diptych)**
+"He gave to the Hindu university at Banaras and the Muslim university at Aligarh."
+**Image Prompt:** Diptych of two authentic 1930s sepia photographs side by side: (left) a large university building at Banaras with Indian-style domes, (right) the red-brick Victorian-Islamic arches of the Aligarh university, matched grain and vignette, documentary realism, no text.
+**Camera:** Left panel then right panel revealed · **Lighting:** Daylight · **Mood:** Even-handed giving · **Action:** Panels appear in turn
+**Edit:** Labels "BANARAS HINDU UNIVERSITY" / "ALIGARH MUSLIM UNIVERSITY".
+
+**#100 · 4s · ARCHIVE**
+"In the First World War, he gave millions of pounds to Britain's war effort,"
+**Image Prompt:** Authentic 1915 black-and-white photograph style: British soldiers in First World War uniforms marching in a column along a muddy road, supply wagons behind, film grain, scratches, documentary realism, faces small, no text.
+**Camera:** Wide, slow lateral drift · **Lighting:** Grey · **Mood:** War · **Action:** Drift with the column
+**Edit:** Fortune counter "MILLIONS OF £" (no exact figure; sources conflict).
+
+**#101 · 3s · DOCUMENT**
+"and Britain named him its Faithful Ally."
+**Image Prompt:** Overhead documentary photograph style: an ornate British royal proclamation on parchment with a large red wax seal and gold-leaf border, a ribbon, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push to the seal · **Lighting:** Lamp · **Mood:** Honour · **Action:** Highlight sweep
+**Edit:** Overlay "'FAITHFUL ALLY OF THE BRITISH GOVERNMENT'" in ivory.
+
+**#102 · 5s · ARCHIVE**
+"He paid for British warplanes in that war too, for a squadron that carried Hyderabad's name, Number 110."
+**Image Prompt:** Authentic 1918 black-and-white photograph style: a row of First World War biplanes on a grass airfield in France, ground crew in overalls beside them, canvas hangars behind, film grain, documentary realism, no readable text.
+**Camera:** Wide, low angle, slow push · **Lighting:** Overcast · **Mood:** Loyalty in steel · **Action:** Push along the planes
+**Edit:** Caption "No. 110 (HYDERABAD) SQUADRON".
+
+**#103 · 4s · ERA COLOR (1940s)**
+"And in the Second World War, he did it again. He paid for Spitfires."
+**Image Prompt:** 1940s colour photograph style (Kodachrome look): a Supermarine Spitfire in RAF camouflage parked on an English airfield, a pilot in a flying jacket walking toward it seen from behind, warm saturated colour, slight grain, documentary realism, no readable markings.
+**Camera:** Low angle, slow push · **Lighting:** Low sun · **Mood:** Pride · **Action:** Push toward the aircraft
+
+**#104 · 4s · ARCHIVE**
+"Another Royal Air Force squadron, Number 152, flew as the Hyderabad Squadron."
+**Image Prompt:** Authentic 1940s black-and-white photograph style: three Spitfires flying in formation over English fields and clouds, film grain, documentary realism, no readable text.
+**Camera:** Aerial, slow drift · **Lighting:** Bright sky · **Mood:** Legacy · **Action:** Drift with the formation
+**Edit:** Caption "No. 152 (HYDERABAD) SQUADRON". [REAL PHOTO] option: IWM archive photos of 152 Sqn (check the licence).
+
+**#105 · 4s · GRAPHIC**
+"Think about what that money was buying. Not luxury. Loyalty."
+**Image Prompt:** Brand graphic: an antique brass balance scale on charcoal #141414, a pile of gold coins in one pan and a small British crown emblem in the other, balanced, muted gold light, no text.
+**Camera:** Straight-on, slow push · **Lighting:** Rim light · **Mood:** Transaction · **Action:** The scale settles level
+**Edit:** "NOT LUXURY." then "LOYALTY." (one at a time).
+
+**#106 · 4s · ARCHIVE**
+"Every gift to the Crown was a reminder to London"
+**Image Prompt:** Authentic 1930s black-and-white photograph style: Whitehall government buildings in London on a rainy day, a black car and men with umbrellas, film grain, documentary realism, no readable text.
+**Camera:** Wide, slow tilt · **Lighting:** Rain grey · **Mood:** Power centre · **Action:** Tilt up the facade
+
+**#107 · 4s · LUXURY**
+"that this was a friend worth keeping on his throne."
+**Image Prompt:** Photoreal documentary style: the gilded throne in an empty Hyderabad durbar hall with a British crown emblem embroidered on a cushion nearby, warm lamplight, deep shadow, film grain, no people, no text.
+**Camera:** Low angle, slow push · **Lighting:** Warm · **Mood:** Security · **Action:** Push-in
+
+**#108 · 3s · GRAPHIC**
+"For thirty years, that bargain held."
+**Image Prompt:** Brand graphic: the timeline ribbon in muted gold on charcoal, a soft spotlight sliding along it, no text.
+**Camera:** Lateral track · **Lighting:** Spot · **Mood:** Stability · **Action:** Ribbon slides
+**Edit:** Timeline "1911 → 1947" with "30+ YEARS".
+
+**#109 · 4s · ARCHIVE · [REAL PHOTO]**
+"And in 1947, when Princess Elizabeth was about to marry Philip Mountbatten,"
+**Image Prompt:** [REAL PHOTO] only: a licensed 1947 engagement photograph of Princess Elizabeth and Lieutenant Philip Mountbatten (PA/Getty). No AI likeness. Fallback AI background with no people: authentic 1947 black-and-white photograph style, Buckingham Palace with crowds at the railings, film grain.
+**Camera:** Slow push-in · **Lighting:** As photo · **Mood:** Royal romance · **Action:** Push-in
+**Edit:** Caption "LONDON · 1947".
+
+**#110 · 4s · ERA COLOR (1940s)**
+"the Nizam sent instructions to Cartier in London:"
+**Image Prompt:** 1940s colour photograph style: the elegant shopfront of a luxury jeweller on New Bond Street, London, polished wood and brass, display windows with velvet stands, a doorman in livery, warm saturated colour, grain, no readable signage.
+**Camera:** Medium, slow push to the door · **Lighting:** Afternoon · **Mood:** Exclusivity · **Action:** Push-in
+**Edit:** Caption "CARTIER · LONDON".
+
+**#111 · 4s · DOCUMENT**
+"the princess should choose her own wedding present."
+**Image Prompt:** Overhead documentary photograph style: an engraved ivory letter card with a gold crest on a silver tray, a fountain pen beside it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Gracious, unusual · **Action:** Highlight sweep
+**Edit:** Overlay "'LET HER CHOOSE.'" (paraphrase card, not a quote: label "THE NIZAM'S INSTRUCTION").
+
+**#112 · 2s · LUXURY**
+"She chose two pieces."
+**Image Prompt:** Photoreal documentary style: two empty dark velvet jewellery display stands side by side under soft spotlights in a hushed showroom, film grain, no text.
+**Camera:** Straight-on, slow push · **Lighting:** Two spots · **Mood:** Anticipation · **Action:** Spots brighten
+
+**#113 · 5s · LUXURY (triptych) · [REAL PHOTO preferred]**
+"A floral diamond tiara, and a platinum necklace set with around three hundred diamonds."
+**Image Prompt:** [REAL PHOTO] preferred: Royal Collection / Cartier archive photos of the Nizam of Hyderabad necklace (and the original tiara). AI fallback with [AI + REF: Royal Collection photo]: photoreal still of a platinum necklace of about 300 brilliant diamonds with a detachable pendant on black velvet beside a floral diamond tiara, museum lighting, no people, no text.
+**Camera:** Slow push · **Lighting:** Museum spots · **Mood:** Dazzling · **Action:** Tiara revealed, then the necklace
+**Edit:** Labels "FLORAL TIARA" / "NECKLACE · ~300 DIAMONDS".
+
+**#114 · 4s · GRAPHIC**
+"The tiara was later taken apart, its diamonds reset into another royal tiara."
+**Image Prompt:** Brand graphic: an ivory line drawing of a floral tiara on charcoal #141414 dissolving into scattered points of light that re-form into a different tiara outline, muted gold glow, no text.
+**Camera:** Static · **Lighting:** Glow · **Mood:** Transformation · **Action:** Dissolve and re-form
+
+**#115 · 2s · ARCHIVE**
+"But the necklace survived."
+**Image Prompt:** Authentic black-and-white photograph style: a diamond necklace glittering in an open leather jewellery case on a dark table, film grain, vignette, no text.
+**Camera:** Close, slow push · **Lighting:** Spot · **Mood:** Endurance · **Action:** Push-in
+
+**#116 · 4s · ERA COLOR · [REAL PHOTO only]**
+"The young Queen wore it in her first official portraits."
+**Image Prompt:** [REAL PHOTO] only: a licensed early-1950s official portrait of Queen Elizabeth II wearing the Nizam of Hyderabad necklace (Royal Collection Trust / Dorothy Wilding portraits, licensed). No AI likeness.
+**Camera:** Slow push-in to the necklace · **Mood:** Royal history · **Action:** Push-in
+
+**#117 · 4s · ERA COLOR (present day) · [REAL PHOTO only]**
+"Decades later, the Princess of Wales would wear it too."
+**Image Prompt:** [REAL PHOTO] only: a licensed press photo of the Princess of Wales wearing the Nizam of Hyderabad necklace at a state banquet (Getty/PA). No AI likeness.
+**Camera:** Slow push · **Mood:** Continuity · **Action:** Push-in
+
+**#118 · 4s · ARCHIVE**
+"It's a strange thought. Of all the Nizam's treasures,"
+**Image Prompt:** Authentic 1930s sepia photograph style: a dim palace treasury with rows of locked iron chests along a wall, film grain, vignette, no people, no text.
+**Camera:** Lateral drift · **Lighting:** Low · **Mood:** Reflection · **Action:** Drift past chests
+
+**#119 · 5s · ERA COLOR (present day)**
+"one of the best preserved today isn't in Hyderabad at all. It's in the royal collection in London."
+**Image Prompt:** Present-day documentary colour photograph: the gates and facade of Buckingham Palace at dusk with the lamps lit, a quiet street, photoreal, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Dusk lamps · **Mood:** Irony · **Action:** Push to the gates
+**Edit:** Map line "HYDERABAD → LONDON" flashes in a corner inset (one graphic only).
+
+**#120 · 2s · GRAPHIC**
+"So which man was he?"
+**Image Prompt:** Brand graphic: a large ivory question mark made of fine engraved lines on charcoal #141414, muted gold rim, no other text.
+**Camera:** Static, slow push · **Lighting:** Rim · **Mood:** Question · **Action:** Question mark draws on
+
+**#121 · 5s · ARCHIVE (diptych)**
+"The miser who saved cigarette ends, or the king who bought warplanes and royal diamonds?"
+**Image Prompt:** Diptych of two authentic sepia photographs side by side: (left) a brass ashtray with cigarette ends on a bare table, (right) a Spitfire on an airfield beside an open jewel case of diamonds, matched grain and vignette, documentary realism, no text.
+**Camera:** Left then right revealed · **Lighting:** Low-key · **Mood:** Contradiction · **Action:** Panels appear in turn
+
+**#122 · 2s · ERA COLOR (1930s hand-tinted) · [AI + REF: Osman Ali Khan]**
+"The honest answer is both."
+**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo for face, moustache and headwear: the Nizam of Hyderabad seated alone on a plain chair in a grand empty hall, small in the frame, pastel tint, film grain, documentary realism, no text.
+**Camera:** Wide, slow push · **Lighting:** Window shaft · **Mood:** Complex man · **Action:** Push-in
+
+**#123 · 5s · GRAPHIC**
+"He was frugal with small things and lavish with anything that bought loyalty or prestige."
+**Image Prompt:** Brand graphic: the brass balance scale again on charcoal #141414, a single cigarette end on one pan and a heap of diamonds on the other, muted gold light, no text.
+**Camera:** Straight-on · **Lighting:** Rim · **Mood:** Pattern · **Action:** The diamond pan sinks
+**Edit:** "SMALL THINGS: FRUGAL" / "PRESTIGE: LAVISH".
+
+**#124 · 4s · LUXURY**
+"And above all, he kept control of everything himself."
+**Image Prompt:** Photoreal documentary style: a heavy iron ring of dozens of old brass keys lying on a dark desk beside a seal stamp and red sealing wax, warm lamplight, film grain, no people, no text.
+**Camera:** Close, slow orbit · **Lighting:** Warm lamp · **Mood:** Control · **Action:** Orbit around the keys
+
+**#125 · 4s · ARCHIVE**
+"That habit would matter enormously once he was gone."
+**Image Prompt:** Authentic 1960s black-and-white photograph style: an empty chair behind a large desk in a palace office, papers neatly stacked, a fez left on the desk, film grain, vignette, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Window light · **Mood:** Foreshadowing · **Action:** Push to the empty chair
+
+**#126 · 4s · DOCUMENT**
+"Because he had already made the decision that would shape the fortune's future."
+**Image Prompt:** Overhead documentary photograph style: a handwritten decree in Urdu-style script (illegible) on aged paper with a royal seal, a quill pen beside it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push to the seal · **Lighting:** Lamp · **Mood:** Fateful · **Action:** Highlight sweep
+
+**#127 · 4s · ARCHIVE · [REAL PHOTO: Azam Jah]**
+"He had an eldest son, Azam Jah, who should have been his heir."
+**Image Prompt:** [REAL PHOTO]: *Nawab-Azam-Jah-Prince-of-Berar.jpg* (Wikipedia), slow push-in. No AI face.
+**Camera:** Slow push-in · **Mood:** The heir apparent · **Action:** Push-in
+**Edit:** Caption "AZAM JAH · PRINCE OF BERAR · ELDEST SON".
+
+**#128 · 2s · GRAPHIC**
+"And he passed him over."
+**Image Prompt:** Hold on #127's photo, desaturating to grey.
+**Edit:** Wax-seal red line strikes softly across the caption "HEIR". Soft low hit.
+
+**#129 · 4s · ERA COLOR (1940s hand-tinted)**
+"According to accounts at the time, Azam Jah had a reputation as a gambler and a big spender,"
+**Image Prompt:** 1940s hand-tinted photograph style: a green baize card table in a lavish club room, playing cards, chips and a glass of whisky, cigarette smoke curling, pastel tint, film grain, no people, no text.
+**Camera:** High angle, slow push · **Lighting:** Low lamp over the table · **Mood:** Rumour · **Action:** Smoke drifts
+**Edit:** Tag "ACCORDING TO ACCOUNTS AT THE TIME".
+
+**#130 · 5s · DOCUMENT**
+"though some historians caution that those descriptions reflect the views of British officials as much as the man himself."
+**Image Prompt:** Overhead documentary photograph style: a 1940s British government typed memo on thin paper marked with a "CONFIDENTIAL" stamp area (unreadable), a pencil annotation in the margin, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Fair witness · **Action:** Highlight sweep across the margin note
+**Edit:** Stamp "WHOSE VIEW?".
+
+**#131 · 4s · ARCHIVE**
+"We don't know the full truth. But we know the Nizam's choice."
+**Image Prompt:** Authentic 1930s sepia photograph style: two carved wooden doors in a palace corridor, one closed and dark, the other open with light spilling out, film grain, vignette, no people, no text.
+**Camera:** Centered, slow push to the open door · **Lighting:** Spill · **Mood:** Decision · **Action:** Push-in
+
+**#132 · 5s · ARCHIVE · [REAL PHOTO: Mukarram Jah as a boy]**
+"He named his grandson, a boy called Mukarram Jah, as the future eighth Nizam."
+**Image Prompt:** [REAL PHOTO]: *Prince Of Hyderabad.jpg* (Wikipedia, the princes as boys), slow push to Mukarram Jah. No AI face.
+**Camera:** Slow push-in · **Mood:** Chosen · **Action:** Push-in
+**Edit:** Caption "MUKARRAM JAH · CHOSEN HEIR".
+
+**#133 · 5s · GRAPHIC (family tree)**
+[FAMILY TREE]
+**Image Prompt:** Brand graphic: an elegant family-tree layout in ivory lines on charcoal #141414 with oval portrait slots in muted gold frames, no text.
+**Camera:** Static, slow pull back · **Lighting:** Even · **Mood:** Lineage · **Action:** Branches draw on
+**Edit:** Slots filled with [REAL PHOTO] crops: Mahbub Ali Khan → Osman Ali Khan → Azam Jah (greyed, "PASSED OVER") → Mukarram Jah (gold rim).
+
+**#134 · 4s · ERA COLOR (1950s Kodachrome)**
+"Remember that boy. One day, all of this would land on him."
+**Image Prompt:** 1950s Kodachrome colour photograph style: a teenage boy in an English school blazer seen from behind, standing alone at the end of a vast palace hall facing a gilded throne, warm saturated colour, slight halation, grain, no face, no text.
+**Camera:** Wide, from behind, slow push · **Lighting:** Chandelier glow · **Mood:** Weight of destiny · **Action:** Push toward the throne
+
+**#135 · 4s · ARCHIVE**
+"Because the world that had made this fortune possible was about to end."
+**Image Prompt:** Authentic 1947 black-and-white photograph style: a Union flag being lowered on a flagpole above a colonial building at dusk in India, film grain, documentary realism, no readable text.
+**Camera:** Low angle, slow tilt down with the flag · **Lighting:** Dusk · **Mood:** End of an era · **Action:** Flag descends
+
+**#136 · 4s · GRAPHIC (cliffhanger)**
+"And it would take about four days."
+**Image Prompt:** Brand graphic: an old brass mechanical clock face on charcoal #141414, hands frozen, muted gold light, no text.
+**Camera:** Straight-on, slow push · **Lighting:** Rim · **Mood:** Countdown tension · **Action:** The second hand starts ticking
+**Edit:** "4 DAYS" fades in. 1s silence, low hit. → AD BREAK 1.
+
+#### DOCUMENT IV — FORCE ONE: THE OLD ORDER ENDS
+
+**#137 · 4s · GRAPHIC (chapter card)**
+[CHAPTER CARD: FORCE 1 OF 5 · WHO CONTROLLED IT?]
+**Image Prompt:** Brand graphic: the first of five manila folders on charcoal #141414 slides forward, muted gold tab, wax-seal red mark, lamp light, no text.
+**Edit:** "DOCUMENT IV · FORCE 1 OF 5 · WHO CONTROLLED IT?" (held 3s).
+
+**#138 · 3s · ARCHIVE**
+"In August 1947, Britain left India."
+**Image Prompt:** Authentic 1947 black-and-white press photograph style: British troops in khaki marching through the Gateway of India in Bombay toward waiting ships, crowds watching, film grain, documentary realism, faces small, no text.
+**Camera:** Wide, slow push · **Lighting:** Bright sun · **Mood:** Departure · **Action:** Push with the column
+**Edit:** Caption "AUGUST 1947".
+
+**#139 · 4s · MAP**
+"The subcontinent was divided into two new nations, India and Pakistan,"
+**Image Prompt:** Vintage 1947 map of the Indian subcontinent on aged paper, plain coastlines and borders, overhead, warm lamp light, paper texture, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Division · **Action:** Partition lines draw on (edit)
+**Edit:** Labels "INDIA" / "PAKISTAN".
+
+**#140 · 4s · MAP**
+"and more than five hundred princely states were expected to join one of them."
+*(Continuous with #139: one animated map shot.)*
+**Edit:** Hundreds of small gold dots appear across the map; caption "500+ PRINCELY STATES".
+
+**#141 · 2s · ARCHIVE · [REAL PHOTO preferred: Osman Ali Khan c. 1947]**
+"The Nizam refused."
+**Image Prompt:** [REAL PHOTO]: a c. 1947 portrait of Osman Ali Khan (Wikipedia/Commons or a book plate), slow push to the eyes. Fallback [AI + REF]: authentic 1940s black-and-white photograph style, the elderly Nizam in a sherwani and fez, stern, matching the reference exactly.
+**Camera:** Close, slow push · **Mood:** Defiance · **Action:** Push-in
+**Edit:** 1s silence before the line.
+
+**#142 · 4s · ERA COLOR (1940s hand-tinted)**
+"He wanted Hyderabad to stand alone, as it had for two hundred years."
+**Image Prompt:** 1940s hand-tinted photograph style: the Charminar monument in Hyderabad standing alone against a wide sky, an empty square before it at dawn, pastel tint, film grain, documentary realism, no text.
+**Camera:** Low angle, slow push · **Lighting:** Dawn · **Mood:** Pride, isolation · **Action:** Push-in
+
+**#143 · 3s · GRAPHIC**
+"And from his point of view, the logic was simple."
+**Image Prompt:** Brand graphic: a single ivory chess king piece on a charcoal #141414 board, muted gold rim light, no text.
+**Camera:** Low angle, slow orbit · **Lighting:** Rim · **Mood:** Strategy · **Action:** Orbit
+
+**#144 · 5s · LUXURY**
+"His wealth had always depended on one thing: being the ruler of the land it came from."
+**Image Prompt:** Photoreal documentary style: golden wheat-like fields of the Deccan plateau stretching to the horizon, seen through an ornate carved palace window arch in the foreground, warm evening light, film grain, no people, no text.
+**Camera:** Through the arch, slow push · **Lighting:** Golden hour · **Mood:** Land equals wealth · **Action:** Push through the window
+
+**#145 · 4s · ARCHIVE**
+"Joining another country meant handing that power to someone else."
+**Image Prompt:** Authentic 1940s black-and-white photograph style: two hands over a conference table, one sliding an ornate seal stamp across to the other, documents beneath, film grain, documentary realism, no faces, no text.
+**Camera:** Close, slow push · **Lighting:** Overhead · **Mood:** Surrender of power · **Action:** The seal slides
+
+**#146 · 4s · DOCUMENT**
+"So he fought for it the way a rich man would. With lawyers."
+**Image Prompt:** Overhead documentary photograph style: a stack of bound legal briefs tied with pink ribbon on a mahogany desk, a barrister's white wig beside them, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Wry · **Action:** Push to the wig
+
+**#147 · 4s · ARCHIVE · [REAL PHOTO: Walter Monckton]**
+"He hired one of Britain's most respected, Sir Walter Monckton, as his constitutional adviser."
+**Image Prompt:** [REAL PHOTO]: a licensed 1940s portrait of Sir Walter Monckton (NPG/Getty), slow push-in. No AI face.
+**Camera:** Slow push-in · **Mood:** Establishment power · **Action:** Push-in
+**Edit:** Caption "SIR WALTER MONCKTON · CONSTITUTIONAL ADVISER".
+
+**#148 · 4s · ERA COLOR (1940s)**
+"According to one account, Monckton urged him to take his case to the United Nations."
+**Image Prompt:** 1940s colour photograph style: a large United Nations assembly hall with curved rows of delegate desks and a raised podium, warm saturated colour, slight grain, no readable text, faces small.
+**Camera:** Wide, slow push · **Lighting:** Hall light · **Mood:** Last resort · **Action:** Push to the podium
+**Edit:** Tag "ACCORDING TO ONE ACCOUNT".
+
+**#149 · 4s · DOCUMENT**
+"And in November 1947, Hyderabad and India signed a standstill agreement:"
+**Image Prompt:** Overhead documentary photograph style: a typed 1940s agreement on government paper with two signature lines and wax seals, a fountain pen across it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Fragile truce · **Action:** Highlight sweep
+**Edit:** Caption "STANDSTILL AGREEMENT · 29 NOV 1947".
+
+**#150 · 4s · GRAPHIC (countdown)**
+"one year to keep things as they were while they negotiated."
+**Image Prompt:** Brand graphic: a vintage flip calendar on charcoal #141414 with muted gold edges, spotlight, no text.
+**Camera:** Static · **Lighting:** Spot · **Mood:** Clock running · **Action:** Pages begin flipping
+**Edit:** "12 MONTHS" counting down.
+
+**#151 · 5s · MAP**
+"But Hyderabad sat in the very heart of the new India, and the talks went nowhere."
+**Image Prompt:** Vintage 1947 map of India on aged paper with Hyderabad State tinted muted gold in the centre, completely surrounded by Indian territory, overhead lamp light, no readable text.
+**Camera:** Top-down, slow push to Hyderabad · **Lighting:** Lamp · **Mood:** Encircled · **Action:** A thin red line tightens around the gold shape (edit)
+
+**#152 · 3s · ARCHIVE**
+"Inside the state, tensions boiled over."
+**Image Prompt:** Authentic 1948 black-and-white photograph style: a tense crowded street in an Indian city, shutters half down on shops, people hurrying, film grain, slight motion blur, documentary realism, faces indistinct, no text.
+**Camera:** Medium, slow drift · **Lighting:** Harsh sun · **Mood:** Unrest · **Action:** Drift
+
+**#153 · 4s · ERA COLOR (1940s hand-tinted)**
+"An armed militia called the Razakars, loyal to the old order, carried out attacks."
+**Image Prompt:** 1940s hand-tinted photograph style: a line of uniformed militiamen seen from behind marching along a dusty road, rifles slung on their shoulders (not aimed), dust in the air, pastel tint, film grain, no faces, no violence, no text.
+**Camera:** Low angle, from behind, slow push · **Lighting:** Hazy sun · **Mood:** Menace · **Action:** Push with the column
+**Edit:** Caption "THE RAZAKARS".
+
+**#154 · 4s · ARCHIVE**
+"A peasant uprising fought its own war against the landlords."
+**Image Prompt:** Authentic 1940s black-and-white photograph style: villagers with farm tools gathered at the edge of a field in rural Telangana, a landlord's walled house in the distance, film grain, documentary realism, faces small, no violence, no text.
+**Camera:** Wide, slow drift · **Lighting:** Flat · **Mood:** Unrest in the countryside · **Action:** Drift
+**Edit:** Caption "THE TELANGANA UPRISING".
+
+**#155 · 4s · DOCUMENT**
+"Each side accused the other of breaking the agreement."
+**Image Prompt:** Overhead documentary photograph style: two typed diplomatic letters laid side by side on a desk, each with angry pencil underlining, a torn corner on the standstill agreement between them, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Breakdown · **Action:** The torn edge widens (edit)
+
+**#156 · 4s · ARCHIVE**
+"And on the 13th of September, 1948, Indian troops crossed the border."
+**Image Prompt:** Authentic 1948 black-and-white press photograph style: a column of army trucks and light armoured vehicles moving along a dusty road at dawn, soldiers seated in the trucks seen from a distance, film grain, documentary realism, no combat, no text.
+**Camera:** Wide, slow lateral drift · **Lighting:** Dawn · **Mood:** Inevitable · **Action:** Drift with the column
+**Edit:** Caption "13 SEPTEMBER 1948".
+
+**#157 · 3s · GRAPHIC (countdown clock)**
+[COUNTDOWN CLOCK: DAY 1]
+**Image Prompt:** Brand graphic: an old brass clock face on charcoal #141414, muted gold light, no text.
+**Edit:** "DAY 1" in ivory (only counter on screen).
+
+**#158 · 4s · DOCUMENT**
+"India called it a police action. It was code-named Operation Polo."
+**Image Prompt:** Overhead documentary photograph style: a 1948 military operations folder on a desk, a map of the Deccan with pencil arrows, a compass and a typed order sheet, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Official language · **Action:** Highlight sweep
+**Edit:** Stamps "'POLICE ACTION'" then "OPERATION POLO".
+
+**#159 · 6s · GRAPHIC (countdown clock)**
+[DAY 2] [DAY 3] [DAY 4]
+**Image Prompt:** Same brass clock graphic on charcoal #141414, hands sweeping faster, no text.
+**Edit:** "DAY 2" → "DAY 3" → "DAY 4", 2s each (no cut under 2s).
+
+**#160 · 4s · ARCHIVE**
+"On the 17th of September, the Nizam announced a ceasefire."
+**Image Prompt:** Authentic 1948 black-and-white photograph style: an old valve radio set on a table in a dim room, a family's hands resting nearby as they listen, film grain, documentary realism, no faces, no text.
+**Camera:** Close, slow push to the radio · **Lighting:** Lamp · **Mood:** Hush · **Action:** Dial glow flickers
+**Edit:** Caption "17 SEPT · CEASEFIRE".
+
+**#161 · 4s · ERA COLOR (1940s hand-tinted)**
+"The next day, his forces formally surrendered."
+**Image Prompt:** 1940s hand-tinted photograph style: a row of rifles stacked neatly on the ground beside a white flag on a pole, an empty parade ground behind, pastel tint, film grain, no people, no text.
+**Camera:** Low angle, slow push · **Lighting:** Flat · **Mood:** Defeat · **Action:** The flag stirs
+**Edit:** Caption "18 SEPT 1948 · SURRENDER".
+
+**#162 · 5s · LUXURY**
+"A kingdom that had lasted more than two centuries was gone in about four days."
+**Image Prompt:** Photoreal documentary style: the gilded Nizam's throne in a dim durbar hall with a dust sheet being drawn over it, chandeliers dark, film grain, no faces, no text.
+**Camera:** Wide, slow pull back · **Lighting:** Fading · **Mood:** Ending · **Action:** The sheet settles
+**Edit:** Timeline "1724 → 1948" closes.
+
+**#163 · 4s · ARCHIVE**
+"Let's pause here, because this part of the story isn't about money."
+**Image Prompt:** Authentic 1948 black-and-white photograph style: an empty village lane at dusk, doors closed, a single oil lamp in a window, film grain, documentary realism, no people, no text.
+**Camera:** Static, very slow push · **Lighting:** Lamp glow · **Mood:** Sombre · **Action:** Lamp flickers
+**Edit:** Music drops out. No graphics.
+
+**#164 · 4s · ERA COLOR (1940s hand-tinted)**
+"In the violence during and after those days, many people lost their lives."
+**Image Prompt:** 1940s hand-tinted photograph style: a small row of clay oil lamps burning on a stone step at dusk, pastel tint, film grain, no people, no text.
+**Camera:** Close, slow push · **Lighting:** Lamp flames · **Mood:** Mourning · **Action:** Flames flicker
+
+**#165 · 4s · DOCUMENT**
+"A committee appointed by the Indian government itself, the Sunderlal Committee,"
+**Image Prompt:** Overhead documentary photograph style: a bound typed government report with a plain card cover on a desk, a "CONFIDENTIAL" stamp area (unreadable), desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Official record · **Action:** Cover lifts
+**Edit:** Caption "THE SUNDERLAL COMMITTEE REPORT".
+
+**#166 · 4s · GRAPHIC**
+"estimated that between twenty-seven thousand and forty thousand people died."
+**Image Prompt:** Brand graphic: plain charcoal #141414 field with soft vignette, no imagery, no text.
+**Camera:** Static · **Mood:** Gravity · **Action:** None
+**Edit:** "27,000–40,000 (COMMITTEE'S ESTIMATE)" in ivory, held 4s. No counter animation, no sound hit.
+
+**#167 · 3s · ARCHIVE**
+"Its report stayed confidential for decades,"
+**Image Prompt:** Authentic black-and-white photograph style: a government archive room with tall metal shelves of boxed files, one box tied shut with string, film grain, vignette, no people, no text.
+**Camera:** Slow lateral drift · **Lighting:** Dim · **Mood:** Hidden · **Action:** Drift
+
+**#168 · 4s · ERA COLOR (present day)**
+"and historians still argue over what happened and who was responsible."
+**Image Prompt:** Present-day documentary colour photograph: a library reading room table with several open history books and notes, a reading lamp, photoreal, no people, no readable text.
+**Camera:** High angle, slow push · **Lighting:** Lamp · **Mood:** Debate · **Action:** Push-in
+
+**#169 · 4s · ARCHIVE**
+"What is clear is that ordinary people in Hyderabad, Hindu and Muslim alike,"
+**Image Prompt:** Authentic 1940s black-and-white photograph style: a busy old Hyderabad market lane with men and women of different communities, a temple spire and a mosque minaret both visible above the rooftops, film grain, documentary realism, faces small, no text.
+**Camera:** Wide, slow push · **Lighting:** Daylight · **Mood:** Shared humanity · **Action:** Push-in
+
+**#170 · 4s · LUXURY**
+"paid a far heavier price than the man in the palace."
+**Image Prompt:** Photoreal documentary style: the illuminated palace on its hill seen from a dark, empty city street below, warm windows far away, film grain, no people, no text.
+**Camera:** Low angle from the street, slow push · **Lighting:** Distant palace glow · **Mood:** Injustice · **Action:** Push-in
+**Edit:** Music returns softly.
+
+**#171 · 4s · ARCHIVE**
+"The Nizam kept his palaces and much of his private wealth."
+**Image Prompt:** Authentic 1950s black-and-white photograph style: King Kothi palace facade in Hyderabad with guards at the gate, film grain, documentary realism, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Daylight · **Mood:** Survival · **Action:** Push-in
+**Edit:** Caption "KING KOTHI PALACE".
+
+**#172 · 4s · GRAPHIC**
+"But the answer to our first question had changed forever."
+**Image Prompt:** Brand graphic: folder 1 of 5 on charcoal #141414, its tab stamped in wax-seal red, lamp light, no text.
+**Edit:** "WHO CONTROLLED IT?" → stamp "NOT HIM".
+
+**#173 · 4s · MAP**
+"He no longer controlled the state that had produced his fortune."
+**Image Prompt:** Vintage map of India on aged paper, Hyderabad State's gold tint draining away into the surrounding colour, overhead lamp, no readable text.
+**Camera:** Top-down, slow pull back · **Lighting:** Lamp · **Mood:** Loss of control · **Action:** Gold drains (edit)
+
+**#174 · 4s · ERA COLOR (1950s Kodachrome)**
+"From now on, other people would decide what he kept."
+**Image Prompt:** 1950s Kodachrome colour photograph style: a long government committee table with empty chairs and stacks of files, ceiling fans, warm saturated colour, grain, no people, no readable text.
+**Camera:** Wide, slow push down the table · **Lighting:** Window light · **Mood:** Bureaucratic control · **Action:** Push-in
+
+**#175 · 5s · ARCHIVE**
+"And in the chaos of those final days, one transfer was made that would outlive almost everyone involved."
+**Image Prompt:** Authentic 1948 black-and-white photograph style: a telegraph office desk with a Morse key, paper tape and a typed transfer slip under a lamp, film grain, documentary realism, no people, no readable text.
+**Camera:** Close, slow push to the slip · **Lighting:** Lamp · **Mood:** Fateful · **Action:** Paper tape curls
+
+**#176 · 4s · DOCUMENT ("watch this detail" plant)**
+"Remember this name: Moin Nawaz Jung."
+**Image Prompt:** Overhead documentary photograph style: a 1940s Hyderabad government file cover on a desk, with a blank typed name label, a paperclip and a red pencil, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push to the label · **Lighting:** Lamp · **Mood:** Plant · **Action:** Red pencil circle draws on (edit)
+**Edit:** Typewriter "MOIN NAWAZ JUNG" on the label (no face: no verified photo).
+
+**#177 · 4s · ARCHIVE**
+"He had been Hyderabad's finance minister."
+**Image Prompt:** Authentic 1940s black-and-white photograph style: an empty minister's office in a Hyderabad government building, a large desk with ledgers and a nameplate (unreadable), a ceiling fan, film grain, vignette, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Shutter light · **Mood:** Suspicion · **Action:** Push to the ledgers
+**Edit:** Caption "FINANCE MINISTER OF HYDERABAD". Low hit into Document V.
+
+*Batch 2: 92 beats (#086–#177) · Documents III–IV (~6.4 min). Running total 177. Next: Batch 3 = Documents V–VI.*
