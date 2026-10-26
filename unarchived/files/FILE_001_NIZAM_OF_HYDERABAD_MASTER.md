@@ -1638,3 +1638,429 @@ But every fortune has a fate, and the archive is still open.
 **Edit:** Caption "FINANCE MINISTER OF HYDERABAD". Low hit into Document V.
 
 *Batch 2: 92 beats (#086–#177) · Documents III–IV (~6.4 min). Running total 177. Next: Batch 3 = Documents V–VI.*
+
+### 4e. IMAGE PROMPTS · BATCH 3 of ~5 (Documents V–VI)
+
+#### DOCUMENT V — FORCE TWO: THE FROZEN MILLION (mid-video bomb)
+
+**#178 · 4s · GRAPHIC (chapter card)**
+[CHAPTER CARD: FORCE 2 OF 5 · WHAT BECAME UNTOUCHABLE?]
+**Image Prompt:** Brand graphic: folder 2 of 5 slides forward on charcoal #141414, muted gold tab, wax-seal red mark, lamp light, no text.
+**Edit:** "DOCUMENT V · FORCE 2 OF 5 · WHAT BECAME UNTOUCHABLE?" (held 3s).
+
+**#179 · 4s · ARCHIVE**
+"Picture a London bank in the autumn of 1948."
+**Image Prompt:** Authentic 1948 black-and-white photograph style: the grand banking hall of a City of London bank, marble columns, a high glass skylight, long polished mahogany counters with brass grilles, film grain, documentary realism, few people, no readable text.
+**Camera:** Wide, slow push down the hall · **Lighting:** Cold skylight · **Mood:** Order, calm · **Action:** Push-in
+
+**#180 · 3s · LUXURY**
+"Polished counters. Ledgers."
+**Image Prompt:** Photoreal close-up, 1940s setting: a thick leather-bound bank ledger open on a polished mahogany counter beside a brass inkstand and blotter, cold window light, film grain, no readable text.
+**Camera:** Close, slow lateral drift · **Lighting:** Cool window light · **Mood:** Precision · **Action:** A page settles
+
+**#181 · 4s · ERA COLOR (1940s)**
+"Clerks in dark suits, still working by the rules of an empire that was disappearing around them."
+**Image Prompt:** 1940s colour photograph style (muted Kodachrome): rows of bank clerks in dark three-piece suits at high wooden desks writing in ledgers, green-shaded lamps, seen from behind and at a distance, slight grain, no readable text, faces indistinct.
+**Camera:** High angle, slow drift · **Lighting:** Green lamp pools · **Mood:** Routine · **Action:** Drift across the desks
+
+**#182 · 4s · MAP**
+"Thousands of miles away, Hyderabad has just fallen."
+**Image Prompt:** Vintage 1948 world map on aged paper, overhead, warm lamp light, no readable text.
+**Camera:** Top-down, slow pull back · **Lighting:** Lamp · **Mood:** Distance · **Action:** Map line draws London ↔ Hyderabad (edit)
+**Edit:** Labels "LONDON" / "HYDERABAD · FALLEN".
+
+**#183 · 3s · ARCHIVE**
+"Here, it's an ordinary Monday morning."
+**Image Prompt:** Authentic 1948 black-and-white photograph style: City of London street at morning rush, men in bowler hats and overcoats with umbrellas crossing in front of a bank, a red double-decker bus in grey tones, film grain, documentary realism, no readable text.
+**Camera:** Wide, slow drift · **Lighting:** Grey morning · **Mood:** Normality · **Action:** Drift
+
+**#184 · 3s · GRAPHIC**
+"The 20th of September, 1948."
+**Image Prompt:** Brand graphic: a vintage desk calendar on charcoal #141414, muted gold edges, spotlight, no text.
+**Action:** Page flips · **Edit:** "MONDAY · 20 SEPTEMBER 1948". 1s silence before.
+
+**#185 · 3s · GRAPHIC (timer)**
+[TIMER: 2 DAYS AFTER THE SURRENDER]
+**Image Prompt:** Hold on #184, darkened.
+**Edit:** Timer "18 SEPT SURRENDER → +2 DAYS" in wax-seal red (only device on screen).
+
+**#186 · 4s · ERA COLOR (1940s hand-tinted)**
+"The fighting was over. The Nizam had surrendered."
+**Image Prompt:** 1940s hand-tinted photograph style: an empty Hyderabad palace balcony at dawn, a lowered royal standard folded on the balustrade, pastel tint, film grain, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Dawn · **Mood:** Quiet after defeat · **Action:** Push-in
+
+**#187 · 4s · LUXURY**
+"And in London, at Westminster Bank, a transfer went through."
+**Image Prompt:** Photoreal close-up, 1948 setting: a bank clerk's hand pressing a rubber date stamp onto a printed transfer slip on a mahogany counter, ink pad beside it, cold light, film grain, no face, no readable text.
+**Camera:** Close, slow push · **Lighting:** Cold window light · **Mood:** Routine with consequence · **Action:** Stamp comes down
+**Edit:** Stamp sound, then 1s silence.
+
+**#188 · 5s · DOCUMENT**
+[DOCUMENT: £1,007,940 9s · WESTMINSTER BANK · 20 SEPTEMBER 1948]
+**Image Prompt:** Overhead documentary photograph style: a 1940s British bank transfer advice on thin cream paper with printed boxes, a fountain-pen signature line, a bank stamp area, desk-lamp light, paper fibres, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** The bomb · **Action:** Highlight sweep across the amount line
+**Edit:** Overlay "£1,007,940 9s" large in ivory, held 3s.
+
+**#189 · 6s · ARCHIVE (triptych)**
+"One million, seven thousand, nine hundred and forty pounds and nine shillings was moved out of an account held by the government of Hyderabad,"
+**Image Prompt:** Triptych of three authentic 1940s black-and-white photographs side by side: (1) the bank's stone facade, (2) a ledger page with a column of figures, (3) a stack of banknotes tied with a paper band, matched grain and vignette, documentary realism, no readable text.
+**Camera:** Panels revealed left to right · **Lighting:** Low-key · **Mood:** Reveal · **Action:** Each panel appears with the words
+**Edit:** Fortune counter "£1,007,940 9s (1948)" (only counter).
+
+**#190 · 5s · ARCHIVE · [REAL PHOTO: Rahimtoola, crop]**
+"into an account in the name of Pakistan's High Commissioner in London, Habib Ibrahim Rahimtoola."
+**Image Prompt:** [REAL PHOTO]: crop of Habib Ibrahim Rahimtoola from the Wikipedia group photo, slow push-in. Fallback with no face: authentic 1940s black-and-white photograph of a London diplomatic mission's doorway with a brass plate (unreadable).
+**Camera:** Slow push · **Mood:** Identification · **Action:** Push-in
+**Edit:** Caption "HABIB IBRAHIM RAHIMTOOLA · PAKISTAN'S HIGH COMMISSIONER".
+
+**#191 · 3s · DOCUMENT**
+"The transfer had been arranged by Moin Nawaz Jung."
+**Image Prompt:** Overhead documentary photograph style: the same Hyderabad government file cover from earlier, now opened, a typed instruction letter inside, a red pencil circle on the signature area, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Payoff of the plant · **Action:** Circle pulses
+**Edit:** Typewriter "ARRANGED BY: MOIN NAWAZ JUNG".
+
+**#192 · 3s · GRAPHIC (stamp)**
+[MYTH/FACT STAMP: "THE MONEY WAS SENT DURING THE INVASION"]
+**Image Prompt:** Hold on #188, darkened 40%.
+**Edit:** Stamp "SENT DURING THE INVASION? · MYTH · IT MOVED 2 DAYS AFTER THE SURRENDER", held 3s.
+
+**#193 · 4s · ERA COLOR (1940s)**
+"Pakistan's position was that the money was payment for weapons."
+**Image Prompt:** 1940s colour photograph style: wooden crates stencilled with shipping marks (unreadable) stacked on a dock, a cargo ship's hull behind, warm muted colour, grain, no people, no readable text.
+**Camera:** Low angle, slow push · **Lighting:** Overcast dock light · **Mood:** One claim · **Action:** Push-in
+**Edit:** Label "PAKISTAN: 'PAYMENT FOR ARMS'".
+
+**#194 · 4s · ARCHIVE**
+"The Nizam's position was that it had been moved without his authority, and he wanted it back."
+**Image Prompt:** Authentic 1940s black-and-white photograph style: a palace writing desk with an unsigned letter, an uncapped pen and the royal seal set aside unused, film grain, vignette, no people, no readable text.
+**Camera:** Close, slow push · **Lighting:** Window light · **Mood:** The other claim · **Action:** Push to the unused seal
+**Edit:** Label "THE NIZAM: 'WITHOUT MY AUTHORITY'".
+
+**#195 · 2s · GRAPHIC**
+"So whose money was it?"
+**Image Prompt:** Brand graphic: a single gold sovereign coin standing on its edge on charcoal #141414, spotlight, no text.
+**Camera:** Close, slow orbit · **Lighting:** Spot · **Mood:** Question · **Action:** The coin wobbles
+
+**#196 · 3s · LUXURY**
+"No one could agree. And the bank was caught in the middle."
+**Image Prompt:** Photoreal still, 1940s setting: an empty bank manager's office with a leather chair, a desk with two thick opposing files placed at either side, cold light from a tall window, film grain, no people, no readable text.
+**Camera:** Centered, slow push · **Lighting:** Cold window · **Mood:** Dilemma · **Action:** Push to the gap between the files
+
+**#197 · 5s · ARCHIVE (diptych)**
+"On one side, a new nation claiming the money as payment. On the other, a fallen king claiming it had been taken without his permission."
+**Image Prompt:** Diptych of two authentic 1940s black-and-white photographs: (left) a new national flag rising on a pole above a government building, (right) an empty palace throne room, matched grain and vignette, documentary realism, no readable text.
+**Camera:** Left then right revealed · **Lighting:** Contrasting · **Mood:** Standoff · **Action:** Panels appear in turn
+**Edit:** Labels "PAKISTAN" / "THE NIZAM".
+
+**#198 · 4s · DOCUMENT**
+"Hand it to the wrong side, and the bank itself could be liable."
+**Image Prompt:** Overhead documentary photograph style: a typed solicitor's letter on bank letterhead (unreadable) with a pen poised over the signature, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Risk · **Action:** The pen hovers and pulls back
+
+**#199 · 4s · GRAPHIC (motif: THE FROZEN VAULT)**
+"So it did the only thing it could. It froze the account."
+**Image Prompt:** Photoreal cinematic still: a massive round 1940s steel bank vault door with brass bolts and a combination wheel swinging shut, a small paper ledger tag on the handle, cold blue light, deep black background, no readable text.
+**Camera:** Straight-on, slow push · **Lighting:** Cold blue · **Mood:** Locked · **Action:** Door closes, bolts slide home
+**Edit:** Heavy low thud. Vault motif + "£1,007,940 · FROZEN · 1948". **Frozen-years ticker starts.**
+
+**#200 · 3s · ARCHIVE**
+"And there the money sat."
+**Image Prompt:** Authentic black-and-white photograph style: a long, dim vault corridor lined with closed steel safe-deposit doors, a single bulb, film grain, vignette, no people, no text.
+**Camera:** Centered, very slow push · **Lighting:** Bulb · **Mood:** Stillness · **Action:** Push-in
+**Edit:** Ticker "1948 · 1949 · 1950…" (small, corner).
+
+**#201 · 3s · ARCHIVE · [REAL PHOTO: Osman Ali Khan, 1960s]**
+"As the Nizam grew old."
+**Image Prompt:** [REAL PHOTO]: a 1960s photograph of the elderly Osman Ali Khan (Wikipedia/Commons or a book plate), slow push-in. No AI face.
+**Camera:** Slow push · **Mood:** Time passing · **Action:** Push-in
+**Edit:** Ticker continues "…1960…".
+
+**#202 · 3s · ERA COLOR (1950s Kodachrome)**
+"As Britain's empire dissolved."
+**Image Prompt:** 1950s Kodachrome colour photograph style: a Union flag being folded by two officers at a colonial-era ceremony under a tropical sky, warm saturated colour, grain, faces small, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Bright sun · **Mood:** Era ending · **Action:** The flag folds
+
+**#203 · 4s · ERA COLOR (1970s)**
+"As Westminster Bank itself became NatWest."
+**Image Prompt:** 1970s colour photograph style (faded Ektachrome): a high-street British bank branch facade with a modern 1970s sign above the old stone doorway (unreadable), people in 1970s clothes passing, grain, documentary realism, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Daylight · **Mood:** Institutions change · **Action:** Push-in
+**Edit:** Caption "WESTMINSTER BANK → NATWEST (1970)". Ticker "…1970…".
+
+**#204 · 5s · GRAPHIC**
+"The interest quietly piled up while governments and families argued over it."
+**Image Prompt:** Brand graphic: a slowly growing stack of gold coins on charcoal #141414 beside the closed vault door silhouette, muted gold light, no text.
+**Camera:** Static, slow push · **Lighting:** Rim · **Mood:** Compounding · **Action:** Coins stack up
+**Edit:** Ticker "…1980… 1990…".
+
+**#205 · 4s · DOCUMENT**
+"Think about what that means. This was money anyone could name, to the shilling."
+**Image Prompt:** Extreme close-up documentary photograph style: a ledger line with an amount in old pounds, shillings and pence written in fountain-pen ink, paper fibres, desk-lamp light, shallow depth of field, no readable text.
+**Camera:** Macro, slow lateral drift · **Lighting:** Lamp · **Mood:** Precision · **Action:** Drift along the line
+**Edit:** Overlay "£1,007,940 9s 0d".
+
+**#206 · 3s · LUXURY**
+"Everyone knew exactly where it was."
+**Image Prompt:** Photoreal still: a brass vault combination dial in close-up, cold blue light, scratches on the metal, no text.
+**Camera:** Macro, slow push · **Lighting:** Cold blue · **Mood:** Tantalising · **Action:** The dial turns slightly and stops
+
+**#207 · 3s · ARCHIVE**
+"And for decades, no one could touch it."
+**Image Prompt:** Authentic black-and-white photograph style: a hand in a suit sleeve resting flat on a closed steel vault door, film grain, vignette, no face, no text.
+**Camera:** Close, static push · **Lighting:** Hard side light · **Mood:** Frustration · **Action:** The hand slowly withdraws
+
+**#208 · 4s · GRAPHIC**
+"Wealth that still exists, but can no longer be used."
+**Image Prompt:** Brand graphic: folder 2 of 5 on charcoal #141414, its tab stamped in wax-seal red, lamp light, no text.
+**Edit:** "WHAT BECAME UNTOUCHABLE?" → "£1,007,940 · FROZEN".
+
+**#209 · 5s · ERA COLOR (present day)**
+"And it would take seventy-one years, and a High Court judge, to open that vault."
+**Image Prompt:** Present-day documentary colour photograph: the Gothic stone facade of the Royal Courts of Justice on the Strand in London on a grey morning, black cabs passing, photoreal, no readable text.
+**Camera:** Low angle, slow tilt up · **Lighting:** Overcast · **Mood:** Promise of payoff · **Action:** Tilt up the spires
+**Edit:** Ticker jumps "→ 2019 = 71 YEARS" and fades (loop kept open).
+
+**#210 · 6s · GRAPHIC (subscribe)**
+"Every file on this channel follows the money: where a fortune came from, and where it went. Subscribe, so you're here when the next file opens."
+**Image Prompt:** Brand graphic: a row of manila file folders on charcoal #141414, the first stamped "FILE No. 001", the rest still sealed with wax-seal red, muted gold lamp light, no other text.
+**Camera:** Lateral track along the folders · **Lighting:** Lamp · **Mood:** Series promise · **Action:** Track past sealed files
+**Edit:** In-video subscribe badge (unarchived/brand/subscribe_badge_invideo.png), bottom right, 5s. → AD BREAK 2.
+
+#### DOCUMENT VI — FORCE THREE: A FORTUNE LOCKED IN STONE
+
+**#211 · 4s · GRAPHIC (chapter card)**
+[CHAPTER CARD: FORCE 3 OF 5 · WHAT WAS LOCKED AWAY?]
+**Image Prompt:** Brand graphic: folder 3 of 5 slides forward on charcoal #141414, muted gold tab, lamp light, no text.
+**Edit:** "DOCUMENT VI · FORCE 3 OF 5 · WHAT WAS LOCKED AWAY?" (held 3s).
+
+**#212 · 4s · ARCHIVE · [REAL PHOTO preferred: Osman Ali Khan, c. 1950]**
+"After 1948, the richest man in the world became a figurehead."
+**Image Prompt:** [REAL PHOTO]: a c. 1950 photograph of Osman Ali Khan at an official function (Wikipedia/Commons or a book plate). Fallback with [AI + REF]: authentic 1950 black-and-white photograph style, the elderly Nizam seated on a dais at a ceremony with Indian officials around him, matching the reference exactly.
+**Camera:** Slow push · **Mood:** Diminished · **Action:** Push-in
+
+**#213 · 5s · ERA COLOR (1950s Kodachrome)**
+"From 1950, he served as Rajpramukh, the ceremonial head of Hyderabad State, bound by the advice of elected ministers."
+**Image Prompt:** 1950s Kodachrome colour photograph style: a state assembly chamber in India with rows of ministers in white Gandhi caps and khadi at curved benches, a raised ceremonial chair at the front, warm saturated colour, grain, faces small, no readable text.
+**Camera:** Wide, slow push to the ceremonial chair · **Lighting:** Hall light · **Mood:** Power has moved · **Action:** Push-in
+**Edit:** Caption "RAJPRAMUKH · 1950–1956".
+
+**#214 · 5s · MAP**
+"In 1956 the state itself was broken up and redrawn, and even its name disappeared from the map."
+**Image Prompt:** Vintage 1956 map of southern India on aged paper, overhead, warm lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Erasure · **Action:** Hyderabad State's gold shape splits into three and its label fades (edit)
+**Edit:** Labels appear for the new states; "HYDERABAD STATE" fades out.
+
+**#215 · 4s · DOCUMENT**
+"In return for giving up his kingdom, he received what India called a privy purse:"
+**Image Prompt:** Overhead documentary photograph style: an Indian government ledger and a cheque book with a seal on a desk, a "PRIVY PURSE" file tab (unreadable), desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Settlement · **Action:** Highlight sweep
+**Edit:** Caption "THE PRIVY PURSE".
+
+**#216 · 4s · GRAPHIC (fortune counter)**
+"an allowance of five million rupees a year, tax-free."
+**Image Prompt:** Brand graphic background: charcoal #141414 with faint engraved rupee-note guilloche patterns in muted gold, empty centre, no text.
+**Camera:** Static, slow push · **Lighting:** Glow · **Mood:** Comfortable · **Action:** Counter ticks
+**Edit:** Fortune counter "Rs 50 LAKH A YEAR · TAX-FREE".
+
+**#217 · 5s · ERA COLOR (1950s Kodachrome)**
+"At the exchange rates of the day, that was roughly a million dollars a year, paid by the Indian government in return for the kingdom he had given up."
+**Image Prompt:** 1950s Kodachrome colour photograph style: stacks of Indian rupee banknote bundles in a government treasury tray, a clerk's hands counting, warm saturated colour, grain, no face, no readable text.
+**Camera:** Close, slow push · **Lighting:** Warm · **Mood:** Compensation · **Action:** Bundles are counted
+**Edit:** Counter shows "≈ $1,000,000 A YEAR (1950 RATES, APPROX.)" underneath.
+
+**#218 · 3s · ARCHIVE**
+"A fortune by most standards."
+**Image Prompt:** Authentic 1950s black-and-white photograph style: a palace dining hall set for a banquet, long table with silver and candelabras, film grain, documentary realism, no people, no text.
+**Camera:** Wide, slow drift · **Lighting:** Candle glow · **Mood:** Still rich · **Action:** Drift
+
+**#219 · 3s · GRAPHIC**
+"But notice what had changed."
+**Image Prompt:** Brand graphic: the brass magnifying glass on charcoal #141414, muted gold rim light, no text.
+**Camera:** Top-down, slow push · **Action:** The glass slides over a blurred document
+
+**#220 · 5s · ARCHIVE (diptych)**
+"For two centuries, the Nizams had collected the revenues of a kingdom. Now the Nizam collected an allowance,"
+**Image Prompt:** Diptych of two sepia photographs side by side: (left) 1900s farmers delivering sacks of grain to a revenue office with a clerk recording, (right) a single cheque on a silver tray, matched grain and vignette, documentary realism, no readable text.
+**Camera:** Left then right revealed · **Lighting:** Varied · **Mood:** From ruler to pensioner · **Action:** Panels appear in turn
+**Edit:** Labels "REVENUES" / "AN ALLOWANCE".
+
+**#221 · 5s · DOCUMENT**
+"paid by a government he did not control, which that government could one day decide to stop."
+**Image Prompt:** Overhead documentary photograph style: a government payment order on a desk with a large rubber "CANCELLED" stamp poised above it (stamp face not readable), desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Foreshadowing · **Action:** The stamp hovers (it comes down in Doc VII)
+
+**#222 · 4s · LUXURY**
+"Meanwhile, his real wealth was becoming harder and harder to use."
+**Image Prompt:** Photoreal documentary style: a jewelled necklace locked inside a glass case with a heavy brass padlock, warm lamplight on the gems, cold reflections on the glass, film grain, no text.
+**Camera:** Close, slow push · **Lighting:** Warm inside, cold outside · **Mood:** Out of reach · **Action:** Push to the padlock
+
+**#223 · 5s · DOCUMENT**
+"In 1951 and 1952, he placed his famous jewels into two trusts, the Nizam's Jewellery Trust and a supplemental trust,"
+**Image Prompt:** Overhead documentary photograph style: two thick legal trust deeds on parchment tied with red ribbon and sealed with wax, laid side by side on a desk, a brass seal stamp beside them, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Locking away · **Action:** Highlight sweep across both deeds
+**Edit:** Labels "NIZAM'S JEWELLERY TRUST · 1951" / "SUPPLEMENTAL TRUST · 1952".
+
+**#224 · 3s · ERA COLOR (1950s Kodachrome)**
+"intended to keep them together for the family."
+**Image Prompt:** 1950s Kodachrome colour photograph style: an open velvet-lined jewellery chest with a full set of emerald and diamond ornaments arranged neatly together, warm saturated colour, grain, no people, no text.
+**Camera:** High angle, slow push · **Lighting:** Warm · **Mood:** Protection · **Action:** Lid lowers slowly
+
+**#225 · 4s · GRAPHIC**
+"It was a sensible step. But a trust is a set of rules, and rules cut both ways."
+**Image Prompt:** Brand graphic: an old double-edged key in muted gold on charcoal #141414, spotlight, no text.
+**Camera:** Close, slow rotation · **Lighting:** Spot · **Mood:** Double edge · **Action:** The key turns to show both sides
+
+**#226 · 5s · ARCHIVE**
+"Jewels placed in a trust usually can't be sold on a whim when someone needs money."
+**Image Prompt:** Authentic 1950s black-and-white photograph style: a jeweller's shop counter with an empty velvet tray and a closed shutter half-down behind it, film grain, documentary realism, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Window light · **Mood:** Blocked · **Action:** Shutter lowers (edit)
+
+**#227 · 5s · DOCUMENT**
+"They're controlled by its terms and its trustees, not by any one member of the family."
+**Image Prompt:** Overhead documentary photograph style: the trust deed open to a signature page with several trustees' signature lines and seals, a fountain pen, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Control shifts · **Action:** Highlight sweep down the signature lines
+**Edit:** Caption "CONTROLLED BY: THE TRUSTEES".
+
+**#228 · 4s · LUXURY**
+"And his palaces were full of treasure, but palaces cost money to run."
+**Image Prompt:** Photoreal documentary style: Chowmahalla Palace's grand Khilwat durbar hall with its chandeliers and a white marble platform, slightly faded walls, warm light, film grain, no people, no text.
+**Camera:** Wide, low angle, slow push · **Lighting:** Warm · **Mood:** Expensive beauty · **Action:** Push-in
+**Edit:** Caption "CHOWMAHALLA PALACE".
+
+**#229 · 5s · ARCHIVE**
+"Servants, guards, relatives and retainers all had to be paid, whether the money came in or not."
+**Image Prompt:** Authentic 1950s black-and-white photograph style: a palace pay office with a long queue of servants and guards in turbans waiting at a wooden window where a clerk counts coins, film grain, documentary realism, faces small, no readable text.
+**Camera:** Wide, slow lateral drift along the queue · **Lighting:** Hard sun · **Mood:** Burden · **Action:** Drift
+
+**#230 · 4s · GRAPHIC**
+"This is the part that's easiest to miss."
+**Image Prompt:** Brand graphic: folder 3 of 5 on charcoal #141414 opening slowly, muted gold light, no text.
+**Edit:** Small stamp "KEY POINT".
+
+**#231 · 2s · ERA COLOR (1930s hand-tinted)**
+"Treasure is not the same as cash."
+**Image Prompt:** 1930s hand-tinted photograph style: a single large emerald beside a single banknote on a plain table, pastel tint, film grain, no text.
+**Camera:** Close, slow push · **Lighting:** Soft · **Mood:** Lesson · **Action:** Push-in
+**Edit:** "TREASURE ≠ CASH".
+
+**#232 · 4s · LUXURY · [AI + REF: Jacob Diamond.jpg]**
+"A diamond on a desk doesn't pay a single salary."
+**Image Prompt:** Photoreal still, matching the attached reference for the diamond's cushion cut and shape: the large diamond on a desk beside an empty pay envelope, warm lamplight, shallow depth of field, no readable text.
+**Camera:** Close, slow push · **Lighting:** Warm lamp · **Mood:** Irony · **Action:** Push-in
+
+**#233 · 4s · ARCHIVE**
+"Gold in a storeroom pays no bills until you sell it."
+**Image Prompt:** Authentic 1950s black-and-white photograph style: stacked gold bars in a stone storeroom with a pile of unpaid bills on a stool in the foreground, film grain, vignette, no readable text.
+**Camera:** Low angle, slow push · **Lighting:** Bulb · **Mood:** Illiquid · **Action:** Push to the bills
+
+**#234 · 6s · GRAPHIC**
+"And the more of your wealth is locked in jewels, buildings and trusts, the less of it you can actually spend."
+**Image Prompt:** Brand graphic: a muted gold bar chart on charcoal #141414 where three tall columns (jewels, buildings, trusts) rise while a small "cash" column shrinks, ivory lines, no other text.
+**Camera:** Static · **Lighting:** Even · **Mood:** Clarity · **Action:** Columns animate
+**Edit:** Labels "JEWELS · BUILDINGS · TRUSTS" vs "SPENDABLE".
+
+**#235 · 4s · ERA COLOR (present day)**
+"And here's where this story touches almost every family."
+**Image Prompt:** Present-day documentary colour photograph: a kitchen table in an ordinary family home with a folder of household papers, reading glasses and a cup of tea, soft morning light, photoreal, no people, no readable text.
+**Camera:** High angle, slow push · **Lighting:** Morning window · **Mood:** Relatable · **Action:** Push-in
+
+**#236 · 5s · ARCHIVE**
+"The Nizam's jewels were locked in trusts that would take decades of lawyers to unwind."
+**Image Prompt:** Authentic 1970s black-and-white photograph style: a lawyer's office corridor with shelves of thick case files bound in red tape, film grain, documentary realism, no people, no readable text.
+**Camera:** Slow lateral drift · **Lighting:** Fluorescent · **Mood:** Endless · **Action:** Drift past files
+
+**#237 · 4s · LUXURY**
+"Most families never need anything that complicated."
+**Image Prompt:** Photoreal still: a simple modern folder labelled with a blank tab on a wooden table, a pen on top, warm light, clean background, no readable text.
+**Camera:** Close, slow push · **Lighting:** Warm · **Mood:** Reassuring · **Action:** Push-in
+
+**#238 · 5s · DOCUMENT (checklist #1)**
+"But almost every family needs a plan, written down, that the people left behind can actually follow."
+**Image Prompt:** Overhead documentary photograph style: a printed one-page checklist with tick boxes on a desk, a pen ticking one box, warm lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Practical · **Action:** The pen ticks a box
+**Edit:** Replace with a screenshot of the real Family Legacy Checklist PDF (after its refresh).
+
+**#239 · 6s · GRAPHIC (lead magnet)**
+"So I put together a free Family Legacy Checklist: a short, plain list of what to write down, and who needs to know, so your family isn't left guessing. It's in the description."
+**Image Prompt:** Brand graphic: a mock-up of the checklist PDF cover tilted on charcoal #141414, muted gold border, soft shadow, no AI text (the real cover is composited in).
+**Camera:** Static, slow push · **Lighting:** Soft · **Mood:** Offer · **Action:** Cover slides in
+**Edit:** Real PDF cover + "FREE · LINK IN DESCRIPTION ↓", held 5s.
+
+**#240 · 5s · ERA COLOR · [REAL PHOTO: book cover]**
+"And if you want the full story of this family, the definitive book is The Last Nizam, by John Zubrzycki. That's linked below too."
+**Image Prompt:** [REAL PHOTO]: the cover of *The Last Nizam* (publisher image, used to promote the book) on a wooden desk background. AI background only: photoreal wooden library desk with warm lamp, no text.
+**Camera:** Slow push · **Mood:** Credible recommendation · **Action:** Book cover slides in
+**Edit:** "THE LAST NIZAM · JOHN ZUBRZYCKI · LINK BELOW".
+
+**#241 · 4s · ARCHIVE**
+"There's a famous story from these years that you may have heard."
+**Image Prompt:** Authentic 1960s black-and-white photograph style: a group of men reading newspapers at a roadside tea stall in Hyderabad, film grain, documentary realism, faces small, no readable text.
+**Camera:** Medium, slow drift · **Lighting:** Daylight · **Mood:** Popular legend · **Action:** Drift
+
+**#242 · 4s · LUXURY**
+"In 1965, the Nizam is said to have donated five thousand kilograms of gold to India."
+**Image Prompt:** Photoreal documentary style: an enormous heap of gold bars and gold ornaments piled on a large table, lit warmly, film grain, no people, no text.
+**Camera:** Low angle, slow push · **Lighting:** Warm · **Mood:** Too good to be true · **Action:** Push-in
+**Edit:** Caption "'5,000 KG OF GOLD'".
+
+**#243 · 3s · GRAPHIC (stamp)**
+[MYTH/FACT STAMP: "DONATED 5,000 KG OF GOLD" — MYTH]
+**Image Prompt:** Hold on #242, darkened 40%.
+**Edit:** Stamp "DONATED 5,000 KG OF GOLD · MYTH" in wax-seal red, held 3s.
+
+**#244 · 4s · DOCUMENT**
+"It didn't happen that way. According to records released under India's Right to Information Act, there is no record of any such donation."
+**Image Prompt:** Overhead documentary photograph style: a modern Indian government reply letter with an official emblem area and typed paragraphs (unreadable), a highlighter on top, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Investigation · **Action:** Highlight sweep
+**Edit:** Caption "RIGHT TO INFORMATION (RTI) RECORDS".
+
+**#245 · 5s · ERA COLOR (1960s Kodachrome)**
+"What he actually did was invest around four hundred and twenty-five kilograms of gold in a national defence gold bond scheme."
+**Image Prompt:** 1960s Kodachrome colour photograph style: a modest stack of gold bars on a weighing scale in an Indian government office, an official certificate beside it, warm saturated colour, grain, no people, no readable text.
+**Camera:** Close, slow push · **Lighting:** Office light · **Mood:** The truth · **Action:** The scale needle settles
+**Edit:** "≈ 425 KG · NATIONAL DEFENCE GOLD BONDS · 1965".
+
+**#246 · 5s · GRAPHIC**
+"A huge sum. But an investment, not a gift, and less than a tenth of the legend."
+**Image Prompt:** Brand graphic: two gold stacks side by side on charcoal #141414, one tall (the legend) fading to outline, one about a tenth of its height (solid), muted gold, no text.
+**Camera:** Static · **Lighting:** Even · **Mood:** Correction · **Action:** The tall stack dissolves to an outline
+**Edit:** Labels "LEGEND: 5,000 KG" / "RECORDS: ~425 KG".
+
+**#247 · 4s · ARCHIVE**
+"On the 24th of February, 1967, the seventh Nizam died at his palace, King Kothi, aged eighty."
+**Image Prompt:** Authentic 1967 black-and-white photograph style: King Kothi palace gates closed at dusk, a few mourners standing quietly outside, film grain, documentary realism, faces small, no text.
+**Camera:** Wide, slow push · **Lighting:** Dusk · **Mood:** Death of an era · **Action:** Push-in
+**Edit:** Caption "24 FEBRUARY 1967". 1s silence.
+
+**#248 · 2s · GRAPHIC**
+[TIMELINE: 1967]
+**Image Prompt:** Brand graphic: the timeline ribbon in muted gold on charcoal, no text.
+**Edit:** Ribbon marks "1967".
+
+**#249 · 3s · ERA COLOR (1960s Kodachrome)**
+"Hyderabad came out to say goodbye."
+**Image Prompt:** 1960s Kodachrome colour photograph style: the old city of Hyderabad seen from a rooftop, streets filled with people dressed in white, the Charminar in the distance, warm saturated colour, grain, faces too small to identify, no text.
+**Camera:** High angle, slow pull back · **Lighting:** Daylight · **Mood:** Collective farewell · **Action:** Pull back
+
+**#250 · 4s · ARCHIVE · [REAL PHOTO preferred]**
+"Police estimated eight hundred thousand mourners. Some estimates put it near a million."
+**Image Prompt:** [REAL PHOTO] preferred: a news-agency photo of the 1967 funeral procession (licensed). Fallback AI: authentic 1967 black-and-white press photograph style, a vast funeral procession through an old Indian city, crowds on rooftops, film grain, faces too small to identify, no text.
+**Camera:** Wide, slow push · **Mood:** Scale of grief · **Action:** Push-in
+**Edit:** Head-count counter "800,000 → ~1,000,000 (EST.)" (only counter).
+
+**#251 · 5s · LUXURY**
+"The man The Times would call a miser, the ruler who had lost his kingdom nineteen years earlier, was still mourned by a city."
+**Image Prompt:** Photoreal documentary style: the worn fez resting on a folded white shroud cloth beside a garland of marigolds on a marble ledge, soft light, film grain, no people, no text.
+**Camera:** Close, slow push · **Lighting:** Soft · **Mood:** Dignity · **Action:** Petals fall gently
+
+**#252 · 4s · ARCHIVE**
+"Whatever else he had lost, he had not lost them."
+**Image Prompt:** Authentic 1967 black-and-white photograph style: an elderly woman and a young boy among the crowd, seen from behind, looking toward the procession, film grain, documentary realism, no faces, no text.
+**Camera:** Medium, from behind, slow push · **Lighting:** Daylight · **Mood:** Loyalty · **Action:** Push-in
+
+**#253 · 4s · ERA COLOR (1967 Kodachrome)**
+"And on the 6th of April, his grandson was crowned in his place."
+**Image Prompt:** 1960s Kodachrome colour photograph style: the Chowmahalla durbar hall prepared for a ceremony, courtiers in black sherwanis lining the aisle, a young man in a long black sherwani seen from behind approaching the throne, warm saturated colour, grain, no faces, no text.
+**Camera:** Wide, from behind, slow push · **Lighting:** Chandeliers · **Mood:** Succession · **Action:** Push down the aisle
+**Edit:** Caption "6 APRIL 1967". [REAL PHOTO] alternative: licensed 1967 ceremony photo.
+
+*Batch 3: 76 beats (#178–#253) · Documents V–VI (~5.6 min). Running total 253. Next: Batch 4 = Documents VII–VIII.*
