@@ -255,6 +255,7 @@ Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly
 - **Transitions:** time jumps; "But that was only the beginning"; callback hinges; context detours; "Let's pause here for a moment."
 - **Retention:** open loops; motif callbacks every 5–8 minutes; chapter cliffhangers; "picture this" immersion; moral pauses; mini-reveals every ~3 minutes; the fair-witness twist; a bookend ending.
 - **Added retention rules:** payoff preview in the first 30 seconds; stakes within 20 seconds; always 2 open loops; a re-hook every 90–120 seconds; **mid-video bomb at 40–55%**; today's-money conversions; real document quotes; no "finally" before the end; a next-file tease in the last 20 seconds.
+- **Paragraph rule (Oct 26 2026):** every paragraph must reveal a new fact, change the meaning of an earlier fact, or explain a financial consequence. If it does none of these, cut it or rewrite it.
 - **Direct address:** "you", "let's", rhetorical questions; CTA with a binary moral question plus "I read every single one."
 - **Pace:** about 2.4–2.5 words per second (145–150 wpm). **Target about 4,800 words (±5%: 4,560–5,040), about 32–33 minutes.**
 
