@@ -376,11 +376,8 @@ This video is for historical and educational purposes. Nothing here is legal or 
 - STATE 3 ✅ Transcripts: Genain, Rose Williams, Lucia Joyce, Camille Claudel
 - STATE 4 ✅ Ideas generated (most are now saturated, see section 3)
 - STATE 5 ✅ Style DNA (section 5)
-- STATE 6 ✅ File 001 Huntington Hartford: script v2.1, fully fact-checked, ~4,800 words (Edith script → vault)
-- STATE 7 ✅ Visual Style Profile locked: Undertold base plus Old Money luxury and maps, era-matched color, the locked-drawer motif
-- STATE 8 ✅ 560 image prompts in 5 batches (File 001)
-- **STATE 9 ⏳ NEXT: video prompts (optional; ask the owner)** → STATE 10–11 thumbnails → STATE 12 Word export
-- Publish & revenue playbook for File 001 is done (description, pinned comment, ad breaks, Shorts, revenue). It's in the File 001 master document.
+- **File 001 Nizam of Hyderabad (current):** STATE 6 ✅ script v1.1 (4,217 words, 3rd external review applied + full source-to-script audit, Oct 26 2026) · **⏳ NEXT: STATE 7–8 (visual input, image prompts)** → STATE 9 video prompts (optional) → STATE 10–11 thumbnails → publish & revenue playbook → STATE 12 export. Owner to-do: set up the email sign-up page; refresh the checklist PDF example.
+- File 003 Huntington Hartford (formerly 001): script v2.2, 560 image prompts, publish & revenue playbook done; next STATE 9 video prompts (optional). Visual Style Profile locked (Undertold base plus Old Money luxury and maps, era-matched color).
 
 ---
 

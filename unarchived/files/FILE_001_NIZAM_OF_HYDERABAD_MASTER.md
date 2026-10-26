@@ -174,11 +174,31 @@
 
 **F. Packaging and launch:** Test & Compare titles: **(1, lead) What Happened to the Nizam of Hyderabad, Once the Richest Man on Earth?** (2) He Used a Diamond as a Paperweight. What Happened to His Fortune? (3) He Inherited the Richest Fortune on Earth, and 14,700 People Who Depended on It · backup: Once Called the Richest Man on Earth: What Happened to the Nizam's Fortune? · ✂️ rejected: "…Richest Man Who Ever Lived" (overclaims), "…Heirs Lost Everything" (absolute, untrue), "…Heir Died in a Two-Bedroom Flat" (misstates the source) · thumbnails: (A) the Jacob Diamond beside a portrait of the Nizam, text "WHERE DID IT GO?" (B) the diamond vs the vault door · description (search-first, checklist, Zubrzycki + Collins & Lapierre + an Idea List, chapters, sources) · pinned comment "Lost by history, or by his heirs?" · 4 Shorts: the paperweight diamond / £1M frozen 71 years / 14,700 dependants / the 5,000 kg gold myth · day-2 poll · playlists: The Inheritance Files, Heirs Who Vanished · end screen → File 002 (Mar-a-Lago) · ad-suitability answered honestly (historical conflict deaths, non-graphic).
 
-**G. Before launch (blockers):** ✅ necklace + Monckton verified · **⏳ REMIND OWNER AFTER THE SCRIPT: set up the email sign-up page** · ⏳ refresh the checklist PDF example (no Edith) · ⏳ email sign-up page live · ⏳ second source for the 15 Aug 1947 declaration · ⏳ second source for the 2026 Siasat court claim (or cut).
+**G. Before launch (blockers):** ✅ necklace + Monckton verified · **⏳ REMIND OWNER AFTER THE SCRIPT: set up the email sign-up page** · ⏳ refresh the checklist PDF example (no Edith) · ⏳ email sign-up page live · ✅ 15 Aug 1947 date: not used in the script (v1.1 audit) · ✅ 2026 court claim: not in the script (v1.1 audit) · ⏳ File 002 tease ("tried to give it to the nation") to verify in the File 002 research before recording.
 
-## 2. SCRIPT v1 (recording draft, Oct 26 2026)
-**Target:** 4,250 spoken words (4,040–4,460) · **Final:** 4155 spoken words · ≈ 28.3 min narration at ~147 wpm (≈ 30 min with holds and pauses).
-**Placement check (spoken-word timing):** checklist + book credit ≈ 16.0 min (✅ after 10:00) · bomb (the £1,007,940 transfer) ≈ 45% (✅ 40–55%) · subscribe line ≈ 50%, after the reveal · File Lesson ≈ 26.5 min · CTA + next-file tease in the last ~45 seconds.
+## 2. SCRIPT v1.1 (recording draft, Oct 26 2026)
+**Target:** 4,250 spoken words (4,040–4,460) · **Final:** 4,217 spoken words · ≈ 28.7 min narration at ~147 wpm (≈ 30 min with holds and pauses).
+**Placement check (spoken-word timing):** checklist + book credit ≈ 16.3 min (✅ after 10:00) · bomb (the £1,007,940 transfer) ≈ 42–45% (✅ 40–55%) · subscribe line ≈ 48%, after the reveal · File Lesson ≈ 27.0 min · CTA + next-file tease in the last ~45 seconds.
+
+**v1.1 changes (3rd external review + source-to-script audit, Oct 26 2026):**
+- Cold open: "crowned a king" → "proclaimed the eighth Nizam" (titular title) · "these same streets" → "this city" (route not verifiable).
+- Privy purse: "for doing nothing at all" cut → "paid by the Indian government in return for the kingdom he had given up".
+- Trusts: "they belong to the rules" → "usually can't be sold on a whim… controlled by its terms and its trustees".
+- Signposts trimmed: "That is the second force", "this is the third force", "That number is the fourth force", 2 of 3 "Let's pause here" (kept the one before the 1948 human cost). The chapter cards carry the five forces.
+- Force 5: added the "accountant's view" paragraph (hard-to-sell assets vs a steady drain; control held by trusts and courts; "the records don't give us a full balance sheet").
+- Checklist intro: "the simple steps these families missed" → "what to write down, and who needs to know, so your family isn't left guessing".
+- Subscribe line → "Every file on this channel follows the money…".
+- Jacob Diamond: "no member of the family can touch it" → "owned by the Government of India, and held in a Reserve Bank of India vault" (A9).
+- 120 relatives: "Almost immediately" → "Within days of the ruling" (C20, reports dated Oct 2019).
+- Ad break 4 moved from before the ruling to after it (after the 120-relatives line). The ruling plays uninterrupted.
+- Next-file bridge → "what happens when the person who builds a fortune no longer gets to decide what becomes of it?" CTA "History, or heirs?" kept (Bible rule).
+
+**Source-to-script audit (every line checked against section 1):**
+- ✂️ Cut: the "Ottoman ancestors were shepherds" quote (1 garbled secondhand source, Outlook) · "couldn't stand the sight of it" for the Jacob Diamond (no solid source; the court case itself ✅ Wikipedia + Tillism) · "men who had all been dead for decades" (unverified) · "concubines *and their children*" (C7 says 42 concubines only).
+- ✅ Tightened: legal costs → "sixty-five percent of the other sides' legal costs, up front" (Dec 2019 order: The News Minute; TBS News/AFP). Replaces "most of the legal costs".
+- ✅ Checked, kept: own currency and railway (Nizam's Guaranteed State Railway: Wikipedia, FIBIS; currency: Vajiram + Hyderabadi rupee) · Mughal governor origin (1724) · Muffakham Jah as co-heir (judgment) · Westminster → NatWest (B9) · Supreme Court 1994 (B14).
+- ✅ Blocker closed: the script never states a 15 Aug 1947 declaration date (sources conflict: June firman effective 15 Aug vs a 27 Aug declaration), only "In August 1947… the Nizam refused" (B1 ✅). Do not add a date.
+- ✅ Blocker closed: C22 (2026 court, ~4,500 descendants) is not in the script. Siasat + ThePrint both cover the dismissal; usable later for a Short or a pinned comment, but the date still needs checking.
 **Checklist pass (Bible 6b):** A ✅ · B ✅ (paragraph rule applied; no recap padding) · C ✅ (ad breaks are placeholders, none in the cold open, the 1948 human cost, the ruling or the File Lesson) · D ✅ (devices in [brackets]) · E ➖ STATE 7–8 · F ➖ packaging/launch is separate.
 **Conversions used (approximate, CPI / historical FX, mark as approximate on screen):** $1.4B (1937) ≈ $30B+ today · Rs 50 lakh/yr ≈ $1M/yr at 1950 rates (~Rs 4.76/$) · 20 Sept 1948 was a Monday (calendar check).
 **Every claim maps to the fact base (section 1); single-source claims are attributed in the text.**
@@ -189,11 +209,11 @@ January 2023. Hyderabad, India.
 
 A coffin arrives from Istanbul.
 
-Inside is a man who was once heir to one of the greatest private fortunes on Earth. He went to Harrow. He went to Cambridge. At thirty-three, he was crowned a king. He inherited palaces, gold, jewels, and more than fourteen thousand people who depended on him.
+Inside is a man who was once heir to one of the greatest private fortunes on Earth. He went to Harrow. He went to Cambridge. At thirty-three, he was proclaimed the eighth Nizam. He inherited palaces, gold, jewels, and more than fourteen thousand people who depended on him.
 
 And in 2005, his biographer tracked him down to a modest two-bedroom flat overlooking the Mediterranean.
 
-Fifty-six years before this funeral, as many as a million people had filled these same streets to mourn his grandfather. The man TIME magazine had once called the richest in the world. A man who kept a diamond nearly twice the size of the Koh-i-Noor on his desk… as a paperweight.
+Fifty-six years before this funeral, as many as a million people had filled this city to mourn his grandfather. The man TIME magazine had once called the richest in the world. A man who kept a diamond nearly twice the size of the Koh-i-Noor on his desk… as a paperweight.
 
 So how does a fortune that large become impossible to keep?
 
@@ -243,7 +263,7 @@ A diamond. About one hundred and eighty-five carats. Nearly twice the size of th
 
 [PRICE-TAG REVEAL: THE JACOB DIAMOND · ~185 CARATS]
 
-It is called the Jacob Diamond. His father had bought it in a deal so bitter that it ended up in court, and, the story goes, he couldn't stand the sight of it afterwards. So he hid it in a shoe.
+It is called the Jacob Diamond. His father had bought it in a deal so bitter that it ended up in court. And at some point, the stone was hidden away, in a shoe.
 
 And what did his son do with one of the largest diamonds on Earth?
 
@@ -281,7 +301,7 @@ It's a strange thought. Of all the Nizam's treasures, one of the best preserved 
 
 So which man was he? The miser who saved cigarette ends, or the king who bought warplanes and royal diamonds?
 
-Let's pause here for a moment, because the honest answer is both. He was frugal with small things and lavish with anything that bought loyalty or prestige. And above all, he kept control of everything himself. That habit would matter enormously once he was gone.
+The honest answer is both. He was frugal with small things and lavish with anything that bought loyalty or prestige. And above all, he kept control of everything himself. That habit would matter enormously once he was gone.
 
 Because he had already made the decision that would shape the fortune's future.
 
@@ -363,9 +383,9 @@ No one could agree. And the bank was caught in the middle. On one side, a new na
 
 And there the money sat. As the Nizam grew old. As Britain's empire dissolved. As Westminster Bank itself became NatWest. The interest quietly piled up while governments and families argued over it.
 
-Think about what that means. This was money anyone could name, to the shilling. Everyone knew exactly where it was. And for decades, no one could touch it. That is the second force: wealth that still exists, but can no longer be used. And it would take seventy-one years, and a High Court judge, to open that vault.
+Think about what that means. This was money anyone could name, to the shilling. Everyone knew exactly where it was. And for decades, no one could touch it. Wealth that still exists, but can no longer be used. And it would take seventy-one years, and a High Court judge, to open that vault.
 
-[SUBSCRIBE] If stories like this are your kind of history, this channel opens a new file every week. Subscribe, so you're here when the next one opens.
+[SUBSCRIBE] Every file on this channel follows the money: where a fortune came from, and where it went. Subscribe, so you're here when the next file opens.
 
 [AD BREAK PLACEHOLDER 2]
 
@@ -381,17 +401,17 @@ In return for giving up his kingdom, he received what India called a privy purse
 
 [FORTUNE COUNTER: Rs 50 LAKH A YEAR · TAX-FREE]
 
-At the exchange rates of the day, that was roughly a million dollars a year, every year, for doing nothing at all. A fortune by most standards. But notice what had changed. For two centuries, the Nizams had collected the revenues of a kingdom. Now the Nizam collected an allowance, paid by a government he did not control, which that government could one day decide to stop.
+At the exchange rates of the day, that was roughly a million dollars a year, paid by the Indian government in return for the kingdom he had given up. A fortune by most standards. But notice what had changed. For two centuries, the Nizams had collected the revenues of a kingdom. Now the Nizam collected an allowance, paid by a government he did not control, which that government could one day decide to stop.
 
-Meanwhile, his real wealth was becoming harder and harder to use. In 1951 and 1952, he placed his famous jewels into two trusts, the Nizam's Jewellery Trust and a supplemental trust, intended to keep them together for the family. It was a sensible step. But a trust is a set of rules, and rules cut both ways. Jewels inside a trust can't simply be sold when someone needs money. They belong to the rules, not to the person.
+Meanwhile, his real wealth was becoming harder and harder to use. In 1951 and 1952, he placed his famous jewels into two trusts, the Nizam's Jewellery Trust and a supplemental trust, intended to keep them together for the family. It was a sensible step. But a trust is a set of rules, and rules cut both ways. Jewels placed in a trust usually can't be sold on a whim when someone needs money. They're controlled by its terms and its trustees, not by any one member of the family.
 
 And his palaces were full of treasure, but palaces cost money to run. Servants, guards, relatives and retainers all had to be paid, whether the money came in or not.
 
-And this is the third force, the one that's easiest to miss. Treasure is not the same as cash. A diamond on a desk doesn't pay a single salary. Gold in a storeroom pays no bills until you sell it. And the more of your wealth is locked in jewels, buildings and trusts, the less of it you can actually spend.
+This is the part that's easiest to miss. Treasure is not the same as cash. A diamond on a desk doesn't pay a single salary. Gold in a storeroom pays no bills until you sell it. And the more of your wealth is locked in jewels, buildings and trusts, the less of it you can actually spend.
 
 [CHECKLIST + BOOK CREDIT]
 
-And here's where this story touches almost every family. The Nizam's jewels were locked in trusts that would take decades of lawyers to unwind. Most families never need anything that complicated. But almost every family needs a plan, written down, that the people left behind can actually follow. So I put together a free Family Legacy Checklist, the simple steps these families missed. It's in the description. And if you want the full story of this family, the definitive book is The Last Nizam, by John Zubrzycki. That's linked below too.
+And here's where this story touches almost every family. The Nizam's jewels were locked in trusts that would take decades of lawyers to unwind. Most families never need anything that complicated. But almost every family needs a plan, written down, that the people left behind can actually follow. So I put together a free Family Legacy Checklist: a short, plain list of what to write down, and who needs to know, so your family isn't left guessing. It's in the description. And if you want the full story of this family, the definitive book is The Last Nizam, by John Zubrzycki. That's linked below too.
 
 There's a famous story from these years that you may have heard. In 1965, the Nizam is said to have donated five thousand kilograms of gold to India.
 
@@ -421,9 +441,9 @@ You've just inherited one of the great fortunes of the world, and with it, every
 
 [HEAD-COUNT COUNTER: 14,700]
 
-According to The New York Times, he took on more than fourteen thousand seven hundred staff and dependants. Among them, by the historian William Dalrymple's account, were forty-two of his grandfather's concubines and their children, and around three thousand bodyguards.
+According to The New York Times, he took on more than fourteen thousand seven hundred staff and dependants. Among them, by the historian William Dalrymple's account, were forty-two of his grandfather's concubines, and around three thousand bodyguards.
 
-That number is the fourth force. An inheritance isn't only what you receive. It's also everything that comes attached to it. Every one of those people expected to be housed, fed or paid. And according to The New York Times, when he looked more closely, around four thousand of the names being paid did not seem to exist at all.
+An inheritance isn't only what you receive. It's also everything that comes attached to it. Every one of those people expected to be housed, fed or paid. And according to The New York Times, when he looked more closely, around four thousand of the names being paid did not seem to exist at all.
 
 [COUNTER: 4,000 NAMES FADE]
 
@@ -433,7 +453,7 @@ He later summed up his inheritance in four words.
 
 "I inherited a scrapyard."
 
-Let's pause here for a moment, because it's easy to judge him for what came next. But think about what he had been handed: a fortune nobody could measure, a household the size of a town, obligations he hadn't chosen, and a family ready to sue. His biographer, John Zubrzycki, put it bluntly: he had no inkling whatsoever of anything financial.
+It's easy to judge him for what came next. But think about what he had been handed: a fortune nobody could measure, a household the size of a town, obligations he hadn't chosen, and a family ready to sue. His biographer, John Zubrzycki, put it bluntly: he had no inkling whatsoever of anything financial.
 
 Then, in 1971, India removed what little certainty remained. The 26th Amendment to its constitution abolished the privy purses and the titles of every former ruler. The allowance was gone. Officially, so was the Nizam.
 
@@ -449,11 +469,13 @@ Picture this. The red dust of Western Australia. A coastline so empty you can dr
 
 [MAP: HYDERABAD → PERTH]
 
-In the early 1970s, the heir to one of the richest fortunes on Earth bought Murchison House Station, along with a grand house in Perth. His mother's ancestors, the Ottoman sultans, had once been shepherds, he reportedly said, so he saw no reason why he shouldn't be one too.
+In the early 1970s, the heir to one of the richest fortunes on Earth bought Murchison House Station, along with a grand house in Perth.
 
 He threw himself into it. According to The New York Times, he even bought a gold mine and an amphibious tank.
 
 But the station lost money. To fund his life there, he sold family jewels. He married five times, and as Dalrymple put it, every marriage added to a growing pile of litigation. Settlements, lawsuits and failed ventures ate into what was left.
+
+Look at it the way an accountant would. On one side were assets that were hard to turn into cash quickly: jewels, palaces, land. On the other was a steady drain that never stopped: a household to support, legal fees, settlements, and a station that lost money. And much of what remained was controlled by trusts and courts, not by him. When money goes out every month and comes in only when something is sold, you keep selling. The records don't give us a full balance sheet. But the pattern is clear.
 
 [FORTUNE COUNTER: FALLING]
 
@@ -475,7 +497,7 @@ The Jacob Diamond. The stone found in a dead man's shoe. The paperweight.
 
 [CALLBACK: THE PAPERWEIGHT, NOW BEHIND VAULT DOORS]
 
-Today it no longer sits on anyone's desk. It's held in a vault of the Reserve Bank of India, where no member of the family can touch it. The symbol of unlimited wealth had become something else: proof that owning a treasure is not the same as controlling a fortune.
+Today it no longer sits on anyone's desk. It's owned by the Government of India, and held in a Reserve Bank of India vault. The symbol of unlimited wealth had become something else: proof that owning a treasure is not the same as controlling a fortune.
 
 In 1996, the sheep station was sold to pay his debts, and the eighth Nizam moved to Turkey, his mother's homeland.
 
@@ -485,15 +507,13 @@ Not one catastrophe, then. A long, slow leak: sales, settlements and lawsuits, o
 
 But there was one part of the fortune still left. In London, the money was still waiting.
 
-[AD BREAK PLACEHOLDER 4]
-
 DOCUMENT IX — THE VAULT OPENS
 
 [FROZEN-YEARS TICKER: 1948… 1960… 1980… 2000… 2019]
 
-For decades, the frozen account sat in London while the world changed around it. Pakistan claimed it. India claimed it. The Nizam's heirs claimed it. The old Nizam died in 1967. The men who had arranged the transfer passed into history. And still, the money waited.
+For decades, the frozen account sat in London while the world changed around it. Pakistan claimed it. India claimed it. The Nizam's heirs claimed it. The old Nizam died in 1967. The empire the bank had served disappeared. And still, the money waited.
 
-Picture the courtroom. The case is about a single transfer, made by men who had all been dead for decades, in a kingdom that no longer existed. And yet every detail matters: who signed what, on whose authority, two days after which surrender.
+Picture the courtroom. The case is about a single transfer, made seventy years earlier, in a kingdom that no longer existed. And yet every detail matters: who signed what, on whose authority, two days after which surrender.
 
 And on the 2nd of October, 2019, in London's High Court, Mr Justice Marcus Smith delivered his judgment.
 
@@ -507,7 +527,9 @@ And the one million pounds moved two days after a surrender?
 
 After seventy-one years, it had grown to around thirty-five million pounds.
 
-It's a remarkable number, but it isn't the answer to what happened to the whole fortune. It's one fund. And it came at a price of its own. Seventy-one years of claims and counterclaims meant lawyers on every side. According to reports at the time, the court later ordered Pakistan to pay most of the legal costs. Even a victory, in this family, arrived with a bill attached. And even this victory didn't end the arguments. Almost immediately, another grandson of the seventh Nizam, Najaf Ali Khan, said that around a hundred and twenty relatives deserved a share.
+It's a remarkable number, but it isn't the answer to what happened to the whole fortune. It's one fund. And it came at a price of its own. Seventy-one years of claims and counterclaims meant lawyers on every side. A few months later, the court ordered Pakistan to pay, up front, sixty-five percent of the other sides' legal costs. Even a victory, in this family, arrived with a bill attached. And even this victory didn't end the arguments. Within days of the ruling, another grandson of the seventh Nizam, Najaf Ali Khan, said that around a hundred and twenty relatives deserved a share.
+
+[AD BREAK PLACEHOLDER 4]
 
 Meanwhile, Hyderabad itself was reclaiming the past. Mukarram Jah's first wife, Princess Esra, had returned and led the restoration of the Chowmahalla Palace, which won a UNESCO heritage award in 2010. The Falaknuma Palace, high on a hill above the city, was restored and leased to the Taj hotel group. Today, anyone can book a room there.
 
@@ -545,7 +567,7 @@ Was the Nizam's fortune lost to history, to forces no family could have stopped?
 
 History, or heirs? Tell me in the comments. I read every single one.
 
-And he wasn't the only one to build a paradise he couldn't keep. In Florida, America's richest heiress built one of the grandest palaces in the country, and tried to give it to the nation. That file is waiting for you right here.
+Next, a different question: what happens when the person who builds a fortune no longer gets to decide what becomes of it? In Florida, America's richest heiress built one of the grandest palaces in the country, and tried to give it to the nation. That file is waiting for you right here.
 
 This file is now closed.
 
