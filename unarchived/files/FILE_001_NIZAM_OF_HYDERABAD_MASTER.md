@@ -574,5 +574,528 @@ This file is now closed.
 But every fortune has a fate, and the archive is still open.
 
 
-## 3. PUBLISH & REVENUE PLAYBOOK · 4. IMAGE PROMPTS · 5. VIDEO PROMPTS · 6. THUMBNAILS
-*Not started.*
+## 3. PUBLISH & REVENUE PLAYBOOK
+*Not started (after the image prompts).*
+
+## 4. VISUALS (STATE 7–8)
+
+### 4a. Checklist pass (Bible 6b, sections D and E, Oct 26 2026)
+**D. On-screen devices**
+- ✅ Fortune counter: $1.4B (1937) · Rs 50 lakh/yr · Rs 218 crore (1995) · £1,007,940 → ~£35M (2019); today's value underneath, marked approximate
+- ✅ Countdown clock: DAY 1–4 (13–17/18 Sept 1948) · "2 DAYS AFTER THE SURRENDER" timer (20 Sept 1948)
+- ✅ Frozen-years ticker: starts in Doc V, stops at 71 YEARS in Doc IX
+- ✅ Head-count counter: 14,700; 4,000 names fade (attributed to the NYT)
+- ✅ Myth/fact stamps: paperweight (FACT) · fez (ONE BOOK) · "sent during the invasion" (MYTH) · 5,000 kg gold (MYTH)
+- ✅ Chapter list counter: "FORCE 1 OF 5…" cards with the question
+- ✅ Price-tag reveals (Jacob Diamond, 173 jewels) · then-and-now (Falaknuma, Chowmahalla)
+- ✅ "What would you have done?" (Doc VII) · "watch this detail" plant (Moin Nawaz Jung) · ➖ ranked teaser: not in the v1.1 script (the five forces are unranked), skipped
+- ✅ Family tree · map lines · timeline ribbon
+- ✅ Guardrail: one counter on screen at a time, written into each Edit note
+
+**E. Visuals and sound**
+- ✅ 3–5-second beats, no cut under 2 seconds, every shot moves, never two shot types in a row (tagged per beat), a pattern interrupt every 20–30 seconds (graphic or card)
+- ✅ Triptychs at the bomb (Doc V), the jewel sale (Doc VIII) and the verdict (Doc IX) · silence before the bomb, the verdict and the coffin
+- ✅ Era looks per decade (profile below)
+- ✅ 55+ text rules in every Edit note · music 18–20 dB under the voice
+- ✅ Brand: coin sting · "DOCUMENT I…" cards · end line
+- ✅ Subscribe badge at the Doc V subscribe line and the last 20 seconds
+- ✅ Likeness: licensed photos for real people; **no AI faces for living people** (Princess Esra, Azmet Jah, Najaf Ali Khan); AI disclosure ticked
+
+### 4b. VISUAL STYLE PROFILE: File 001 (STATE 7)
+*Built on the locked channel profile (Undertold base + Old Money luxury and maps, era-matched color; Bible section 6), so no new sample uploads are needed. Adapted for Hyderabad.*
+- **Art style:** photoreal documentary. Authentic archive looks for the past; never painterly or "AI glossy".
+- **Era looks:**
+  - 1724–1911: aged engraving / albumen sepia
+  - 1911–1930s: sepia and hand-tinted photographs (soft pastel tint on faces and silks)
+  - 1937–1948: black-and-white press photography (hard flash, grain)
+  - 1950s–1970s: Kodachrome color (warm, saturated reds and teals, slight halation); Australia in the 1970s–90s: faded Ektachrome, red dust
+  - 1990s–2000s: muted digital / 35mm color
+  - 2019 and 2023: clean present-day documentary color, overcast
+- **Palette:** charcoal #141414 · ivory #EDE6D6 · muted gold #B8975A · wax-seal red #8E1B1B. Story accents: Hyderabadi pearl white, palace lime-wash, emerald and ruby glints, vault steel grey.
+- **Lighting:** low-key and directional. Lamplight and window shafts for interiors; dusk for palace exteriors; hard press flash for 1940s; cold fluorescent for the bank and the courtroom.
+- **Camera:** slow push-ins, lateral drift, 2.5D parallax; low angle for palaces and power, high angle for loss and decline, overhead for documents.
+- **Composition:** one subject, lots of negative space (room for captions, lower third kept clear); symmetry for palaces and courts; foreground objects (a fez, a ledger, a key) for depth.
+- **Detail level:** high texture (marble, silk, brass, paper fibre, dust); no readable AI text. All real text goes in the edit.
+- **Mood:** hushed, opulent, melancholy; a fortune slowly going cold.
+- **Story motif: THE FROZEN VAULT** (replaces Hartford's locked drawer): a 1940s London bank vault door in steel and brass, a paper ledger tag on the handle, cold blue light. It appears whenever the London money is mentioned (Doc V, VIII, IX), and the ticker sits beside it.
+- **Innocence image:** the Jacob Diamond on a desk, holding down papers (Doc II), called back behind vault doors (Doc VIII).
+- **Style tags (built into each prompt):** ARCHIVE (sepia/B&W photograph, grain, vignette) · ERA COLOR (the decade's film look) · LUXURY (palace interior, gold light, low angle) · DOCUMENT (aged paper from above, desk-lamp light) · MAP (antique-style map, lines drawn in the edit) · GRAPHIC (brand graphic in the palette).
+
+**Likeness and sources:** the 7th Nizam: real archive photographs first (pre-1966 photos are generally public domain in India; confirm each) · Mukarram Jah: licensed photos (Getty/Alamy/AP); AI prompts show him only from behind or at a distance · Princess Elizabeth / the Queen: licensed photos only, no AI likeness · living people: licensed photos or none · the TIME cover: use the real 1937 cover (licensed/fair-use review); the AI fallback is a generic magazine with no logo.
+
+### 4c. IMAGE PROMPTS · BATCH 1 of ~5 (Cold open, Documents I–II)
+
+#### COLD OPEN
+
+**#001 · 3s · LUXURY (first frame = thumbnail base)**
+"January 2023. Hyderabad, India."
+**Image Prompt:** Photoreal documentary style: the Falaknuma Palace in Hyderabad on its hilltop at dusk, white neoclassical facade split down the middle, the left half glowing warm gold from lamplight, the right half sunk in cold blue shadow, empty forecourt, overcast purple sky, wide establishing shot, fine film grain, no people, no text.
+**Camera:** Wide, low angle, slow push-in · **Lighting:** Split gold lamplight vs cold dusk shadow · **Mood:** Grand, ominous · **Action:** Shadow line creeps slowly across the facade
+**Edit:** Caption "HYDERABAD, INDIA · JANUARY 2023" in ivory on a charcoal bar, held 3s. The thumbnail must use this split-light palace.
+
+**#002 · 3s · ERA COLOR (present day)**
+"A coffin arrives from Istanbul."
+**Image Prompt:** Present-day documentary color photograph: a wooden coffin draped in a green cloth embroidered with gold, carried slowly by a group of men seen only from behind across an airport tarmac at dawn, a cargo plane's open hold in the background, overcast light, respectful distance, photoreal, no faces visible, no text.
+**Camera:** Medium-wide, eye level, from behind · **Lighting:** Flat overcast dawn · **Mood:** Solemn · **Action:** Slow lateral drift alongside the procession
+**Edit:** 1s of silence before the line. Low soft hit.
+
+**#003 · 3s · ARCHIVE**
+"Inside is a man who was once heir"
+**Image Prompt:** Authentic 1930s hand-tinted sepia photograph style: a small boy in a silk sherwani and tiny turban standing alone in a vast marble palace hall, chandeliers above, soft pastel tint on the silk, film grain, cracked emulsion at the edges, documentary realism, face indistinct, no text.
+**Camera:** Wide, high angle (the boy small in the frame) · **Lighting:** Soft window light from the side · **Mood:** Destiny, isolation · **Action:** Slow push-in toward the boy
+
+**#004 · 3s · LUXURY**
+"to one of the greatest private fortunes on Earth."
+**Image Prompt:** Photoreal documentary style: an open carved rosewood jewel chest overflowing with strands of pearls, emerald necklaces, ruby brooches and gold coins on a dark velvet cloth, a single shaft of warm lamplight, deep shadows around, macro texture of gems and metal, film grain, no text.
+**Camera:** Low angle, close, slow push-in · **Lighting:** One warm shaft, black surroundings · **Mood:** Opulent · **Action:** Light glints travel across the gems
+
+**#005 · 2s · ERA COLOR (1950s Kodachrome)**
+"He went to Harrow."
+**Image Prompt:** 1950s Kodachrome color photograph style: English schoolboys in straw boater hats and dark jackets walking up a hill past red-brick Victorian school buildings, green lawns, warm saturated color, slight halation, grain, documentary realism, faces small and indistinct, no text.
+**Camera:** Medium-wide, slight low angle · **Lighting:** Bright English summer sun · **Mood:** Privilege, tradition · **Action:** Gentle pan following the boys
+
+**#006 · 2s · ARCHIVE**
+"He went to Cambridge."
+**Image Prompt:** Authentic 1950s black-and-white photograph style: a Cambridge college court, Gothic stone buildings around a perfect square lawn, a few students in gowns crossing the path, soft overcast light, film grain, vignette, documentary realism, no text.
+**Camera:** Wide, symmetrical · **Lighting:** Soft overcast · **Mood:** Elite, ordered · **Action:** Slow drift right
+
+**#007 · 4s · ERA COLOR (1967 Kodachrome)**
+"At thirty-three, he was proclaimed the eighth Nizam."
+**Image Prompt:** 1960s Kodachrome color photograph style: a grand durbar hall in a Hyderabad palace, white marble columns and crystal chandeliers, rows of courtiers in black sherwanis and red fezzes standing in lines, a young man in a long black sherwani seen from behind walking toward a gilded throne at the far end, warm saturated color, grain, documentary realism, no faces, no text.
+**Camera:** Wide, centered, from behind · **Lighting:** Chandelier light, warm · **Mood:** Ceremonial, heavy responsibility · **Action:** Slow push-in down the aisle
+**Edit:** Caption "PROCLAIMED THE 8th NIZAM · 1967".
+
+**#008 · 3s · GRAPHIC**
+"He inherited palaces, gold, jewels,"
+**Image Prompt:** Brand graphic background: a charcoal #141414 surface with three softly lit objects in a row, a miniature ivory palace silhouette, a muted gold #B8975A bar of bullion, and a cut gemstone, subtle paper texture, museum lighting from above, generous empty space, no text.
+**Camera:** Straight-on, static then slow push · **Lighting:** Top-down spotlights · **Mood:** Inventory, abundance · **Action:** Objects light up one by one with the words
+**Edit:** Words "PALACES · GOLD · JEWELS" appear one at a time in ivory.
+
+**#009 · 4s · ARCHIVE**
+"and more than fourteen thousand people who depended on him."
+**Image Prompt:** Authentic 1960s black-and-white press photograph style: hundreds of palace servants, guards and attendants in turbans and long coats standing in long rows in a vast palace courtyard, viewed from a high balcony, film grain, slight blur, vignette, documentary realism, faces too small to identify, no text.
+**Camera:** High angle, wide, slow tilt down · **Lighting:** Harsh midday sun, hard shadows · **Mood:** Overwhelming weight · **Action:** Slow tilt across the rows
+**Edit:** Head-count counter rises to "14,700" (only counter on screen).
+
+**#010 · 3s · DOCUMENT**
+"And in 2005, his biographer tracked him down"
+**Image Prompt:** Overhead documentary photograph style: a reporter's spiral notebook with handwritten notes (illegible), a folded paper map of the Turkish coast, a cassette recorder and a pen on a wooden café table, morning light from a window, 2000s look, shallow depth of field, no readable text.
+**Camera:** Top-down, slow rotate · **Lighting:** Soft morning window light · **Mood:** Investigative · **Action:** Slow rotation and push-in on the map
+**Edit:** Caption "2005 · ANTALYA, TURKEY". On-screen credit: "Biographer John Zubrzycki, *The Last Nizam*".
+
+**#011 · 4s · ERA COLOR (2000s)**
+"to a modest two-bedroom flat overlooking the Mediterranean."
+**Image Prompt:** 2000s muted 35mm color photograph style: an ordinary concrete apartment block on the Turkish Mediterranean coast, small balconies with plastic chairs and laundry, satellite dishes, blue sea glimpsed beyond, late afternoon light, slight grain, documentary realism, no people, no text.
+**Camera:** Medium-wide, low angle up at one balcony · **Lighting:** Late-afternoon sun · **Mood:** Ordinary, quiet comedown · **Action:** Slow push-in on one plain balcony
+
+**#012 · 3s · GRAPHIC**
+"Fifty-six years before this funeral,"
+**Image Prompt:** Brand graphic background: a long horizontal timeline ribbon in muted gold #B8975A across a charcoal #141414 field with ivory tick marks, a soft spotlight sliding along it, subtle paper texture, generous empty space, no text.
+**Camera:** Lateral track right to left · **Lighting:** Moving spotlight · **Mood:** Rewind · **Action:** Timeline rewinds
+**Edit:** Timeline ribbon rewinds "2023 → 1967".
+
+**#013 · 4s · ARCHIVE**
+"as many as a million people had filled this city to mourn his grandfather."
+**Image Prompt:** Authentic 1967 black-and-white press photograph style: an immense crowd filling the streets of an old Indian city around a stone mosque and minarets, people on rooftops and balconies, all facing one direction, seen from high above, film grain, documentary realism, faces too small to identify, no text.
+**Camera:** High aerial-like angle, slow pull back · **Lighting:** Flat daylight · **Mood:** Collective grief, scale · **Action:** Pull back reveals more crowd
+**Edit:** Caption "1967 · UP TO 1,000,000 MOURNERS (EST.)".
+
+**#014 · 4s · DOCUMENT**
+"The man TIME magazine had once called the richest in the world."
+**Image Prompt:** Overhead documentary photograph style: a 1930s American news magazine lying on a leather desk blotter, the cover showing a sepia portrait of an elderly Indian ruler in a fez (generic, no logo), magazine corners worn, desk-lamp light, dust, shallow depth of field, no readable text.
+**Camera:** Top-down, slow push-in · **Lighting:** Warm desk lamp · **Mood:** Fame, evidence · **Action:** Highlight sweep across the cover
+**Edit:** Replace with the real TIME 22 Feb 1937 cover if licensed. Stamp "FACT · TIME, 22 FEB 1937".
+
+**#015 · 4s · ARCHIVE**
+"A man who kept a diamond nearly twice the size of the Koh-i-Noor on his desk…"
+**Image Prompt:** Authentic 1930s sepia photograph style: a cluttered wooden desk in a dim palace office, piles of papers and files, an old inkwell, a brass lamp, and in the middle a large cushion-cut clear diamond resting on the papers, faint glint, film grain, vignette, documentary realism, no text.
+**Camera:** Medium, eye level, slow push-in toward the diamond · **Lighting:** Single brass lamp · **Mood:** Absurd, intriguing · **Action:** Push-in toward the stone
+
+**#016 · 3s · LUXURY**
+"as a paperweight."
+**Image Prompt:** Photoreal macro photograph: a huge cushion-cut colourless diamond about the size of a hen's egg, holding down a stack of yellowed handwritten letters on a dark wooden desk, warm lamplight refracting rainbow sparks onto the paper, extreme texture, shallow depth of field, no readable text.
+**Camera:** Macro, low angle, slow orbit · **Lighting:** Warm lamplight, sparkle · **Mood:** Wonder · **Action:** Slow orbit; light sparks shift on the paper
+**Edit:** 1s hold; soft low hit.
+
+**#017 · 4s · ERA COLOR (present day)**
+"So how does a fortune that large become impossible to keep?"
+**Image Prompt:** Present-day documentary color photograph: a long, empty palace corridor with peeling lime-washed walls, faded painted ceilings, a broken chandelier on the floor, dust in a shaft of window light, photoreal, melancholy, no people, no text.
+**Camera:** Centered, slow push-in down the corridor · **Lighting:** Single dusty light shaft · **Mood:** Decay, question · **Action:** Dust drifts in the light
+
+**#018 · 3s · ARCHIVE**
+"And why did a London bank hold one million pounds of it,"
+**Image Prompt:** Authentic 1940s black-and-white photograph style: the imposing stone facade of a City of London bank with columns and bronze doors, bowler-hatted men passing on a wet pavement, film grain, vignette, documentary realism, no readable signage.
+**Camera:** Low angle, slow tilt up · **Lighting:** Grey overcast · **Mood:** Institutional, cold · **Action:** Tilt up the columns
+
+**#019 · 4s · GRAPHIC (motif: THE FROZEN VAULT)**
+"frozen and untouchable, for seventy-one years?"
+**Image Prompt:** Photoreal cinematic still: a massive round 1940s steel bank vault door with brass bolts and a combination wheel, closed, a small paper ledger tag tied to the handle, cold blue light, faint frost-like haze on the steel, deep black background, no readable text.
+**Camera:** Straight-on, slow push-in · **Lighting:** Cold blue top light · **Mood:** Locked, suspended · **Action:** Slow push toward the tag
+**Edit:** Ticker text "£1,000,000 · FROZEN · 71 YEARS" beside the door.
+
+**#020 · 5s · LUXURY (title drop)**
+"This is the tragic story of the Nizam of Hyderabad, and the fortune no one could hold on to."
+**Image Prompt:** Photoreal documentary style: a vast palace durbar hall at night, rows of crystal chandeliers, half of them unlit, a single empty gilded throne at the far end, polished marble floor reflecting the remaining lights, deep shadows, film grain, no people, no text.
+**Camera:** Wide, centered, slow pull back · **Lighting:** Some chandeliers lit, others dark · **Mood:** Faded grandeur · **Action:** Chandeliers dim one by one as the camera pulls back
+**Edit:** Title "THE NIZAM OF HYDERABAD" in Cinzel ivory, held 3s.
+
+**#021 · 4s · GRAPHIC (brand sting)**
+[STING]
+**Image Prompt:** Use the locked Fortune Coin asset (unarchived/brand/coin_transparent_800.png) on charcoal #141414.
+**Action:** Coin spins and stops half-lit. Typewriter "FILE No. 001 — THE NIZAM OF HYDERABAD".
+
+#### DOCUMENT I — WHAT THE FORTUNE REALLY WAS
+
+**#022 · 3s · GRAPHIC (chapter card)**
+"DOCUMENT I — WHAT THE FORTUNE REALLY WAS"
+**Image Prompt:** Brand graphic: an aged manila file folder on a charcoal #141414 desk, a muted gold #B8975A tab, a wax-seal red #8E1B1B stamp area left blank, top-down soft lamp light, paper texture, no text.
+**Camera:** Top-down, slow push · **Lighting:** Warm lamp · **Mood:** Opening the file · **Action:** Folder flap lifts
+**Edit:** Card text "DOCUMENT I · WHAT THE FORTUNE REALLY WAS".
+
+**#023 · 4s · LUXURY**
+"To understand the fortune, you first have to understand the throne it sat on."
+**Image Prompt:** Photoreal documentary style: a gilded silver throne with red velvet cushions under a carved canopy in an ornate Indian palace hall, low angle, warm lamp glow, dust in the air, film grain, no people, no text.
+**Camera:** Low angle, slow tilt up · **Lighting:** Warm side light · **Mood:** Power · **Action:** Tilt up to the canopy
+
+**#024 · 4s · ARCHIVE (engraving)**
+"In the early eighteenth century, as the Mughal Empire began to break apart,"
+**Image Prompt:** Authentic 18th-century engraving style, aged sepia paper: a Mughal imperial court scene in decline, an emperor on a throne surrounded by nobles turning away, cracks and foxing on the paper, fine hatched linework, documentary museum look, no text.
+**Camera:** Slow push-in across the engraving · **Lighting:** Even museum light · **Mood:** Empire fracturing · **Action:** A crack in the paper widens (edit)
+
+**#025 · 4s · MAP**
+"one of its governors in southern India took the title Nizam"
+**Image Prompt:** Antique-style 18th-century map of the Indian subcontinent on aged parchment, hand-drawn coastlines and rivers, the Deccan plateau in the south softly highlighted in muted gold, compass rose, foxing and stains, overhead view, no readable text.
+**Camera:** Top-down, slow push toward the Deccan · **Lighting:** Warm even light · **Mood:** Origin · **Action:** Gold glow spreads over the Deccan
+**Edit:** Label "THE DECCAN · 1724".
+
+**#026 · 2s · ARCHIVE**
+"and never gave the land back."
+**Image Prompt:** Authentic 18th-century Indian miniature-painting style, aged: a noble in a jewelled turban seated on a terrace, hand resting on a sword, looking out over his lands, faded pigments, gold leaf worn, museum documentary look, no text.
+**Camera:** Close, slow push-in · **Lighting:** Even · **Mood:** Defiant · **Action:** Push to the hand on the sword
+
+**#027 · 4s · GRAPHIC**
+"His descendants ruled it for more than two hundred years."
+**Image Prompt:** Brand graphic: a row of seven ornate empty oval portrait frames in muted gold #B8975A across a charcoal #141414 wall, soft gallery spotlights, subtle texture, no text.
+**Camera:** Lateral track along the frames · **Lighting:** Gallery spots · **Mood:** Dynasty · **Action:** Frames light up in sequence
+**Edit:** Small labels "I … VII". Timeline ribbon "1724 → 1948".
+
+**#028 · 4s · MAP**
+"By the twentieth century, Hyderabad was a kingdom larger than many European countries,"
+**Image Prompt:** Vintage 1920s atlas-style map of India on aged paper, Hyderabad State filled with a muted gold tint in the centre of the Deccan, thin borders of other states, overhead view, soft lamp light, paper texture, no readable text.
+**Camera:** Top-down, slow pull back · **Lighting:** Warm lamp · **Mood:** Scale · **Action:** Gold shape grows into view
+**Edit:** Overlay outlines of several European countries for size comparison (accurate scale), held 3s.
+
+**#029 · 4s · ARCHIVE**
+"with its own currency and its own railway,"
+**Image Prompt:** Authentic 1920s sepia photograph style: a steam locomotive standing at a colonial-era Indian railway station with arched stone platforms, passengers in turbans and white dhotis, steam drifting, film grain, vignette, documentary realism, no readable text.
+**Camera:** Medium-wide, low angle at the engine · **Lighting:** Morning sun through steam · **Mood:** A state of its own · **Action:** Steam drifts, slow push-in
+**Edit:** Inset of an archive Hyderabadi rupee note/coin (licensed image), held 3s.
+
+**#030 · 3s · DOCUMENT**
+"and an arrangement with the British Empire:"
+**Image Prompt:** Overhead documentary photograph style: an aged treaty document on thick cream paper with a red wax seal and a silk ribbon, an old fountain pen beside it, desk-lamp light, paper fibres visible, shallow depth of field, no readable text.
+**Camera:** Top-down, slow push to the seal · **Lighting:** Warm lamp · **Mood:** Bargain · **Action:** Highlight sweep across the lines
+
+**#031 · 5s · ARCHIVE**
+"the Nizams stayed loyal to the Crown, and the Crown left them on their throne."
+**Image Prompt:** Authentic early-1900s sepia photograph style: a formal ceremony on palace steps in India, British officers in white uniforms and plumed helmets shaking hands with Indian nobles in long coats and turbans, a Union flag in the background, film grain, cracked edges, documentary realism, faces indistinct, no text.
+**Camera:** Medium-wide, slow push to the handshake · **Lighting:** Hard sun · **Mood:** Alliance · **Action:** Push-in to the handshake
+
+**#032 · 3s · GRAPHIC**
+"On the 29th of August, 1911,"
+**Image Prompt:** Brand graphic: a vintage desk calendar page on charcoal #141414, ivory paper with muted gold edges, soft spotlight, paper texture, no text.
+**Camera:** Straight-on, static push · **Lighting:** Spot · **Mood:** Moment of change · **Action:** Page flips
+**Edit:** Text "29 AUGUST 1911"; timeline ribbon marks 1911.
+
+**#033 · 4s · ARCHIVE**
+"a twenty-five-year-old named Mir Osman Ali Khan inherited all of it."
+**Image Prompt:** Authentic 1911 hand-tinted sepia studio portrait style: a slim young Indian prince of about 25 in a long embroidered sherwani and a fez-like cap, standing beside a carved chair with a hand on its back, painted studio backdrop, soft pastel tint, film grain, cracked emulsion, documentary realism, no text.
+**Camera:** Medium, eye level, slow push-in · **Lighting:** Soft studio window light · **Mood:** Youth, inheritance · **Action:** Push-in
+**Edit:** Prefer a real public-domain portrait of Osman Ali Khan c. 1911. Caption "MIR OSMAN ALI KHAN · AGED 25".
+
+**#034 · 3s · LUXURY**
+"He became the seventh Nizam."
+**Image Prompt:** Photoreal documentary style: a jewelled turban ornament (sarpech) of emeralds and diamonds with a white feather on a velvet cushion, in a dark palace room, warm lamp glow, macro detail, film grain, no text.
+**Camera:** Close, low angle, slow orbit · **Lighting:** Warm glow · **Mood:** Coronation · **Action:** Slow orbit
+**Edit:** Caption "THE 7th NIZAM".
+
+**#035 · 4s · ARCHIVE**
+"And then, in February 1937, the rest of the world found out how rich he was."
+**Image Prompt:** Authentic 1937 black-and-white press photograph style: a busy New York street newsstand, men in fedoras and overcoats buying newspapers and magazines, piles of magazines on the counter, winter breath, film grain, documentary realism, no readable text.
+**Camera:** Medium, eye level, slow push · **Lighting:** Cold winter daylight · **Mood:** Sensation · **Action:** Push to the magazine pile
+
+**#036 · 3s · DOCUMENT**
+"On the 22nd of February, TIME magazine put him on its cover"
+**Image Prompt:** Overhead documentary photograph style: a 1930s news magazine on a wooden desk, cover with a sepia portrait of a turbaned Indian ruler in a dark coat (generic, no logo), worn corners, desk lamp, shallow depth of field, no readable text.
+**Camera:** Top-down, slow push-in · **Lighting:** Warm lamp · **Mood:** Evidence · **Action:** Push to the portrait
+**Edit:** Real TIME 22 Feb 1937 cover if licensed. Caption "TIME · 22 FEBRUARY 1937".
+
+**#037 · 3s · ERA COLOR (1930s hand-tinted)**
+"and called him the richest man in the world."
+**Image Prompt:** 1930s hand-tinted photograph style: a middle-aged Indian ruler in a dark sherwani and fez seated on a carved chair in a palace room, seen from a respectful distance, pastel tint on the room's silk drapes, film grain, documentary realism, face indistinct, no text.
+**Camera:** Medium-wide, slow push · **Lighting:** Soft window light · **Mood:** Mythic status · **Action:** Push-in
+**Edit:** Stamp "FACT".
+
+**#038 · 4s · GRAPHIC (fortune counter)**
+"TIME estimated his fortune at one point four billion dollars,"
+**Image Prompt:** Brand graphic background: charcoal #141414 with faint engraved banknote guilloche patterns in muted gold #B8975A, soft vignette, an empty centre for numbers, no text.
+**Camera:** Static, subtle push · **Lighting:** Soft centre glow · **Mood:** Astonishment · **Action:** Counter ticks up
+**Edit:** Fortune counter "$1,400,000,000 (1937)".
+
+**#039 · 3s · LUXURY**
+"including a hundred and fifty million dollars in jewels"
+**Image Prompt:** Photoreal documentary style: trays of uncut emeralds, rubies, pearls and diamonds laid on dark velvet in a dim palace treasury, a single lamp, deep shadow, macro texture, film grain, no text.
+**Camera:** High angle, slow drift across the trays · **Lighting:** Warm lamp pool · **Mood:** Treasure · **Action:** Drift
+**Edit:** Caption "$150M IN JEWELS".
+
+**#040 · 3s · ARCHIVE**
+"and two hundred and fifty million dollars in gold bars."
+**Image Prompt:** Authentic 1930s black-and-white photograph style: stacks of gold bullion bars in a stone storeroom, a single bare bulb above, a guard's silhouette at the doorway, film grain, vignette, documentary realism, no text.
+**Camera:** Low angle, slow push-in · **Lighting:** Bare bulb, hard shadows · **Mood:** Immense weight · **Action:** Push-in on the stacks
+**Edit:** Caption "$250M IN GOLD BARS".
+
+**#041 · 4s · GRAPHIC (fortune counter)**
+"In today's money, that is more than thirty billion dollars."
+**Image Prompt:** Brand graphic background: charcoal #141414 with a soft muted-gold glow and a faint modern skyline reflection, subtle grain, empty centre, no text.
+**Camera:** Static, slow push · **Lighting:** Glow · **Mood:** Scale · **Action:** Counter re-ticks
+**Edit:** Counter "≈ $30 BILLION+ TODAY (APPROX.)".
+
+**#042 · 3s · ARCHIVE**
+"In the middle of the Great Depression."
+**Image Prompt:** Authentic 1930s black-and-white press photograph style: a long line of men in worn coats and caps queuing outside a soup kitchen in an American city, film grain, documentary realism, faces in shadow, no readable signage.
+**Camera:** Long lens, slow lateral drift · **Lighting:** Grey winter light · **Mood:** Stark contrast · **Action:** Drift along the queue
+
+**#043 · 3s · DOCUMENT**
+"But look closely at that word: estimated."
+**Image Prompt:** Extreme close-up documentary photograph style: an old magazine page printed in 1930s type, one word circled lightly in red pencil, paper fibres, shallow depth of field, desk-lamp light, no readable text.
+**Camera:** Macro, slow push · **Lighting:** Lamp · **Mood:** Scrutiny · **Action:** Red circle draws on (edit)
+**Edit:** Overlay the word "ESTIMATED" highlighted in red.
+
+**#044 · 4s · ARCHIVE**
+"Nobody had audited this fortune. Nobody could."
+**Image Prompt:** Authentic 1930s sepia photograph style: an old Indian accounts clerk at a low desk surrounded by towering stacks of ledgers and bundled papers tied with red string, a single window, dust, film grain, documentary realism, face indistinct, no text.
+**Camera:** Wide, high angle · **Lighting:** Window shaft · **Mood:** Hopeless task · **Action:** Slow push-in
+
+**#045 · 3s · LUXURY**
+"Much of it was treasure, not money:"
+**Image Prompt:** Photoreal documentary style: a carved silver box spilling loose pearls across a marble floor in a dim palace room, a single lamp, film grain, no people, no text.
+**Camera:** Low angle, floor level, slow push · **Lighting:** Lamp · **Mood:** Excess · **Action:** Pearls roll slowly
+
+**#046 · 4s · ARCHIVE (triptych)**
+"jewels in cellars, gold in storerooms, land, and palaces."
+**Image Prompt:** Triptych of three authentic 1930s sepia photographs side by side: (1) a vaulted stone cellar with chests, (2) a storeroom with gold bars on shelves, (3) a white palace facade across a wide estate, matched grain and vignette, documentary realism, no text.
+**Camera:** Each panel revealed left to right, slight push · **Lighting:** Varied, low-key · **Mood:** Inventory · **Action:** Panels appear one at a time on the words
+
+**#047 · 4s · ERA COLOR (1930s hand-tinted)**
+"It seems that even the Nizam himself did not know exactly what he owned."
+**Image Prompt:** 1930s hand-tinted photograph style: an older Indian man in a fez seen from behind, standing in the doorway of a dark storeroom piled with sealed trunks and crates, light falling past him into the room, pastel tint, film grain, face not visible, no text.
+**Camera:** Over-the-shoulder, slow push into the room · **Lighting:** Doorway backlight · **Mood:** Uncertainty · **Action:** Push past him into the dark
+
+**#048 · 3s · GRAPHIC**
+"And that is the first clue to everything that follows."
+**Image Prompt:** Brand graphic: a single brass magnifying glass on a charcoal #141414 surface over a blurred stack of documents, muted gold rim light, empty space, no text.
+**Camera:** Top-down, slow push · **Lighting:** Rim light · **Mood:** Investigation · **Action:** The glass slides slightly
+**Edit:** Small stamp "CLUE 1".
+
+**#049 · 4s · DOCUMENT**
+"A fortune you cannot count is a fortune you cannot easily protect."
+**Image Prompt:** Overhead documentary photograph style: an open old ledger with columns of figures left blank and question marks in faded ink, a broken pencil beside it, desk-lamp light, paper texture, no readable text.
+**Camera:** Top-down, slow rotate · **Lighting:** Lamp · **Mood:** Vulnerability · **Action:** Rotate and push in
+
+**#050 · 4s · ARCHIVE**
+"Over the next eighty years, five forces would reshape it."
+**Image Prompt:** Authentic sepia photograph style: a grand palace facade in Hyderabad, long exposure clouds streaking across the sky above it as if time is passing, film grain, vignette, documentary realism, no people, no text.
+**Camera:** Wide, low angle, time-lapse feel · **Lighting:** Shifting · **Mood:** Time and change · **Action:** Clouds stream overhead
+
+**#051 · 3s · GRAPHIC**
+"Each one answers a different question."
+**Image Prompt:** Brand graphic: five manila file folders fanned out on a charcoal #141414 desk, muted gold tabs, wax-seal red #8E1B1B marks, top-down lamp light, no text.
+**Camera:** Top-down · **Lighting:** Lamp · **Mood:** Structure · **Action:** Folders fan out one by one
+**Edit:** Tabs read "1 · 2 · 3 · 4 · 5".
+
+**#052 · 4s · GRAPHIC**
+"Who controlled it. What became untouchable."
+**Image Prompt:** Same brand graphic setup: two of five folders slide forward on a charcoal #141414 desk, muted gold tabs, top-down lamp light, no text.
+**Camera:** Top-down · **Lighting:** Lamp · **Mood:** Questions · **Action:** Folder 1 then 2 slide forward
+**Edit:** "WHO CONTROLLED IT?" then "WHAT BECAME UNTOUCHABLE?" (one at a time, 2s each).
+*(Pattern note: #051–#054 are one continuous animated graphic, counted as one shot.)*
+
+**#053 · 4s · GRAPHIC**
+"What was locked away. What came attached to it."
+**Edit:** Same animation continues: folders 3 and 4. "WHAT WAS LOCKED AWAY?" then "WHAT CAME ATTACHED TO IT?".
+
+**#054 · 3s · GRAPHIC**
+"And what was sold or fought over."
+**Edit:** Folder 5: "WHAT WAS SOLD, OR FOUGHT OVER?". All five fade.
+
+**#055 · 3s · ARCHIVE**
+"We'll take them one at a time."
+**Image Prompt:** Authentic 1930s sepia photograph style: a long palace corridor of closed carved wooden doors, receding into darkness, film grain, vignette, no people, no text.
+**Camera:** Centered, slow push down the corridor · **Lighting:** Low window light · **Mood:** Anticipation · **Action:** Push-in
+
+**#056 · 4s · LUXURY**
+"But first, the object that tells you everything about the man who owned it."
+**Image Prompt:** Photoreal documentary style: a dark wooden desk in shadow, a single beam of lamplight falling on a sparkling shape half-hidden under papers, film grain, no people, no text.
+**Camera:** Slow push-in · **Lighting:** One beam · **Mood:** Tease · **Action:** Light brightens on the hidden sparkle
+
+#### DOCUMENT II — THE DIAMOND IN THE SHOE
+
+**#057 · 3s · GRAPHIC (chapter card)**
+"DOCUMENT II — THE DIAMOND IN THE SHOE"
+**Image Prompt:** Brand graphic: an aged manila file folder on charcoal #141414, muted gold tab, top-down lamp light, no text.
+**Action:** Flap lifts · **Edit:** "DOCUMENT II · THE DIAMOND IN THE SHOE".
+
+**#058 · 2s · ERA COLOR (1911 hand-tinted)**
+"Picture this."
+**Image Prompt:** 1911 hand-tinted photograph style: heavy brocade curtains being drawn back in a palace window, revealing a dim room, pastel tint, film grain, no people, no text.
+**Camera:** Close, slow push · **Lighting:** Light spills in · **Mood:** Entering the past · **Action:** Curtains part
+
+**#059 · 4s · ARCHIVE**
+"It is 1911. The old Nizam, Mahbub Ali Khan, has just died."
+**Image Prompt:** Authentic 1911 sepia photograph style: a palace bedroom with a large carved bed, mourning cloths draped over mirrors, an unlit lamp, a turban resting on a chair, film grain, cracked emulsion, documentary realism, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Dim window light · **Mood:** Mourning · **Action:** Push toward the empty chair
+**Edit:** Caption "1911 · MAHBUB ALI KHAN, THE 6th NIZAM, DIES". Optional public-domain portrait inset.
+
+**#060 · 3s · LUXURY**
+"His son is going through his father's belongings,"
+**Image Prompt:** Photoreal documentary style, 1911 setting: young hands in embroidered silk sleeves lifting a lid off an ornate lacquered chest full of folded robes and small boxes, warm lamplight, deep shadow, film grain, no face, no text.
+**Camera:** Close, high angle · **Lighting:** Warm lamp · **Mood:** Discovery · **Action:** Lid opens slowly
+
+**#061 · 4s · ARCHIVE**
+"in palaces so vast that some rooms have not been opened in years."
+**Image Prompt:** Authentic 1910s sepia photograph style: a dusty palace room with furniture under white sheets, cobwebs on a chandelier, a beam of light from a just-opened door, footprints in the dust, film grain, documentary realism, no people, no text.
+**Camera:** Wide, slow push into the room · **Lighting:** Door light beam · **Mood:** Hidden, forgotten · **Action:** Dust swirls in the beam
+
+**#062 · 4s · ERA COLOR (1911 hand-tinted)**
+"And inside one of his father's shoes, he finds something hidden."
+**Image Prompt:** 1911 hand-tinted photograph style: an ornate embroidered Indian slipper (jutti) with upturned toe lying on dark velvet, a faint glint of light from inside the shoe, warm lamplight, macro detail of gold thread, film grain, no text.
+**Camera:** Close, low angle, slow push into the shoe · **Lighting:** Warm lamp, pastel tint, a sparkle from inside · **Mood:** Suspense · **Action:** Glint grows
+**Edit:** 1s silence before "something hidden".
+
+**#063 · 4s · LUXURY**
+"A diamond. About one hundred and eighty-five carats."
+**Image Prompt:** Photoreal macro photograph: a large cushion-cut colourless diamond held between a man's fingertips against a black background, a single hard light making it blaze, rainbow fire, extreme detail, no text.
+**Camera:** Macro, slow rotation · **Lighting:** Hard single source · **Mood:** Awe · **Action:** The diamond turns slowly
+**Edit:** Price-tag reveal "THE JACOB DIAMOND · ~185 CARATS".
+
+**#064 · 3s · GRAPHIC**
+"Nearly twice the size of the Koh-i-Noor,"
+**Image Prompt:** Brand graphic: two simple line drawings of diamonds side by side in ivory on charcoal #141414, the left about twice the size of the right, muted gold glow, no text.
+**Camera:** Static · **Lighting:** Glow · **Mood:** Comparison · **Action:** Smaller outline appears, then the larger
+**Edit:** Labels "JACOB ~185 ct" / "KOH-I-NOOR ~105.6 ct".
+
+**#065 · 3s · ARCHIVE**
+"the most famous diamond in the British Crown Jewels."
+**Image Prompt:** Authentic black-and-white photograph style: the stone exterior of the Tower of London on a misty morning, a Yeoman Warder in the distance, film grain, documentary realism, no text.
+**Camera:** Wide, low angle, slow push · **Lighting:** Mist · **Mood:** Royal benchmark · **Action:** Push-in
+
+**#066 · 3s · DOCUMENT**
+"It is called the Jacob Diamond."
+**Image Prompt:** Overhead documentary photograph style: an aged jeweller's appraisal card with a pencil sketch of a cushion-cut diamond and measurements, a loupe resting on it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Identity · **Action:** Highlight sweep
+**Edit:** Caption "THE JACOB DIAMOND".
+
+**#067 · 4s · ARCHIVE**
+"His father had bought it in a deal so bitter that it ended up in court."
+**Image Prompt:** Authentic 1890s sepia photograph style: a colonial-era Indian high court room with tall windows, wooden benches, barristers in wigs and gowns, a judge's raised bench, film grain, cracked emulsion, documentary realism, faces indistinct, no text.
+**Camera:** Wide, slow push to the bench · **Lighting:** Tall window light · **Mood:** Dispute · **Action:** Push-in
+**Edit:** Caption "THE 'DIAMOND CASE' · CALCUTTA, 1891".
+
+**#068 · 4s · ERA COLOR (hand-tinted)**
+"And at some point, the stone was hidden away, in a shoe."
+**Image Prompt:** Hand-tinted early-1900s photograph style: a row of ornate embroidered slippers on the floor of a dark wardrobe, one slightly pushed to the back, pastel tint, film grain, no text.
+**Camera:** Low angle, slow push to the back slipper · **Lighting:** Thin light from a door crack · **Mood:** Secret · **Action:** Push-in
+
+**#069 · 4s · ARCHIVE**
+"And what did his son do with one of the largest diamonds on Earth?"
+**Image Prompt:** Authentic 1920s sepia photograph style: a palace office with a heavy desk, piled files, a lamp and a chair pushed back, seen through a half-open door, film grain, vignette, no people, no text.
+**Camera:** Through the doorway, slow push · **Lighting:** Lamp · **Mood:** Curiosity · **Action:** Door creeps open
+
+**#070 · 3s · LUXURY (innocence image)**
+"He used it as a paperweight."
+**Image Prompt:** Photoreal macro photograph: the huge cushion-cut diamond resting on a stack of yellowed government papers on a wooden desk, warm lamp, sparkles on the paper, a fountain pen nearby, shallow depth of field, no readable text.
+**Camera:** Close, eye level, slow push · **Lighting:** Warm lamp · **Mood:** Absurd wonder · **Action:** Push-in
+**Edit:** 1s hold.
+
+**#071 · 3s · GRAPHIC (stamp)**
+[MYTH/FACT STAMP]
+**Image Prompt:** Hold on #070, darkened 40%.
+**Edit:** Stamp "FOUND IN HIS FATHER'S SHOE, USED AS A PAPERWEIGHT · FACT" in wax-seal red, held 3s.
+
+**#072 · 3s · LUXURY**
+"Hold on to that picture."
+**Image Prompt:** Photoreal still: the same diamond-on-papers composition with an old-fashioned square photographic frame closing around it like a camera shutter, warm lamp, no text.
+**Camera:** Static · **Lighting:** Lamp · **Mood:** Memory · **Action:** Frame snaps around the image
+**Edit:** Freeze-frame with a polaroid-style border; this exact frame returns in Doc VIII.
+
+**#073 · 4s · ARCHIVE**
+"A priceless stone, holding down papers on a desk."
+**Image Prompt:** Authentic 1930s sepia photograph style: a wide view of the palace office desk with the faint sparkle of the diamond among papers, a ceiling fan, shutters, film grain, documentary realism, no people, no text.
+**Camera:** Wide, slow pull back · **Lighting:** Shutter stripes · **Mood:** Ordinary treasure · **Action:** Pull back
+
+**#074 · 3s · GRAPHIC (motif tease)**
+"Because before this story ends,"
+**Image Prompt:** Photoreal cinematic still: a heavy steel vault door, slightly out of focus, cold blue light, deep black, no text.
+**Camera:** Slow push · **Lighting:** Cold blue · **Mood:** Foreboding · **Action:** Focus pulls in slowly
+
+**#075 · 4s · LUXURY**
+"that same diamond will be somewhere its owner could never have imagined."
+**Image Prompt:** Photoreal still: a large diamond on grey felt inside a steel safe-deposit tray, cold fluorescent light, sterile and institutional, no text.
+**Camera:** High angle, slow push · **Lighting:** Cold fluorescent · **Mood:** Mystery · **Action:** Tray slides shut (edit)
+
+**#076 · 3s · ERA COLOR (1930s hand-tinted)**
+"The diamond was only one piece of it."
+**Image Prompt:** 1930s hand-tinted photograph style: an ornate palace treasure room with glass cabinets of jewelled daggers, gold plates and silver ewers, pastel tint, film grain, no people, no text.
+**Camera:** Lateral drift · **Lighting:** Soft · **Mood:** More and more · **Action:** Drift past cabinets
+
+**#077 · 4s · ARCHIVE**
+"It was said that his pearls alone could have paved London's Piccadilly Circus."
+**Image Prompt:** Authentic 1930s black-and-white photograph style: Piccadilly Circus in London with the Eros statue, double-decker buses and illuminated advertising boards (unreadable), crowds at dusk, film grain, documentary realism, no readable text.
+**Camera:** Wide, high angle, slow drift · **Lighting:** Dusk, signs glowing · **Mood:** Legend · **Action:** Pearls dissolve over the road surface (edit)
+**Edit:** Stamp "LEGEND · 'IT WAS SAID'".
+
+**#078 · 3s · DOCUMENT**
+"According to the writers Larry Collins and Dominique Lapierre,"
+**Image Prompt:** Overhead documentary photograph style: an old hardback history book lying open on a desk, worn dust jacket, a pair of reading glasses on the pages, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Attribution · **Action:** Page turns
+**Edit:** Caption "Collins & Lapierre, *Freedom at Midnight* (1975)".
+
+**#079 · 5s · ARCHIVE**
+"trucks loaded with gold sat in his garden, so heavy they had sunk into the mud,"
+**Image Prompt:** Authentic 1940s black-and-white photograph style: several old military-style trucks with canvas covers, their wheels sunk deep in mud in an overgrown palace garden, weeds around the tyres, a palace wall behind, film grain, documentary realism, no people, no text.
+**Camera:** Low angle at the wheels, slow push · **Lighting:** Overcast · **Mood:** Neglect of riches · **Action:** Push-in
+**Edit:** Small tag "ACCORDING TO COLLINS & LAPIERRE".
+
+**#080 · 4s · LUXURY**
+"and jewels lay heaped on cellar floors like coal."
+**Image Prompt:** Photoreal documentary style: a dark stone cellar floor with a heap of rough gemstones and pearls piled like coal beside a coal shovel, a single dim bulb, dust, film grain, no text.
+**Camera:** High angle, slow push · **Lighting:** Dim bulb · **Mood:** Excess and neglect · **Action:** Push-in
+
+**#081 · 4s · ERA COLOR (hand-tinted)**
+"Some of those stories may have grown with each telling."
+**Image Prompt:** 1930s hand-tinted photograph style: a group of men in fezzes and turbans talking in a shaded palace courtyard, one gesturing widely, pastel tint, film grain, faces indistinct, no text.
+**Camera:** Medium-wide, slow drift · **Lighting:** Dappled shade · **Mood:** Gossip, legend · **Action:** Drift
+**Edit:** Small stamp "STORIES · NOT ALL PROVEN".
+
+**#082 · 3s · GRAPHIC**
+"But they all point to the same thing."
+**Image Prompt:** Brand graphic: three thin muted-gold lines converging to a single point on a charcoal #141414 field, soft glow, no text.
+**Camera:** Static · **Lighting:** Glow · **Mood:** Synthesis · **Action:** Lines draw toward the centre
+
+**#083 · 3s · ARCHIVE**
+"This was wealth on a scale so large"
+**Image Prompt:** Authentic 1930s sepia aerial photograph style: a vast white palace complex with courtyards and gardens spreading across the frame, an Indian city around it, film grain, vignette, documentary realism, no text.
+**Camera:** High aerial, slow pull back · **Lighting:** Sun · **Mood:** Scale · **Action:** Pull back
+
+**#084 · 4s · DOCUMENT**
+"that the people around him had simply stopped trying to measure it."
+**Image Prompt:** Overhead documentary photograph style: an old inventory ledger abandoned half-way, the last entries trailing off, a dried-up inkwell and a pen left across the page, dust on the paper, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp fading · **Mood:** Futility · **Action:** Lamp light dims slowly
+
+**#085 · 4s · ERA COLOR (1930s hand-tinted)**
+"And the man at the center of it was nothing like you'd expect."
+**Image Prompt:** 1930s hand-tinted photograph style: a worn, crumpled fez resting on a plain wooden chair in an otherwise grand palace room, pastel tint on the chair and walls, film grain, no people, no text.
+**Camera:** Medium, slow push to the fez · **Lighting:** Soft side light · **Mood:** Surprise, intrigue · **Action:** Push-in
+**Edit:** Cliffhanger; soft hit into Document III.
+
+*Batch 1: 85 beats · cold open + Documents I–II (~5.6 min). Next: Batch 2 = Documents III–IV.*
