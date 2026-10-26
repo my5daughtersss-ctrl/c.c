@@ -10,6 +10,35 @@
 - **Working style:** brutally straight answers, no fluff. Model what's **proven and working now**, not guesses.
 - Claude should **prompt me** about roadmap tasks (section 9) at the right video numbers.
 
+
+### NICHE HYPOTHESIS v2 (Oct 26 2026, owner-approved)
+**Core statement:** Unarchived Fortunes helps curious adults of all ages, led by history lovers 55+ in the US, UK, Canada and Australia, see how great fortunes and fates are made, lost and squandered, through true documentaries built from real records. They're gripped by the story and walk away wiser about money, family and the legacy they'll leave.
+**Positioning:** the glamour of old money, the tragedy of fate, and a lesson you can use. (Old Money channels show glamour; Undertold-style channels show tragedy; we do both plus a File Lesson.)
+
+**Audience segments**
+| Segment | Who | Problems / feelings | What they want from us |
+|---|---|---|---|
+| A. Legacy Builders (core) | 55–75, mostly men, retired or near it, property, savings, grandchildren | Will my kids fight over what I leave? Protecting family; wills, trusts, being forgotten | Rich long-form TV-evening stories plus quiet reassurance |
+| B. Old Money Dreamers | 18–34, both genders, old-money style, luxury, Gilded Age | Stuck or envious; what is wealth really like? | Glamour behind the curtain, a reality check, aspiration |
+| C. Wealth Builders | 25–54, career, investing, finance-curious | Fear of losing what they build; money, family business, inheritance | Real cautionary tales and what to learn |
+| D. True-Story Seekers | All ages, slight female lean, biography and human drama | Hunger for meaning, empathy, the untold side | Hidden children, discarded wives, gifted people crushed by family |
+| E. Anglophiles and Royal Watchers | 35+, UK, Australia, Canada, US | Class, titles, scandal, duty | Aristocratic and royal-adjacent fortunes, stately homes, disinheritance |
+
+**Audience problems we solve:** escape into another world · why money didn't save them · fear the family will fall apart over money · not squandering what I built · the truth behind famous names · raising children who turn out well · ordinary lives matter too · history without a lecture.
+
+**Content pillars**
+1. The Inheritance Files (wills, trusts, estate battles) · A, C
+2. Heirs Who Vanished or Fell (squandered or cursed fortunes) · A, B, D
+3. The Hidden Ones (rich families' hidden, institutionalized or mentally ill members; the hottest format in Oct 2026) · D, A
+4. Dynasties Rise and Fall (business empires and the family drama behind the brand) · C, B
+5. Daughters, Wives and Mothers of Dynasties · D, B
+6. Impostors and Fortune Hunters · C, D
+7. Aristocrats and Royals · E, A
+8. Lessons From the Fall (finance-history tragedies, every 3–4 videos) · C, A
+
+**Packaging for every segment:** proven formats are "The Tragic Story of [Name]: [hook]", "What Happened to [famous person]'s Children?", "Why [Name] Lost Everything" and "The $X [empire] destroyed by…". Make 30–35-minute main videos, plus Shorts that pull B and C into them. Frame the File Lesson as "protect your legacy" (A) and "avoid these mistakes" (B, C).
+
+**Validation (check at videos 10 and 20):** 50%+ of watch time from 45+ and 60%+ from the US, UK, Canada and Australia; 20%+ of views from 18–44 (if so, lean into Pillars 4 and 6 and add Shorts); 35–45% average view duration with no drop at the File Lesson; RPM $6+; checklist at least 1% sign-ups; rank pillars by views and RPM, double down on the top two and cut the bottom one.
 ---
 
 ## 2. NICHE RESEARCH SUMMARY (NexLev, Oct 2026)
@@ -57,6 +86,20 @@ A subject passes only if it has:
 3. **A money, fortune or inheritance angle**
 4. It fits the formula: a famous or powerful family, plus a hidden, wounded or ruined member, plus a tragic fate
 
+### OUTLIER RESEARCH (Oct 26 2026, YouTube scrape: 26 channels, 50 searches, 47 topics; NexLev not yet connected)
+**Outliers, last 6 months (multiple of the channel's median views):** Eduard Einstein 2.0M (143×, Rowsper) · Genain Quadruplets 1.2M (222×, History Mark Exposed) + 759K (Undertold) · Galvin family 912K (169×, HME) + 169K (Rowsper) · Bose founder 739K (57×, Old Money Luxury) · Steve Jobs's marriage 620K (148×, Upper Class Marriage) · Johnny Carson's children 466K (Upper Class Family) · Onassis regretted Jackie 384K (91×) · Nijinsky, Sage Stallone, Liza Todd, John Nash 250–340K (Rowsper).
+**Hottest pattern:** a famous or wealthy family's hidden, mentally ill or doomed member. Copycats are piling on the same subjects, so use new subjects in that pattern.
+**Top outlier topics for us (big proven demand, nothing recent):**
+1. ⭐ **Harry K. Thaw**: railroad heir; his mother paid to have him declared insane. Evelyn Nesbit videos at 2.1M and 2.5M (4–9 years old); last 6 months max ~4.5K. Told from the heir and money side, it's almost untouched. **Recommended File 002.**
+2. ⭐ **Rosemary Kennedy**: 2.8M and 1.6M (4–5 years); last 6 months max 30K.
+3. ⭐ **Clark Rockefeller (impostor)**: one 1.5M video (4 years); nothing recent. Close to the "appeared once" rule.
+4. **Michael Rockefeller**: 8.6M and 1.6M; recent max 44K (handle the cannibal theory ad-safely).
+5. **Barbara Hutton**: 1.7M and 870K; Old Money Allure 299K two years ago; recent max 52K.
+6. **Gloria Vanderbilt "Trial of the Century"**: 2.1M (news); the documentary angle is open; recent ~1K.
+**Avoid (recently taken):** Busch family, Dionne quintuplets, Grey Gardens, Sarah Winchester, Doris Duke, Alexander Onassis, Howard Hughes, Hershey, anything Einstein, Genain or Galvin.
+**No proven demand (gambles):** Stanley McCormick, Tommy Manville, Pegeen Guggenheim, Mary Todd Lincoln.
+**Huntington Hartford check:** only competitor is Old Money Documentaries, 42K, 5 months ago, so not saturated. But no 100K+ Hartford video was found (the 107K Old Money Luxury video wasn't located). Verify topic rule #1 in NexLev.
+
 ### Topic status
 - **Edith Rockefeller McCormick:** script written and fact-checked, but **SATURATED → vault** (later use: podcast, newsletter, Kindle book chapter).
 - **File No. 001: Huntington Hartford (CONFIRMED by owner, Oct 20 2026).** The perfect dual-meaning story: a giant money fortune and a fate that took it all. Topic rule PASSED in the Oct 19 session: top Hartford video 107K (Old Money Luxury, ~1 year old); most recent sizable one 42K (Old Money Documentaries, May 9 2026), under the 50K line. **Script v2.1 is written and fully fact-checked (~4,800 words); all 560 image prompts are done.** Everything is in the File 001 master document. A&P heir who lost about $90M of an inheritance; owned the Bahamas resort where **Atlantis** now stands; died 2008 aged 97. Book to link: *Squandered Fortune* by Lisa Gubernick (1991).
@@ -97,6 +140,16 @@ A subject passes only if it has:
 > Every documentary is built from real records: letters, wills, court transcripts and photographs. The people always come first.
 >
 > New files opened every week. Subscribe, and step into the archive.
+
+### SEO KEYWORDS (Oct 26 2026)
+**Channel keywords box (476 of 500 characters):** Unarchived Fortunes, history documentary, true story documentary, old money, Gilded Age, rich families, wealthy families, family fortune, inheritance, heirs, heiress, dynasty, family secrets, tragic story, untold stories, forgotten history, biography documentary, British aristocracy, royal history, American history, financial history, economic history, money lessons, wealth, rise and fall, lost fortune, estate planning, trust fund, Rockefeller, Kennedy family, documentary
+**20 searched keywords (confirmed in YouTube autocomplete; volumes not measured):**
+- Pain points: how to protect your inheritance · family fight over inheritance · estate planning mistakes · rich people who lost it all · how the rich stay rich · trust funds explained
+- Outcomes: generational wealth documentary · money lessons from older people · money lessons from self made millionaires · how the rich use debt to get richer · old money families documentary
+- Curiosity: what happened to the vanderbilt fortune · what happened to the vanderbilt family · rockefeller family documentary · kennedy family documentary · rich family secrets · royal family dark secrets · royal family secret wealth · gilded age mansions · inheritance stories
+**Avoid (polluted by dramas or other meanings):** "heiress who…", "forgotten heiress", "hidden daughter", "billionaire family" (Chinese mini-dramas) · "family fortunes" (UK game show) · "inheritance" alone (Inheritance Games) · "vanderbilt" alone (sports). Always pair with "documentary", "true story" or a real family name.
+**Master keyword bank (use what fits each video):** format: history documentary, full documentary, true story, biography, narrated history · wealth: old money, old money vs new money, richest families in history, wealthy heirs, heiress, socialite, high society, American aristocracy · inheritance (high-paying advertisers): inheritance battle, contested will, family feud, estate battle, probate, trust fund, generational wealth, legacy, estate planning, squandered fortune · fate: tragic story, family secret, hidden child, scandal, downfall, rise and fall, untold story, forgotten · finance history: financial history, economic history, money lessons, financial mistakes, riches to rags, bankrupt, how they lost it all, Great Depression · eras: Gilded Age, Roaring Twenties, Victorian, Edwardian, Belle Époque, Newport mansions, British country houses · royals: royal family history, aristocrats, death duties, disinherited · family names, only when a video covers them: Rockefeller, Vanderbilt, Astor, Hearst, Kennedy, Du Pont, Guggenheim, Woolworth, Getty, Doris Duke, Huguette Clark, Hetty Green.
+**Rules:** no competitor channel names in tags or keywords (YouTube spam policy, "misleading metadata"). Avoid tips-style finance words ("investing tips", "get rich"). Put the main keyword at the start of the title and in the first two lines of the description. Check volumes in vidIQ or NexLev before titling.
 
 ### Logo prompt (profile picture, 800×800)
 Minimalist luxury emblem on a solid charcoal-black circle (#141414). At the center is a single antique gold coin seen face-on. Its face is finely engraved as a classical Wheel of Fortune (Rota Fortunae): a thin outer rim and eight slender spokes meeting at a small hub, like an old engraved medallion. The left half of the coin is polished muted gold (#B8975A), lit by a soft warm glow. The right half is tarnished and cool, turning into deep slate shadow (#3A4048), with one fine hairline crack running from the rim toward the hub. A tiny wax-seal red (#8E1B1B) notch marks the top of the rim. Flat vector with subtle engraving detail, museum-grade refinement, generous negative space, crisp edges, readable at 98×98 px. No text. The mood is old-money elegance: quiet, investigative and slightly ominous.
