@@ -2064,3 +2064,410 @@ But every fortune has a fate, and the archive is still open.
 **Edit:** Caption "6 APRIL 1967". [REAL PHOTO] alternative: licensed 1967 ceremony photo.
 
 *Batch 3: 76 beats (#178–#253) · Documents V–VI (~5.6 min). Running total 253. Next: Batch 4 = Documents VII–VIII.*
+
+### 4f. IMAGE PROMPTS · BATCH 4 of ~5 (Documents VII–VIII)
+*Mukarram Jah faces: [REAL PHOTO] (licensed adult photos) or [AI + REF] from behind or at a distance only. No private-life imagery (privacy cuts, section 1).*
+
+#### DOCUMENT VII — FORCE FOUR: THE INHERITANCE
+
+**#254 · 4s · GRAPHIC (chapter card)**
+[CHAPTER CARD: FORCE 4 OF 5 · WHAT CAME ATTACHED TO IT?]
+**Image Prompt:** Brand graphic: folder 4 of 5 slides forward on charcoal #141414, muted gold tab, wax-seal red mark, lamp light, no text.
+**Edit:** "DOCUMENT VII · FORCE 4 OF 5 · WHAT CAME ATTACHED TO IT?" (held 3s).
+
+**#255 · 3s · ERA COLOR (1967) · [REAL PHOTO: Mukarram Jah, c. 1967]**
+"Mukarram Jah was thirty-three years old."
+**Image Prompt:** [REAL PHOTO]: a licensed c. 1967 photograph of Mukarram Jah (Getty/Alamy/AP), slow push-in. No AI face.
+**Camera:** Slow push · **Mood:** The new heir · **Action:** Push-in
+**Edit:** Caption "MUKARRAM JAH · 8th NIZAM · AGED 33".
+
+**#256 · 3s · LUXURY**
+"And his life story already sounded like something from a novel."
+**Image Prompt:** Photoreal documentary style: an old leather-bound novel lying open on a velvet armchair in a palace library, warm lamplight, dust in the air, film grain, no people, no readable text.
+**Camera:** Close, slow push · **Lighting:** Warm lamp · **Mood:** Storybook · **Action:** A page lifts in a draught
+
+**#257 · 5s · ARCHIVE · [REAL PHOTO: Durru Shehvar]**
+"His mother, Princess Durru Shehvar, was the daughter of the last Caliph of the Ottoman Empire."
+**Image Prompt:** [REAL PHOTO]: *Princess Durru Shehvar.jpg* or the Cecil Beaton portrait (Wikipedia; check the licence), slow push-in. Inset [REAL PHOTO]: *Caliph Abdulmecid II of the Ottoman Empire.jpg*. No AI faces.
+**Camera:** Slow push · **Mood:** Royal lineage · **Action:** Push-in; the inset fades in
+**Edit:** Caption "PRINCESS DURRU SHEHVAR · DAUGHTER OF THE LAST OTTOMAN CALIPH".
+
+**#258 · 5s · ERA COLOR (triptych)**
+"He'd been born in France, educated at Harrow and Cambridge, and trained at Sandhurst."
+**Image Prompt:** Triptych of three 1930s–50s colour photographs side by side: (1) the Nice seafront promenade with palms, (2) Harrow School's red-brick buildings, (3) the white neoclassical Old College at Sandhurst with cadets on parade at a distance, matched warm Kodachrome look, grain, no readable text, faces small.
+**Camera:** Panels revealed left to right · **Lighting:** Sunny · **Mood:** Privileged education · **Action:** Each panel appears on its word
+**Edit:** Labels "NICE · HARROW · CAMBRIDGE · SANDHURST" (Cambridge shown as a caption on panel 2).
+
+**#259 · 4s · ARCHIVE · [AI + REF: Mukarram Jah, 1950s photo] — from behind/distance only**
+"He was polished, private, and thoroughly European."
+**Image Prompt:** Authentic 1950s black-and-white photograph style, matching the attached reference for build, hair and posture: a slim young man in a tailored English suit walking alone along a London street, seen from behind at a distance, film grain, documentary realism, no face visible, no text.
+**Camera:** Long lens, slow drift · **Lighting:** Grey daylight · **Mood:** Reserved · **Action:** Drift with him
+
+**#260 · 3s · GRAPHIC (family tree)**
+"The boy his grandfather had chosen over his own son."
+**Image Prompt:** Brand graphic: the family tree from #133 in ivory lines on charcoal #141414, no text.
+**Edit:** Highlight moves from "AZAM JAH (PASSED OVER)" to "MUKARRAM JAH" (gold rim). [REAL PHOTO] crops in the slots.
+
+**#261 · 4s · DOCUMENT**
+"What he had never been trained to do was run a fortune."
+**Image Prompt:** Overhead documentary photograph style: a thick estate accounts ledger lying unopened on a desk, its spine uncracked, a ribbon bookmark still at the first page, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Unprepared · **Action:** Push-in
+
+**#262 · 3s · ERA COLOR (1967 Kodachrome)**
+"Now imagine you are him."
+**Image Prompt:** 1960s Kodachrome colour photograph style, first-person view: looking down at two hands in shirt cuffs resting on a huge palace desk covered with files, keys and letters, warm saturated colour, grain, no face, no readable text.
+**Camera:** POV, slow push · **Lighting:** Warm lamp · **Mood:** Direct address · **Action:** The hands hesitate
+**Edit:** "WHAT WOULD YOU HAVE DONE?" (only time used in the video), held 3s.
+
+**#263 · 5s · LUXURY**
+"You've just inherited one of the great fortunes of the world, and with it, everyone who depends on it."
+**Image Prompt:** Photoreal documentary style: the view from a palace balcony over a vast courtyard where hundreds of people stand waiting, seen from behind the balustrade, warm evening light, film grain, faces too small to identify, no text.
+**Camera:** Over the balustrade, slow push · **Lighting:** Golden hour · **Mood:** Weight · **Action:** Push toward the crowd
+
+**#264 · 2s · ARCHIVE**
+"Where would you even begin?"
+**Image Prompt:** Authentic 1960s black-and-white photograph style: a room stacked floor to ceiling with unsorted files and boxes, a single chair in the middle, film grain, vignette, no people, no text.
+**Camera:** Wide, static push · **Lighting:** Window · **Mood:** Overwhelm · **Action:** Slow push
+
+**#265 · 3s · GRAPHIC (head-count counter)**
+[HEAD-COUNT COUNTER: 14,700]
+**Image Prompt:** Brand graphic: charcoal #141414 field filled with rows of tiny ivory human figure icons multiplying outward, muted gold glow, no text.
+**Camera:** Slow pull back · **Lighting:** Glow · **Mood:** Shock · **Action:** Figures multiply
+**Edit:** Counter "14,700" (only counter).
+
+**#266 · 5s · ARCHIVE**
+"According to The New York Times, he took on more than fourteen thousand seven hundred staff and dependants."
+**Image Prompt:** Authentic 1960s black-and-white photograph style: rows of palace staff in uniforms, cooks, gardeners, guards and attendants posed in a wide courtyard, film grain, documentary realism, faces too small to identify, no text.
+**Camera:** High angle, slow lateral drift · **Lighting:** Hard sun · **Mood:** Scale · **Action:** Drift across the rows
+**Edit:** Tag "ACCORDING TO THE NEW YORK TIMES".
+
+**#267 · 5s · ERA COLOR (1960s Kodachrome)**
+"Among them, by the historian William Dalrymple's account, were forty-two of his grandfather's concubines, and around three thousand bodyguards."
+**Image Prompt:** 1960s Kodachrome colour photograph style: a long arcaded palace courtyard with a row of uniformed guards in turbans standing at attention at a distance, the curtained windows of the zenana quarters above, warm saturated colour, grain, faces too small to identify, no text.
+**Camera:** Wide, slow push · **Lighting:** Afternoon sun · **Mood:** An inherited household · **Action:** Push along the arcade
+**Edit:** Tag "ACCORDING TO WILLIAM DALRYMPLE" · "42 CONCUBINES · ~3,000 BODYGUARDS".
+
+**#268 · 5s · GRAPHIC**
+"An inheritance isn't only what you receive. It's also everything that comes attached to it."
+**Image Prompt:** Brand graphic: a gold gift box on charcoal #141414 with dozens of thin ivory strings attached to it, trailing off-frame, muted gold light, no text.
+**Camera:** Slow pull back · **Lighting:** Rim · **Mood:** Strings attached · **Action:** Strings tighten
+**Edit:** "WHAT YOU RECEIVE" / "WHAT COMES ATTACHED".
+
+**#269 · 4s · LUXURY**
+"Every one of those people expected to be housed, fed or paid."
+**Image Prompt:** Photoreal documentary style: a vast palace kitchen with huge copper cauldrons on wood fires, sacks of rice and grain stacked along the walls, steam and warm firelight, film grain, no faces, no text.
+**Camera:** Wide, slow push · **Lighting:** Firelight · **Mood:** Daily cost · **Action:** Steam rises
+
+**#270 · 5s · DOCUMENT**
+"And according to The New York Times, when he looked more closely, around four thousand of the names being paid did not seem to exist at all."
+**Image Prompt:** Overhead documentary photograph style: a long handwritten payroll register with many rows of names (illegible), some rows faintly crossed through in red pencil, desk-lamp light, no readable text.
+**Camera:** Top-down, slow tilt down the page · **Lighting:** Lamp · **Mood:** Revelation · **Action:** Red lines appear row by row
+**Edit:** Tag "ACCORDING TO THE NYT".
+
+**#271 · 3s · GRAPHIC (counter)**
+[COUNTER: 4,000 NAMES FADE]
+**Image Prompt:** The figure-icon graphic from #265 on charcoal #141414.
+**Edit:** About a quarter of the figures fade to outlines; "~4,000 NAMES · NOT FOUND" (only counter).
+
+**#272 · 4s · ARCHIVE**
+"The wealth itself was tied up in trusts that would be contested for years."
+**Image Prompt:** Authentic 1970s black-and-white photograph style: an Indian court record room with bundles of case files tied in red cloth stacked on wooden shelves, a clerk's hand pulling one out, film grain, no face, no readable text.
+**Camera:** Medium, slow drift · **Lighting:** Window · **Mood:** Entanglement · **Action:** A bundle is pulled out
+
+**#273 · 5s · DOCUMENT**
+"And, again according to The New York Times, among the first people to take him to court were his own father and his own aunt."
+**Image Prompt:** Overhead documentary photograph style: a typed court summons on legal paper with a court seal and two plaintiff name lines (unreadable), a pair of reading glasses beside it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Family turned adversary · **Action:** Highlight sweep across the plaintiff lines
+**Edit:** Tag "ACCORDING TO THE NYT" · labels "PLAINTIFFS: HIS FATHER · HIS AUNT".
+
+**#274 · 3s · ARCHIVE**
+"He later summed up his inheritance in four words."
+**Image Prompt:** Authentic black-and-white photograph style: a reporter's microphone and a cassette recorder on a table in a dim room, film grain, vignette, no people, no text.
+**Camera:** Close, slow push · **Lighting:** Low · **Mood:** Confession · **Action:** The tape reels turn
+
+**#275 · 4s · LUXURY (quote)**
+"I inherited a scrapyard."
+**Image Prompt:** Photoreal documentary style: a once-grand palace storeroom crammed with broken chandeliers, dusty carriages, rolled carpets and cracked mirrors, a shaft of light through a broken shutter, film grain, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Single shaft · **Mood:** Bitter irony · **Action:** Dust drifts
+**Edit:** Quote card "'I inherited a scrapyard.' — Mukarram Jah (as quoted by The New York Times)", held 4s. 1s silence before.
+
+**#276 · 3s · ERA COLOR (1970s)**
+"It's easy to judge him for what came next."
+**Image Prompt:** 1970s faded colour photograph style: an empty high-backed chair at the head of a long dining table in a palace, half-eaten meal cleared, warm faded tones, grain, no people, no text.
+**Camera:** Centered, slow push · **Lighting:** Window · **Mood:** Reflection · **Action:** Push-in
+
+**#277 · 6s · GRAPHIC**
+"But think about what he had been handed: a fortune nobody could measure, a household the size of a town, obligations he hadn't chosen, and a family ready to sue."
+**Image Prompt:** Brand graphic: four manila cards laid out one by one on charcoal #141414, muted gold edges, lamp light, no text.
+**Camera:** Top-down · **Lighting:** Lamp · **Mood:** Accounting of burdens · **Action:** Cards land one at a time
+**Edit:** "UNMEASURED FORTUNE · A TOWN-SIZED HOUSEHOLD · OBLIGATIONS · LAWSUITS" (one per card, 1.5s apart, all held 3s).
+
+**#278 · 5s · DOCUMENT (quote)**
+"His biographer, John Zubrzycki, put it bluntly: he had no inkling whatsoever of anything financial."
+**Image Prompt:** Overhead documentary photograph style: an open hardback biography on a desk with a pencil underlining a sentence (illegible), reading glasses, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Blunt verdict · **Action:** Underline draws on
+**Edit:** Quote card "'He had no inkling whatsoever of anything financial.' — John Zubrzycki".
+
+**#279 · 4s · ERA COLOR (1971)**
+"Then, in 1971, India removed what little certainty remained."
+**Image Prompt:** 1970s colour photograph style: the circular colonnaded Parliament House in New Delhi under a hazy sky, cars and cyclists on the road, faded warm tones, grain, documentary realism, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Hazy sun · **Mood:** Decision from above · **Action:** Push-in
+**Edit:** Caption "NEW DELHI · 1971".
+
+**#280 · 5s · DOCUMENT**
+"The 26th Amendment to its constitution abolished the privy purses and the titles of every former ruler."
+**Image Prompt:** Overhead documentary photograph style: the government payment order from #221 now struck with a large rubber stamp (stamp face unreadable) in red ink, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Ending · **Action:** The stamp comes down (payoff of #221)
+**Edit:** Overlay "26th AMENDMENT · 1971 · PRIVY PURSES AND TITLES ABOLISHED".
+
+**#281 · 4s · GRAPHIC (fortune counter)**
+"The allowance was gone. Officially, so was the Nizam."
+**Image Prompt:** Brand graphic: charcoal #141414 with faint rupee guilloche, empty centre, no text.
+**Edit:** Counter "Rs 50 LAKH / YEAR → 0". Then the title "NIZAM" fades to grey.
+
+**#282 · 5s · MAP**
+"And so the young man who had inherited a kingdom's obligations decided to start again, on the other side of the world."
+**Image Prompt:** Vintage world map on aged paper showing the Indian Ocean, India to Western Australia, overhead lamp light, no readable text.
+**Camera:** Top-down, slow pan south-east · **Lighting:** Lamp · **Mood:** Escape · **Action:** A dotted line starts drawing from Hyderabad toward Perth (edit)
+**Edit:** Cliffhanger; low hit. → AD BREAK 3.
+
+#### DOCUMENT VIII — FORCE FIVE: SALES, SETTLEMENTS AND LAWSUITS
+
+**#283 · 4s · GRAPHIC (chapter card)**
+[CHAPTER CARD: FORCE 5 OF 5 · WHAT WAS SOLD, OR FOUGHT OVER?]
+**Image Prompt:** Brand graphic: folder 5 of 5 slides forward on charcoal #141414, muted gold tab, lamp light, no text.
+**Edit:** "DOCUMENT VIII · FORCE 5 OF 5 · WHAT WAS SOLD, OR FOUGHT OVER?" (held 3s).
+
+**#284 · 4s · ERA COLOR (1970s Ektachrome)**
+"Picture this. The red dust of Western Australia."
+**Image Prompt:** 1970s faded Ektachrome colour photograph style: endless red-dust outback plains under a huge pale blue sky, low saltbush scrub, heat haze, warm grain, no people, no text.
+**Camera:** Wide, slow lateral drift · **Lighting:** Harsh midday sun · **Mood:** Remote · **Action:** Heat haze shimmers
+
+**#285 · 4s · ARCHIVE**
+"A coastline so empty you can drive for hours without seeing another person."
+**Image Prompt:** Authentic 1970s photograph style, faded colour: a lone dusty station wagon on a dirt track along an empty Indian Ocean coastline of red cliffs, film grain, documentary realism, no people visible, no readable text.
+**Camera:** High wide angle, slow drift · **Lighting:** Afternoon · **Mood:** Isolation · **Action:** The car moves slowly along the track
+*(Shot type note: tagged ARCHIVE for its faded-print look so it doesn't repeat #284's clean Ektachrome.)*
+
+**#286 · 4s · LUXURY**
+"And in the middle of it, a sheep station spread across hundreds of thousands of acres."
+**Image Prompt:** Photoreal documentary style: a large old colonial-style homestead with a corrugated-iron roof and a wide veranda on the Murchison River in Western Australia, a mob of sheep moving across red paddocks in front, golden evening light, film grain, no faces, no text.
+**Camera:** Wide aerial-like, slow push · **Lighting:** Golden hour · **Mood:** A new kingdom · **Action:** Sheep drift across the frame
+**Edit:** [REAL PHOTO] option: licensed or State Library of WA photo of Murchison House Station.
+
+**#287 · 3s · MAP**
+[MAP: HYDERABAD → PERTH]
+**Image Prompt:** Vintage map of the Indian Ocean on aged paper, overhead lamp light, no readable text.
+**Edit:** Map line completes "HYDERABAD → PERTH".
+
+**#288 · 5s · ERA COLOR (1970s) · [AI + REF: Mukarram Jah, 1970s photo] — from behind/distance only**
+"In the early 1970s, the heir to one of the richest fortunes on Earth bought Murchison House Station, along with a grand house in Perth."
+**Image Prompt:** 1970s faded colour photograph style, matching the attached reference for build and hair: a man in a short-sleeved shirt and a broad-brimmed hat seen from behind at a distance, standing at a homestead gate looking over red paddocks, warm grain, no face visible, no text.
+**Camera:** Long lens, from behind, slow push · **Lighting:** Evening sun · **Mood:** Fresh start · **Action:** Push-in
+**Edit:** Caption "MURCHISON HOUSE STATION · WESTERN AUSTRALIA".
+
+**#289 · 2s · ARCHIVE**
+"He threw himself into it."
+**Image Prompt:** Authentic 1970s photograph style, faded print: a shearing shed full of wool bales and shearing gear, sunlight through the slats, film grain, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Slatted sun · **Mood:** Energy · **Action:** Dust motes in the light
+
+**#290 · 5s · ERA COLOR (1970s Ektachrome)**
+"According to The New York Times, he even bought a gold mine and an amphibious tank."
+**Image Prompt:** 1970s Ektachrome colour photograph style: an ex-military amphibious vehicle parked in red dust beside a corrugated-iron mine headframe, warm faded colour, grain, documentary realism, no people, no readable markings.
+**Camera:** Low angle, slow push · **Lighting:** Harsh sun · **Mood:** Eccentric spending · **Action:** Push-in
+**Edit:** Tag "ACCORDING TO THE NYT" · "A GOLD MINE · AN AMPHIBIOUS TANK".
+
+**#291 · 3s · GRAPHIC (fortune counter)**
+"But the station lost money."
+**Image Prompt:** Brand graphic: a muted gold line graph on charcoal #141414 sloping downward, ivory grid, no text.
+**Edit:** Fortune counter "FALLING" with a red arrow (only counter).
+
+**#292 · 4s · LUXURY**
+"To fund his life there, he sold family jewels."
+**Image Prompt:** Photoreal documentary style: an auction-room table with a velvet tray holding an antique emerald necklace, an auctioneer's gavel resting beside it, cool gallery light, film grain, no faces, no text.
+**Camera:** Close, slow push · **Lighting:** Gallery spots · **Mood:** Selling the past · **Action:** The gavel lifts (edit)
+
+**#293 · 5s · DOCUMENT**
+"He married five times, and as Dalrymple put it, every marriage added to a growing pile of litigation."
+**Image Prompt:** Overhead documentary photograph style: a growing stack of legal folders tied with ribbon on a desk, five slim folders on top, desk-lamp light, no readable text.
+**Camera:** Top-down, slow pull back · **Lighting:** Lamp · **Mood:** Accumulating cost · **Action:** Folders drop onto the pile one by one
+**Edit:** Quote card "'a growing pile of litigation' — William Dalrymple". No wedding imagery, no faces (privacy).
+
+**#294 · 4s · ARCHIVE**
+"Settlements, lawsuits and failed ventures ate into what was left."
+**Image Prompt:** Authentic 1980s photograph style, faded colour print: an empty homestead office with a desk covered in unpaid invoices and bank letters, a ceiling fan, film grain, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Window · **Mood:** Erosion · **Action:** Papers flutter under the fan
+
+**#295 · 3s · GRAPHIC**
+"Look at it the way an accountant would."
+**Image Prompt:** Brand graphic: a vintage two-column accounts ledger page in ivory lines on charcoal #141414, a muted gold ruled line down the middle, no text.
+**Camera:** Top-down · **Lighting:** Even · **Mood:** Clarity · **Action:** Ledger draws on
+**Edit:** Column heads "WHAT HE HAD" / "WHAT IT COST" (this graphic runs through #296–#300 as one animated shot).
+
+**#296 · 4s · GRAPHIC**
+"On one side were assets that were hard to turn into cash quickly: jewels, palaces, land."
+**Edit:** Left column fills: "JEWELS · PALACES · LAND" with a small padlock icon on each ("HARD TO SELL").
+
+**#297 · 5s · GRAPHIC**
+"On the other was a steady drain that never stopped: a household to support, legal fees, settlements, and a station that lost money."
+**Edit:** Right column fills: "HOUSEHOLD · LEGAL FEES · SETTLEMENTS · STATION LOSSES", each with a dripping-tap icon ("EVERY MONTH").
+
+**#298 · 4s · DOCUMENT**
+"And much of what remained was controlled by trusts and courts, not by him."
+**Image Prompt:** Overhead documentary photograph style: the trust deeds from #223 under a judge's gavel and a court seal, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** No control · **Action:** Highlight on the seal
+**Edit:** "CONTROL: TRUSTEES · COURTS".
+
+**#299 · 5s · GRAPHIC**
+"When money goes out every month and comes in only when something is sold, you keep selling."
+**Image Prompt:** Brand graphic: the two-column ledger again on charcoal #141414.
+**Edit:** An arrow loops from the right column back to the left; left items fade one by one ("SOLD… SOLD…").
+
+**#300 · 4s · DOCUMENT**
+"The records don't give us a full balance sheet. But the pattern is clear."
+**Image Prompt:** Overhead documentary photograph style: an old balance sheet form with most boxes empty and a few faint pencilled figures (illegible), a pencil and an eraser beside it, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Honest limits · **Action:** Push to the empty boxes
+**Edit:** Small tag "NO FULL BALANCE SHEET EXISTS" (honesty marker).
+
+**#301 · 3s · GRAPHIC (fortune counter)**
+[FORTUNE COUNTER: FALLING]
+**Image Prompt:** Brand graphic: charcoal #141414 with the downward muted gold line from #291 continuing to fall, no text.
+**Edit:** Counter "FALLING" (no number: no reliable figure, section 1, B15).
+
+**#302 · 5s · LUXURY**
+"And back in Hyderabad, with their owner on the other side of the world, the great palaces stood half empty."
+**Image Prompt:** Photoreal documentary style: a vast palace drawing room with half its furniture under dust sheets and the rest gone, pale rectangles on the walls where paintings once hung, dusty light, film grain, no people, no text.
+**Camera:** Wide, slow push · **Lighting:** Dusty window shafts · **Mood:** Abandonment · **Action:** Dust drifts
+
+**#303 · 4s · ARCHIVE**
+"According to Dalrymple and others, they were looted, piece by piece."
+**Image Prompt:** Authentic 1980s photograph style, faded print: an empty glass display cabinet in a palace corridor with its door hanging open and dust outlines where objects stood, film grain, no people, no text.
+**Camera:** Close, slow push · **Lighting:** Flat · **Mood:** Loss · **Action:** The cabinet door swings slightly
+**Edit:** Tag "ACCORDING TO DALRYMPLE AND OTHERS". No named culprits.
+
+**#304 · 4s · GRAPHIC**
+"Then came the sale that tells you more about this story than almost anything else."
+**Image Prompt:** Brand graphic: a wax-seal red auction lot tag on a string lying on charcoal #141414, muted gold light, no text.
+**Camera:** Close, slow push · **Lighting:** Spot · **Mood:** Anticipation · **Action:** The tag turns over
+**Edit:** 1s silence after the line.
+
+**#305 · 4s · DOCUMENT**
+"Remember the jewel trusts, set up in the early 1950s to protect the family's treasures?"
+**Image Prompt:** Overhead documentary photograph style: the two trust deeds from #223, now yellowed further and with frayed ribbons, desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Callback · **Action:** Highlight sweep
+**Edit:** Labels "1951 · 1952" return.
+
+**#306 · 4s · ERA COLOR (1970s)**
+"By the 1970s, the family and the government were negotiating over them."
+**Image Prompt:** 1970s faded colour photograph style: a government meeting room in New Delhi with a long table, files, water glasses and empty chairs, ceiling fans, warm faded tones, grain, no people, no readable text.
+**Camera:** Wide, slow push · **Lighting:** Window · **Mood:** Negotiation · **Action:** Push-in
+
+**#307 · 2s · ARCHIVE**
+"The talks dragged on for years."
+**Image Prompt:** Authentic black-and-white photograph style: a wall calendar in an office with many pages torn off and piled on the floor, film grain, no people, no text.
+**Camera:** Static push · **Lighting:** Flat · **Mood:** Delay · **Action:** Another page falls
+
+**#308 · 5s · ERA COLOR (1990s)**
+"There were injunctions, appeals, and finally a ruling from India's Supreme Court in 1994."
+**Image Prompt:** 1990s 35mm colour photograph style: the Supreme Court of India building in New Delhi with its central dome and the scales-of-justice sculpture, lawns in front, muted colour, grain, documentary realism, no readable text.
+**Camera:** Wide, low angle, slow push · **Lighting:** Morning · **Mood:** Final authority · **Action:** Push-in
+**Edit:** Caption "SUPREME COURT OF INDIA · 1994".
+
+**#309 · 6s · LUXURY (triptych) · [REAL PHOTO preferred]**
+"And in 1995, after more than twenty years of legal battles, the Government of India bought one hundred and seventy-three pieces of the Nizam's jewellery,"
+**Image Prompt:** [REAL PHOTO] preferred: National Museum / exhibition photos of the Nizam's jewellery (licensed). AI fallback: triptych of three photoreal museum stills side by side, (1) an emerald and diamond necklace, (2) a jewelled turban ornament, (3) pearl strands, each on black velvet under museum spots, no text.
+**Camera:** Panels revealed one at a time · **Lighting:** Museum spots · **Mood:** Sale of a lifetime · **Action:** Panels appear in turn
+
+**#310 · 3s · GRAPHIC (price-tag reveal)**
+"for around two hundred and eighteen crore rupees."
+**Image Prompt:** Brand graphic: the wax-seal red lot tag from #304 on charcoal #141414, now face up, no AI text.
+**Edit:** Price tag "173 JEWELS · ~Rs 218 CRORE (1995)" (only counter on screen).
+
+**#311 · 4s · DOCUMENT**
+"Two hundred and eighteen crore rupees is an enormous amount of money."
+**Image Prompt:** Overhead documentary photograph style: a 1990s Indian government sale agreement with an official seal and a cheque clipped to it (amount unreadable), desk-lamp light, no readable text.
+**Camera:** Top-down, slow push · **Lighting:** Lamp · **Mood:** Big number · **Action:** Highlight sweep
+
+**#312 · 5s · ARCHIVE**
+"But it arrived only after twenty years of lawyers, and the treasures themselves now belonged to the nation."
+**Image Prompt:** Authentic 1990s photograph style, faded print: a museum storage room with sealed steel cases on trolleys and a security guard's empty chair, film grain, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Fluorescent · **Mood:** Gone from the family · **Action:** A case door closes (edit)
+
+**#313 · 4s · LUXURY**
+"The protection the old Nizam had built around his jewels had kept them together."
+**Image Prompt:** Photoreal still: a complete set of matching Mughal-style jewels arranged together in one museum case, emeralds, diamonds and pearls, museum lighting, no text.
+**Camera:** Slow push · **Lighting:** Spots · **Mood:** Intact · **Action:** Push-in
+
+**#314 · 3s · GRAPHIC**
+"It had not kept them in the family."
+**Image Prompt:** Brand graphic: the family-tree silhouette on charcoal #141414 with an empty jewel-shaped space beside it, no text.
+**Edit:** The gold jewel icon slides off the tree into a vault icon.
+
+**#315 · 3s · ARCHIVE**
+"Among them was a diamond of about one hundred and eighty-five carats."
+**Image Prompt:** Authentic black-and-white photograph style: a jeweller's loupe and tweezers beside an empty velvet ring box on a table, film grain, vignette, no text.
+**Camera:** Close, slow push · **Lighting:** Spot · **Mood:** Recognition · **Action:** Push-in
+
+**#316 · 5s · LUXURY (callback) · [REAL PHOTO: Jacob Diamond.jpg]**
+"The Jacob Diamond. The stone found in a dead man's shoe. The paperweight."
+**Image Prompt:** [REAL PHOTO]: *Jacob Diamond.jpg* (Wikipedia), slow push-in. Then the freeze-frame from #072 (the paperweight polaroid) returns as an inset.
+**Camera:** Slow push · **Mood:** Full circle · **Action:** The inset slides in on "The paperweight."
+**Edit:** 1s silence before "The paperweight."
+
+**#317 · 4s · GRAPHIC (motif: THE VAULT)**
+[CALLBACK: THE PAPERWEIGHT, NOW BEHIND VAULT DOORS]
+**Image Prompt:** Photoreal cinematic still: a modern high-security bank vault with a thick steel door closing, cold blue-white light, polished floor, no people, no readable text.
+**Camera:** Straight-on, slow push · **Lighting:** Cold · **Mood:** Meaning reversal · **Action:** The door closes on the polaroid inset
+**Edit:** Heavy low thud.
+
+**#318 · 3s · ARCHIVE**
+"Today it no longer sits on anyone's desk."
+**Image Prompt:** Authentic sepia photograph style: the old palace office desk from #073, now empty and dusty, papers gone, film grain, no people, no text.
+**Camera:** Medium, slow push · **Lighting:** Window · **Mood:** Absence · **Action:** Push to the empty spot
+
+**#319 · 4s · ERA COLOR (present day)**
+"It's owned by the Government of India, and held in a Reserve Bank of India vault."
+**Image Prompt:** Present-day documentary colour photograph: the facade of the Reserve Bank of India headquarters in Mumbai, a tall modern tower beside the older building, security barriers, overcast light, photoreal, no readable text.
+**Camera:** Low angle, slow tilt up · **Lighting:** Overcast · **Mood:** Institutional · **Action:** Tilt up
+**Edit:** Caption "OWNED BY THE GOVERNMENT OF INDIA · RBI VAULT, MUMBAI".
+
+**#320 · 3s · GRAPHIC**
+"The symbol of unlimited wealth had become something else:"
+**Image Prompt:** Brand graphic: an ivory line drawing of the diamond on charcoal #141414, slowly turning, muted gold rim, no text.
+**Action:** The outline turns
+
+**#321 · 5s · LUXURY**
+"proof that owning a treasure is not the same as controlling a fortune."
+**Image Prompt:** Photoreal still: the large diamond seen through the bars of a steel safe-deposit grille, cold light on the bars and a warm sparkle in the stone, shallow depth of field, no text.
+**Camera:** Close, slow push · **Lighting:** Cold vs warm · **Mood:** Lesson · **Action:** Focus shifts from the bars to the stone
+**Edit:** "OWNING ≠ CONTROLLING", held 3s.
+
+**#322 · 5s · ERA COLOR (1990s)**
+"In 1996, the sheep station was sold to pay his debts, and the eighth Nizam moved to Turkey, his mother's homeland."
+**Image Prompt:** 1990s 35mm colour photograph style: a "FOR SALE" style auction board (unreadable) at the gate of an outback homestead, red dust, an empty veranda behind, muted colour, grain, no people, no readable text.
+**Camera:** Medium, slow push · **Lighting:** Harsh sun · **Mood:** Final sale · **Action:** Push to the gate
+**Edit:** Caption "1996 · SOLD TO PAY DEBTS".
+
+**#323 · 3s · MAP**
+[MAP: PERTH → TURKEY]
+**Image Prompt:** Vintage world map on aged paper, overhead lamp light, no readable text.
+**Edit:** Map line draws "PERTH → TURKEY".
+
+**#324 · 5s · ARCHIVE**
+"Not one catastrophe, then. A long, slow leak: sales, settlements and lawsuits, one after another."
+**Image Prompt:** Authentic black-and-white photograph style: water dripping steadily from an old brass tap into a stone basin, droplets caught mid-fall, film grain, no people, no text.
+**Camera:** Close, static push · **Lighting:** Side light · **Mood:** Slow loss · **Action:** Drips fall
+**Edit:** "SALES · SETTLEMENTS · LAWSUITS" one at a time.
+
+**#325 · 3s · GRAPHIC (motif)**
+"But there was one part of the fortune still left."
+**Image Prompt:** Photoreal cinematic still: the 1940s steel vault door from #199, still closed, the paper ledger tag on its handle, cold blue light, cobwebs on the bolts, no readable text.
+**Camera:** Straight-on, slow push · **Lighting:** Cold blue · **Mood:** Open loop · **Action:** Push to the tag
+
+**#326 · 3s · ARCHIVE**
+"In London, the money was still waiting."
+**Image Prompt:** Authentic black-and-white photograph style: the City of London bank facade from #018 at night, a single lit window, film grain, no people, no readable text.
+**Camera:** Low angle, slow push · **Lighting:** Night · **Mood:** Suspense · **Action:** The lit window flickers
+**Edit:** Frozen-years ticker returns "1948 → …". Low hit into Document IX (no ad break here: v1.1).
+
+*Batch 4: 73 beats (#254–#326) · Documents VII–VIII (~5.4 min). Running total 326. Next: Batch 5 = Document IX, What Was Actually Lost, File Lesson, CTA.*
