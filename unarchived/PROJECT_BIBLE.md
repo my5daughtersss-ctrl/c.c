@@ -359,7 +359,7 @@ Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly
 ### Description block template
 ```
 📂 FREE: The Family Legacy Checklist
-The simple steps history's richest families missed, and how to protect yours.
+A short, plain list of what to write down, and who needs to know, so your family isn't left guessing.
 👉 [email sign-up link]
 
 📚 SOURCE: [Biography title] by [Author]
