@@ -193,6 +193,8 @@
 - Ad break 4 moved from before the ruling to after it (after the 120-relatives line). The ruling plays uninterrupted.
 - Next-file bridge → "what happens when the person who builds a fortune no longer gets to decide what becomes of it?" CTA "History, or heirs?" kept (Bible rule).
 
+**Narration (Oct 29 2026):** AI voice, ElevenLabs (paid; owner decision). Recording copy with sound-alike spellings and pauses: `unarchived/files/FILE_001_NARRATION_ELEVENLABS.txt` (11 sections, ~24,300 characters). Captions must use the real spellings from this section. ⚠️ Check "Zubrzycki" pronunciation against an interview with the author before final export.
+
 **Source-to-script audit (every line checked against section 1):**
 - ✂️ Cut: the "Ottoman ancestors were shepherds" quote (1 garbled secondhand source, Outlook) · "couldn't stand the sight of it" for the Jacob Diamond (no solid source; the court case itself ✅ Wikipedia + Tillism) · "men who had all been dead for decades" (unverified) · "concubines *and their children*" (C7 says 42 concubines only).
 - ✅ Tightened: legal costs → "sixty-five percent of the other sides' legal costs, up front" (Dec 2019 order: The News Minute; TBS News/AFP). Replaces "most of the legal costs".
