@@ -346,7 +346,7 @@ Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly
 
 ## 7. MONETIZATION
 - **Ads:** expected RPM about $6–7 (Undertold $6.65). Money and legal framing may lift it; check in YouTube Studio by video 10.
-- **Free Family Legacy Checklist PDF** (3 pages, branded) behind an email sign-up (Beehiiv, Kit/ConvertKit or MailerLite). The email list is used later for estate-planning offers.
+- **Free Family Legacy Checklist PDF** (3 pages, branded) behind an email sign-up on **Substack (chosen Oct 29 2026: 100% free, unlimited subscribers)**: https://unarchivedfortunes.substack.com/subscribe · PDF hosted on Google Drive, delivered by the welcome email (download button) + backup pinned post "Welcome to Unarchived Fortunes" · theme switched to Custom (Profile theme holds welcome emails until 2 posts) · ⏳ welcome email delivery still being confirmed (support ticket open) · Substack may ask some new sign-ups for a 6-digit code (spam protection; cannot be switched off) · **no Amazon links in Substack emails/posts** · images: lead-magnet/checklist_social_1600x900.png (social preview), checklist_hero_1600x900.png (hero). The email list is used later for estate-planning offers.
 - **Amazon Associates:** sign up at affiliate-program.amazon.com, add the YouTube channel, get the short link via SiteStripe.
   - ⚠️ 3 qualifying sales within 180 days or the account closes.
   - ⚠️ Required disclosure: "As an Amazon Associate I earn from qualifying purchases."
@@ -360,7 +360,7 @@ Close-up of an antique gold coin engraved as a Wheel of Fortune, spinning slowly
 ```
 📂 FREE: The Family Legacy Checklist
 A short, plain list of what to write down, and who needs to know, so your family isn't left guessing.
-👉 [email sign-up link]
+👉 https://unarchivedfortunes.substack.com/subscribe
 
 📚 SOURCE: [Biography title] by [Author]
 👉 [amzn.to link]
@@ -376,7 +376,7 @@ This video is for historical and educational purposes. Nothing here is legal or 
 - STATE 3 ✅ Transcripts: Genain, Rose Williams, Lucia Joyce, Camille Claudel
 - STATE 4 ✅ Ideas generated (most are now saturated, see section 3)
 - STATE 5 ✅ Style DNA (section 5)
-- **File 001 Nizam of Hyderabad (current):** STATE 6 ✅ script v1.1 (4,217 words, 3rd external review applied + full source-to-script audit, Oct 26 2026) · STATE 7 ✅ Visual Style Profile (frozen-vault motif) + face reference sheet (real photos / AI with reference; no AI faces of living people) · STATE 8 ✅ 392 image prompts in 5 batches · **⏳ NEXT: STATE 9 video prompts (optional; ask the owner)** → STATE 10–11 thumbnails → publish & revenue playbook → STATE 12 export. Owner to-do: set up the email sign-up page; refresh the checklist PDF example.
+- **File 001 Nizam of Hyderabad (current):** STATE 6 ✅ script v1.1 (4,217 words, 3rd external review applied + full source-to-script audit, Oct 26 2026) · STATE 7 ✅ Visual Style Profile (frozen-vault motif) + face reference sheet (real photos / AI with reference; no AI faces of living people) · STATE 8 ✅ 392 image prompts in 5 batches · **⏳ NEXT: STATE 9 video prompts (optional; ask the owner)** → STATE 10–11 thumbnails → publish & revenue playbook → STATE 12 export. Owner to-do: confirm the Substack welcome email arrives; download the free photos (FILE_001_assets/CREDITS_AND_DOWNLOAD_LIST.md); Amazon Associates sign-up. ✅ checklist PDF refreshed · ✅ Substack sign-up page live.
 - File 003 Huntington Hartford (formerly 001): script v2.2, 560 image prompts, publish & revenue playbook done; next STATE 9 video prompts (optional). Visual Style Profile locked (Undertold base plus Old Money luxury and maps, era-matched color).
 
 ---
@@ -411,4 +411,4 @@ This video is for historical and educational purposes. Nothing here is legal or 
 Supporting files:
 - `unarchived/CHANNEL_MODEL_v2.md` (the master workflow prompt, saved word for word, plus Claude's notes)
 - `unarchived/scripts/VAULT_edith_rockefeller.md` (vaulted script, fact-checked, 4,905 words, rebranded)
-- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` + `checklist.html` (editable source). ⚠️ **Before File 001 launches:** replace the Edith Rockefeller example with a universal opening or the Nizam's story (a fortune split across trusts and fought over for 70 years), and set up the email sign-up page (roadmap: before video 1).
+- `unarchived/lead-magnet/Unarchived_Fortunes_Family_Legacy_Checklist.pdf` + `checklist.html` (editable source). ✅ Nizam example (Oct 27). Sign-up page: Substack (section 7).
