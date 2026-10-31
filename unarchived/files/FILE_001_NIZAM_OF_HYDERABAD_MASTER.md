@@ -649,6 +649,26 @@ But every fortune has a fate, and the archive is still open.
 | **Princess Elizabeth / the Queen** | Licensed photos (Royal Collection Trust, PA, Getty), including the Nizam necklace portraits | [REAL PHOTO] only, never AI |
 | **The Jacob Diamond** | Wikipedia: *Jacob Diamond.jpg* (the real stone) | [REAL PHOTO] + [AI + REF] for the desk and paperweight scenes so the cut and shape match |
 
+### 4i. REFERENCES FIRST, THEN BULK (owner workflow, Oct 31 2026)
+**Step 1 · Save these references in Flow first** (Characters for faces, Library/Scenes for places and objects). Use the exact names below; the bulk prompts call them by name ("Use the saved reference: …").
+| Saved name in Flow | Kind | Source |
+|---|---|---|
+| Nizam 1930s | Character (face) | `FILE_001_assets/REFERENCES/REF_Nizam_1930s.jpg` (1926 photo, public domain) |
+| Falaknuma Palace | Place | `REFERENCES/REF_Falaknuma_Palace.jpg` (Commons, CC BY-SA) |
+| Chowmahalla Palace | Place | `REFERENCES/REF_Chowmahalla_Palace.jpg` (Commons, CC BY-SA) |
+| Charminar | Place | `REFERENCES/REF_Charminar.jpg` (Commons) |
+| King Kothi | Place | `REFERENCES/REF_King_Kothi.jpg` (Commons, CC BY-SA) |
+| Osmania Arts College | Place | `REFERENCES/REF_Osmania_Arts_College.jpg` (Commons, CC BY-SA) |
+| Jacob Diamond | Object | `REFERENCES/REF_Jacob_Diamond.jpg` (Commons, CC BY-SA) + the approved cushion-cut test image |
+| Murchison House Station | Place | ⏳ owner downloads "Murchison House Station.jpg" from Wikimedia (download was rate-limited) |
+| Vault Door | Object (AI master) | the approved **frontal, centred** vault test image |
+| Durbar Throne Hall | Place (AI master) | generate **#020** first, approve it, save it |
+| Palace Office Desk | Place (AI master) | generate **#073** first, approve it, save it |
+**Step 2 · Test one bulk line** (e.g. #037) to confirm Flow picks up the saved reference by name. If it doesn't, Flow needs a different syntax (e.g. @name): find-and-replace "Use the saved reference: " in the file.
+**Step 3 · Run the bulk file:** `unarchived/files/FILE_001_FLOW_BULK_PROMPTS.txt` = **345 prompts, one per line, in video order**, ages and references already written in. Nano Banana 2.1, 16:9, 2K, 90-second gaps, random range on, batches of 20–40. The extension downloads in order with numbering, so download N = line N.
+**Step 4 · Index:** `FILE_001_FLOW_PROMPT_INDEX.csv` maps every line to its beat number, narration, seconds, references, and which 13 shots to redo in **Pro** (6 at **4K**).
+**Not in the bulk file (47 beats):** real photos used directly (faces, documents, book cover, the Mar-a-Lago 1928 photo), editor graphics (cards, stamps, holds, the coin sting).
+
 ### 4c. IMAGE PROMPTS · BATCH 1 of ~5 (Cold open, Documents I–II)
 
 #### COLD OPEN
