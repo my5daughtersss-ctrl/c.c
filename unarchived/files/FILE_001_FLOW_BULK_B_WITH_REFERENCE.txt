@@ -1,0 +1,98 @@
+FILE 001 · BULK B · PROMPTS THAT NEED A REFERENCE PHOTO
+Run one group at a time: attach that group's reference photo once in Flow, then run the group's lines.
+
+============================================================
+GROUP: Falaknuma Palace · attach REF_Falaknuma_Palace.jpg · 4 prompts · beats #001, #353, #355, #363
+============================================================
+Photoreal documentary style: the Falaknuma Palace in Hyderabad on its hilltop at dusk, white neoclassical facade on its hill with terraces and a grand staircase leading up, warm gold lamplight on the left side of the facade fading gradually across the centre into cold blue dusk shadow on the right (a soft natural transition, no hard dividing line), empty forecourt, overcast purple sky, wide establishing shot, fine film grain, no people, no text.
+Present-day documentary colour photograph: the Falaknuma Palace on its hilltop above Hyderabad in daylight, the white facade fully restored, manicured gardens and a horse-drawn carriage at the entrance, photoreal, no readable text.
+Split-screen: left, an authentic 1930s sepia photograph of the Falaknuma Palace; right, the same angle in present-day colour (from #353), matched composition, no text.
+Present-day documentary colour photograph: Falaknuma Palace facade at blue hour, lights glowing, photoreal, no text.
+
+============================================================
+GROUP: Durbar Throne Hall · attach REF_Durbar_Throne_Hall.jpg · 10 prompts · beats #007, #020, #023, #024, #107, #134, #162, #197, #253, #366
+============================================================
+1960s Kodachrome color photograph style: a grand durbar hall in a Hyderabad palace, white marble columns and crystal chandeliers, rows of courtiers in black sherwanis and red fezzes standing in lines, a young man in a long black sherwani seen from behind walking toward a gilded throne at the far end, warm saturated color, grain, documentary realism, no faces, no text.
+Photoreal documentary style: a vast palace durbar hall at night, rows of crystal chandeliers, half of them unlit, a single empty gilded throne at the far end, polished marble floor reflecting the remaining lights, deep shadows, film grain, no people, no text.
+Photoreal documentary style: a gilded silver throne with red velvet cushions under a carved canopy in an ornate Indian palace hall, low angle, warm lamp glow, dust in the air, film grain, no people, no text.
+Authentic 18th-century engraving style, aged sepia paper: a Mughal imperial court scene in decline, an emperor on a throne surrounded by nobles turning away, cracks and foxing on the paper, fine hatched linework, documentary museum look, no text.
+Photoreal documentary style: the gilded throne in an empty Hyderabad durbar hall with a British crown emblem embroidered on a cushion nearby, warm lamplight, deep shadow, film grain, no people, no text.
+1950s Kodachrome colour photograph style: a teenage boy in an English school blazer seen from behind, standing alone at the end of a vast palace hall facing a gilded throne, warm saturated colour, slight halation, grain, no face, no text.
+Photoreal documentary style: the gilded Nizam's throne in a dim durbar hall with a dust sheet being drawn over it, chandeliers dark, film grain, no faces, no text.
+Diptych of two authentic 1940s black-and-white photographs: (left) a new national flag rising on a pole above a government building, (right) an empty palace throne room, matched grain and vignette, documentary realism, no readable text.
+1960s Kodachrome colour photograph style: the Chowmahalla durbar hall prepared for a ceremony, courtiers in black sherwanis lining the aisle, a young man in a long black sherwani seen from behind approaching the throne, warm saturated colour, grain, no faces, no text.
+Photoreal documentary style: the empty gilded throne under a dust sheet in a dark hall, a single beam of light on it, film grain, no people, no text.
+
+============================================================
+GROUP: Jacob Diamond · attach REF_Jacob_Diamond.jpg · 8 prompts · beats #015, #016, #063, #066, #070, #075, #232, #321
+============================================================
+Authentic 1930s sepia photograph style: a cluttered wooden desk in a dim palace office, piles of papers and files, an old inkwell, a brass lamp, and in the middle a large cushion-cut clear diamond resting on the papers, faint glint, film grain, vignette, documentary realism, no text.
+Photoreal macro photograph: a huge cushion-cut colourless diamond about the size of a hen's egg, holding down a stack of yellowed handwritten letters on a dark wooden desk, warm lamplight refracting rainbow sparks onto the paper, extreme texture, shallow depth of field, no readable text.
+Photoreal macro photograph: a large cushion-cut colourless diamond held between a man's fingertips against a black background, a single hard light making it blaze, rainbow fire, extreme detail, no text.
+Overhead documentary photograph style: an aged jeweller's appraisal card with a pencil sketch of a cushion-cut diamond and measurements, a loupe resting on it, desk-lamp light, no readable text.
+Photoreal macro photograph: the huge cushion-cut diamond resting on a stack of yellowed government papers on a wooden desk, warm lamp, sparkles on the paper, a fountain pen nearby, shallow depth of field, no readable text.
+Photoreal still: a large diamond on grey felt inside a steel safe-deposit tray, cold fluorescent light, sterile and institutional, no text.
+Photoreal still, matching the attached reference for the diamond's cushion cut and shape: the large diamond on a desk beside an empty pay envelope, warm lamplight, shallow depth of field, no readable text.
+Photoreal still: the large diamond seen through the bars of a steel safe-deposit grille, cold light on the bars and a warm sparkle in the stone, shallow depth of field, no text.
+
+============================================================
+GROUP: Vault Door · attach REF_Vault_Door.jpg · 11 prompts · beats #019, #074, #199, #204, #206, #207, #325, #328, #331, #339, #364
+============================================================
+Real photograph, not CGI, 35mm documentary look: a massive round 1940s steel bank vault door with brass bolts and a combination wheel, closed, a small paper ledger tag tied to the handle, cold blue light, faint frost-like haze on the steel, deep black background, no readable text.
+Real photograph, not CGI, 35mm documentary look: a heavy steel vault door, slightly out of focus, cold blue light, deep black, no text.
+Real photograph, not CGI, 35mm documentary look: a massive round 1940s steel bank vault door with brass bolts and a combination wheel swinging shut, a small paper ledger tag on the handle, cold blue light, deep black background, no readable text.
+Brand graphic: a slowly growing stack of gold coins on charcoal #141414 beside the closed vault door silhouette, muted gold light, no text.
+Photoreal still: a brass vault combination dial in close-up, cold blue light, scratches on the metal, no text.
+Authentic black-and-white photograph style: a hand in a suit sleeve resting flat on a closed steel vault door, film grain, vignette, no face, no text.
+Real photograph, not CGI, 35mm documentary look: the 1940s steel vault door from #199, still closed, the paper ledger tag on its handle, cold blue light, cobwebs on the bolts, no readable text.
+Real photograph, not CGI, 35mm documentary look: the 1940s steel vault door with the ledger tag, cold blue light, a faint layer of dust thickening on the steel, deep black background, no readable text.
+Photoreal still: the brass combination dial of the old vault door in extreme close-up, tarnished green with age, a cobweb across it, cold light, no text.
+Real photograph, not CGI, 35mm documentary look: the 1940s steel vault door swinging open, warm golden light spilling out from inside onto the dusty floor, cold blue light outside, no people, no readable text.
+Photoreal cinematic still: the open 1940s vault door with warm light inside, now empty, cold light outside, no text.
+
+============================================================
+GROUP: Nizam 1930s · attach REF_Nizam_1930s.jpg · 3 prompts · beats #037, #089, #122
+============================================================
+1930s hand-tinted photograph style, matching the attached reference photo exactly for the face, round wire-rimmed spectacles, dark moustache and slim build: the Nizam of Hyderabad aged about 50, moustache beginning to grey in a long dark sherwani seated on a carved chair in a palace room, pastel tint on the silk drapes, film grain, documentary realism, no text.
+1930s hand-tinted photograph style, matching the attached reference photo for the face, round wire-rimmed spectacles, dark moustache and slim build: the Nizam of Hyderabad aged about 55, moustache greying, standing in a plain palace room in crumpled loose white cotton pyjamas and a worn, faded fez, hands behind his back, pastel tint, film grain, documentary realism, no text.
+1930s hand-tinted photograph style, matching the attached reference photo for the face, round wire-rimmed spectacles and dark moustache: the Nizam of Hyderabad aged about 50 seated alone on a plain chair in a grand empty hall, small in the frame, pastel tint, film grain, documentary realism, no text.
+
+============================================================
+GROUP: Palace Office Desk · attach REF_Palace_Office_Desk.jpg · 4 prompts · beats #069, #073, #125, #318
+============================================================
+Authentic 1920s sepia photograph style: a palace office with a heavy desk, piled files, a lamp and a chair pushed back, seen through a half-open door, film grain, vignette, no people, no text.
+Authentic 1930s sepia photograph style: a wide view of the palace office desk with the faint sparkle of the diamond among papers, a ceiling fan, shutters, film grain, documentary realism, no people, no text.
+Authentic 1960s black-and-white photograph style: an empty chair behind a large desk in a palace office, papers neatly stacked, a fez left on the desk, film grain, vignette, no people, no text.
+Authentic sepia photograph style: the old palace office desk from #073, now empty and dusty, papers gone, film grain, no people, no text.
+
+============================================================
+GROUP: Osmania Arts College · attach REF_Osmania_Arts_College.jpg · 1 prompts · beats #098
+============================================================
+1930s hand-tinted photograph style: the grand Arts College building of Osmania University in Hyderabad, pale granite with a mix of Indo-Islamic arches and domes, students in sherwanis walking on the lawns, pastel tint, film grain, documentary realism, faces small, no text.
+
+============================================================
+GROUP: Charminar · attach REF_Charminar.jpg · 3 prompts · beats #142, #249, #350
+============================================================
+1940s hand-tinted photograph style: the Charminar monument in Hyderabad standing alone against a wide sky, an empty square before it at dawn, pastel tint, film grain, documentary realism, no text.
+1960s Kodachrome colour photograph style: the old city of Hyderabad seen from a rooftop, streets filled with people dressed in white, the Charminar in the distance, warm saturated colour, grain, faces too small to identify, no text.
+Present-day documentary colour photograph: the Charminar in Hyderabad at golden hour with traffic and street life around it, photoreal, faces small, no readable text.
+
+============================================================
+GROUP: King Kothi · attach REF_King_Kothi.jpg · 2 prompts · beats #171, #247
+============================================================
+Authentic 1950s black-and-white photograph style: King Kothi palace facade in Hyderabad with guards at the gate, film grain, documentary realism, no readable text.
+Authentic 1967 black-and-white photograph style: King Kothi palace gates closed at dusk, a few mourners standing quietly outside, film grain, documentary realism, faces small, no text.
+
+============================================================
+GROUP: Chowmahalla Palace · attach REF_Chowmahalla_Palace.jpg · 2 prompts · beats #228, #352
+============================================================
+Photoreal documentary style: Chowmahalla Palace's grand Khilwat durbar hall with its chandeliers and a white marble platform, slightly faded walls, warm light, film grain, no people, no text.
+Photoreal documentary style: Chowmahalla Palace's restored Khilwat durbar hall with gleaming chandeliers and fresh white marble, warm light, no people, no text.
+
+============================================================
+GROUP: Murchison House Station · attach REF_Murchison_House_Station.jpg · 4 prompts · beats #286, #288, #294, #322
+============================================================
+Photoreal documentary style: a large old colonial-style homestead with a corrugated-iron roof and a wide veranda on the Murchison River in Western Australia, a mob of sheep moving across red paddocks in front, golden evening light, film grain, no faces, no text.
+1970s faded colour photograph style, matching the attached reference for build and hair: a man in a short-sleeved shirt and a broad-brimmed hat seen from behind at a distance, standing at a homestead gate looking over red paddocks, warm grain, no face visible, no text.
+Authentic 1980s photograph style, faded colour print: an empty homestead office with a desk covered in unpaid invoices and bank letters, a ceiling fan, film grain, no people, no readable text.
+1990s 35mm colour photograph style: a "FOR SALE" style auction board (unreadable) at the gate of an outback homestead, red dust, an empty veranda behind, muted colour, grain, no people, no readable text.
