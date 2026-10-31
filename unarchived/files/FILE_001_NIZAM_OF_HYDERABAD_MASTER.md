@@ -858,7 +858,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#037 · 3s · ERA COLOR (1930s hand-tinted) · [AI + REF: Osman Ali Khan, 1930s photo]**
 "and called him the richest man in the world."
-**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo exactly for the face, moustache, build and headwear: the middle-aged Nizam of Hyderabad in a long dark sherwani seated on a carved chair in a palace room, pastel tint on the silk drapes, film grain, documentary realism, no text.
+**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo exactly for the face, round wire-rimmed spectacles, dark moustache and slim build: the middle-aged Nizam of Hyderabad in a long dark sherwani seated on a carved chair in a palace room, pastel tint on the silk drapes, film grain, documentary realism, no text.
 **Camera:** Medium-wide, slow push · **Lighting:** Soft window light · **Mood:** Mythic status · **Action:** Push-in
 **Edit:** Stamp "FACT".
 
@@ -1149,7 +1149,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#089 · 4s · ERA COLOR (1930s hand-tinted) · [AI + REF: Osman Ali Khan, 1930s–40s photo]**
 "By several accounts, the Nizam wore crumpled pajamas and a tattered fez,"
-**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo for the face, moustache and build: the Nizam of Hyderabad standing in a plain palace room in crumpled loose white cotton pyjamas and a worn, faded fez, hands behind his back, pastel tint, film grain, documentary realism, no text.
+**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo for the face, round wire-rimmed spectacles, dark moustache and slim build: the Nizam of Hyderabad standing in a plain palace room in crumpled loose white cotton pyjamas and a worn, faded fez, hands behind his back, pastel tint, film grain, documentary realism, no text.
 **Camera:** Medium-wide, eye level, slow push · **Lighting:** Soft window light · **Mood:** Unexpected modesty · **Action:** Push-in
 **Edit:** If the face drifts from the reference, switch to [REAL PHOTO] of him in everyday dress.
 
@@ -1333,7 +1333,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#122 · 2s · ERA COLOR (1930s hand-tinted) · [AI + REF: Osman Ali Khan]**
 "The honest answer is both."
-**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo for face, moustache and headwear: the Nizam of Hyderabad seated alone on a plain chair in a grand empty hall, small in the frame, pastel tint, film grain, documentary realism, no text.
+**Image Prompt:** 1930s hand-tinted photograph style, matching the attached reference photo for the face, round wire-rimmed spectacles and dark moustache: the Nizam of Hyderabad seated alone on a plain chair in a grand empty hall, small in the frame, pastel tint, film grain, documentary realism, no text.
 **Camera:** Wide, slow push · **Lighting:** Window shaft · **Mood:** Complex man · **Action:** Push-in
 
 **#123 · 5s · GRAPHIC**
