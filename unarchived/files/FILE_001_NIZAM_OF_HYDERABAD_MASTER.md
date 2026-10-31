@@ -623,6 +623,8 @@ But every fortune has a fate, and the archive is still open.
 - **Innocence image:** the Jacob Diamond on a desk, holding down papers (Doc II), called back behind vault doors (Doc VIII).
 - **Style tags (built into each prompt):** ARCHIVE (sepia/B&W photograph, grain, vignette) · ERA COLOR (the decade's film look) · LUXURY (palace interior, gold light, low angle) · DOCUMENT (aged paper from above, desk-lamp light) · MAP (antique-style map, lines drawn in the edit) · GRAPHIC (brand graphic in the palette).
 
+**Test round 1 (Oct 31 2026, Nano Banana 2.1):** #001 ✅ use the hilltop version with stairs (thumbnail base); fixed the hard vertical light seam in the prompt · #016 ✅ the cushion-cut version (closest to the real Jacob Diamond); squiggle handwriting is fine (illegible) · vault ✅ motif look approved; added "real photograph, not CGI" to all vault prompts (it read slightly game-render) · still to test: an ARCHIVE sepia/B&W shot and a hand-tinted face shot with a reference.
+
 **Likeness and sources:** the 7th Nizam: real archive photographs first (pre-1966 photos are generally public domain in India; confirm each) · Mukarram Jah: licensed photos (Getty/Alamy/AP); AI prompts show him only from behind or at a distance · Princess Elizabeth / the Queen: licensed photos only, no AI likeness · living people: licensed photos or none · the TIME cover: use the real 1937 cover (licensed/fair-use review); the AI fallback is a generic magazine with no logo.
 
 ### 4b-2. CHARACTER FACE REFERENCE SHEET (owner rule, Oct 26 2026: faces must match the archive)
@@ -653,7 +655,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#001 · 3s · LUXURY (first frame = thumbnail base)**
 "January 2023. Hyderabad, India."
-**Image Prompt:** Photoreal documentary style: the Falaknuma Palace in Hyderabad on its hilltop at dusk, white neoclassical facade split down the middle, the left half glowing warm gold from lamplight, the right half sunk in cold blue shadow, empty forecourt, overcast purple sky, wide establishing shot, fine film grain, no people, no text.
+**Image Prompt:** Photoreal documentary style: the Falaknuma Palace in Hyderabad on its hilltop at dusk, white neoclassical facade on its hill with terraces and a grand staircase leading up, warm gold lamplight on the left side of the facade fading gradually across the centre into cold blue dusk shadow on the right (a soft natural transition, no hard dividing line), empty forecourt, overcast purple sky, wide establishing shot, fine film grain, no people, no text.
 **Camera:** Wide, low angle, slow push-in · **Lighting:** Split gold lamplight vs cold dusk shadow · **Mood:** Grand, ominous · **Action:** Shadow line creeps slowly across the facade
 **Edit:** Caption "HYDERABAD, INDIA · JANUARY 2023" in ivory on a charcoal bar, held 3s. The thumbnail must use this split-light palace.
 
@@ -753,7 +755,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#019 · 4s · GRAPHIC (motif: THE FROZEN VAULT)**
 "frozen and untouchable, for seventy-one years?"
-**Image Prompt:** Photoreal cinematic still: a massive round 1940s steel bank vault door with brass bolts and a combination wheel, closed, a small paper ledger tag tied to the handle, cold blue light, faint frost-like haze on the steel, deep black background, no readable text.
+**Image Prompt:** Real photograph, not CGI, 35mm documentary look: a massive round 1940s steel bank vault door with brass bolts and a combination wheel, closed, a small paper ledger tag tied to the handle, cold blue light, faint frost-like haze on the steel, deep black background, no readable text.
 **Camera:** Straight-on, slow push-in · **Lighting:** Cold blue top light · **Mood:** Locked, suspended · **Action:** Slow push toward the tag
 **Edit:** Ticker text "£1,000,000 · FROZEN · 71 YEARS" beside the door.
 
@@ -1059,7 +1061,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#074 · 3s · GRAPHIC (motif tease)**
 "Because before this story ends,"
-**Image Prompt:** Photoreal cinematic still: a heavy steel vault door, slightly out of focus, cold blue light, deep black, no text.
+**Image Prompt:** Real photograph, not CGI, 35mm documentary look: a heavy steel vault door, slightly out of focus, cold blue light, deep black, no text.
 **Camera:** Slow push · **Lighting:** Cold blue · **Mood:** Foreboding · **Action:** Focus pulls in slowly
 
 **#075 · 4s · LUXURY**
@@ -1761,7 +1763,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#199 · 4s · GRAPHIC (motif: THE FROZEN VAULT)**
 "So it did the only thing it could. It froze the account."
-**Image Prompt:** Photoreal cinematic still: a massive round 1940s steel bank vault door with brass bolts and a combination wheel swinging shut, a small paper ledger tag on the handle, cold blue light, deep black background, no readable text.
+**Image Prompt:** Real photograph, not CGI, 35mm documentary look: a massive round 1940s steel bank vault door with brass bolts and a combination wheel swinging shut, a small paper ledger tag on the handle, cold blue light, deep black background, no readable text.
 **Camera:** Straight-on, slow push · **Lighting:** Cold blue · **Mood:** Locked · **Action:** Door closes, bolts slide home
 **Edit:** Heavy low thud. Vault motif + "£1,007,940 · FROZEN · 1948". **Frozen-years ticker starts.**
 
@@ -2463,7 +2465,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#325 · 3s · GRAPHIC (motif)**
 "But there was one part of the fortune still left."
-**Image Prompt:** Photoreal cinematic still: the 1940s steel vault door from #199, still closed, the paper ledger tag on its handle, cold blue light, cobwebs on the bolts, no readable text.
+**Image Prompt:** Real photograph, not CGI, 35mm documentary look: the 1940s steel vault door from #199, still closed, the paper ledger tag on its handle, cold blue light, cobwebs on the bolts, no readable text.
 **Camera:** Straight-on, slow push · **Lighting:** Cold blue · **Mood:** Open loop · **Action:** Push to the tag
 
 **#326 · 3s · ARCHIVE**
@@ -2486,7 +2488,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#328 · 4s · GRAPHIC (frozen-years ticker)**
 [FROZEN-YEARS TICKER: 1948… 1960… 1980… 2000… 2019]
-**Image Prompt:** Photoreal cinematic still: the 1940s steel vault door with the ledger tag, cold blue light, a faint layer of dust thickening on the steel, deep black background, no readable text.
+**Image Prompt:** Real photograph, not CGI, 35mm documentary look: the 1940s steel vault door with the ledger tag, cold blue light, a faint layer of dust thickening on the steel, deep black background, no readable text.
 **Camera:** Straight-on, slow push · **Lighting:** Cold blue · **Mood:** Time frozen · **Action:** Dust settles in time-lapse
 **Edit:** Ticker rolls "1948 · 1960 · 1980 · 2000 · 2019" (only counter).
 
@@ -2548,7 +2550,7 @@ But every fortune has a fate, and the archive is still open.
 
 **#339 · 4s · GRAPHIC (motif payoff)**
 [TICKER STOPS: 71 YEARS]
-**Image Prompt:** Photoreal cinematic still: the 1940s steel vault door swinging open, warm golden light spilling out from inside onto the dusty floor, cold blue light outside, no people, no readable text.
+**Image Prompt:** Real photograph, not CGI, 35mm documentary look: the 1940s steel vault door swinging open, warm golden light spilling out from inside onto the dusty floor, cold blue light outside, no people, no readable text.
 **Camera:** Straight-on, slow push into the light · **Lighting:** Warm inside vs cold outside · **Mood:** Release · **Action:** The door opens, bolts withdraw
 **Edit:** Ticker stops "71 YEARS". Low resonant hit.
 
